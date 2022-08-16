@@ -1,0 +1,5746 @@
+# Translation of Plugins - Unlimited Elements For Elementor (Free Widgets, Addons, Templates) - Development (trunk) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Unlimited Elements For Elementor (Free Widgets, Addons, Templates) - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-29 10:20:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Unlimited Elements For Elementor (Free Widgets, Addons, Templates) - Development (trunk)\n"
+
+#: provider/provider_settings.class.php:1849
+msgid "Override Number Of %s, leave empty for default. If you are using pagination widget, leave it empty"
+msgstr "覆盖 %s 的数量，默认为空。如果您使用分页小部件，请将其留空"
+
+#: inc_php/unitecreator_entrance_animations.class.php:136
+msgid "Step Duration (sec)"
+msgstr "步骤持续时间（秒）"
+
+#: inc_php/unitecreator_entrance_animations.class.php:121
+msgid "Animation Duration (sec)"
+msgstr "动画持续时间（秒）"
+
+#: provider/provider_helper.class.php:59
+msgid "Past From Yesterday"
+msgstr "从昨天开始的过去"
+
+#: provider/provider_helper.class.php:58
+msgid "Past From Today"
+msgstr "从今天开始的过去"
+
+#: provider/provider_helper.class.php:54
+msgid "Today"
+msgstr "今天"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:144
+msgid "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+msgstr "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:129
+msgid "9oedgxuciv"
+msgstr "9oedgxuciv"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:114
+msgid "581014653"
+msgstr "581014653"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:99
+msgid "qrO4YZeyl0I"
+msgstr "qrO4YZeyl0I"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:899
+msgid "Item Class"
+msgstr "项目 Class"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:880
+msgid "Entrance Animation"
+msgstr "入场动画"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:879
+msgid "[Select Type]"
+msgstr "[选择类型]"
+
+#: inc_php/unitecreator_entrance_animations.class.php:175
+msgid "Add Blur"
+msgstr "添加模糊"
+
+#: inc_php/unitecreator_entrance_animations.class.php:169
+msgid "Strong"
+msgstr "Strong"
+
+#: inc_php/unitecreator_entrance_animations.class.php:167
+msgid "Small"
+msgstr "Small"
+
+#: inc_php/unitecreator_entrance_animations.class.php:166
+msgid "No Blur"
+msgstr "无模糊"
+
+#: inc_php/unitecreator_entrance_animations.class.php:155
+msgid "Animate Items Order"
+msgstr "动画项目顺序"
+
+#: inc_php/unitecreator_entrance_animations.class.php:149
+msgid "Last to First"
+msgstr "最后到第一"
+
+#: inc_php/unitecreator_entrance_animations.class.php:148
+msgid "First To Last"
+msgstr "第一到最后"
+
+#: inc_php/unitecreator_entrance_animations.class.php:106
+msgid "Animation Distance"
+msgstr "动画距离"
+
+#: inc_php/unitecreator_entrance_animations.class.php:101
+msgid "Longest"
+msgstr "最长"
+
+#: inc_php/unitecreator_entrance_animations.class.php:100
+msgid "Long"
+msgstr "长"
+
+#: inc_php/unitecreator_entrance_animations.class.php:99
+#: inc_php/unitecreator_entrance_animations.class.php:168
+msgid "Medium"
+msgstr "中"
+
+#: inc_php/unitecreator_entrance_animations.class.php:98
+msgid "Short"
+msgstr "短"
+
+#: inc_php/unitecreator_entrance_animations.class.php:97
+msgid "Shortest"
+msgstr "最短"
+
+#: inc_php/unitecreator_entrance_animations.class.php:64
+msgid "From Bottom"
+msgstr "从底部"
+
+#: inc_php/unitecreator_entrance_animations.class.php:63
+msgid "From Top"
+msgstr "从顶部"
+
+#: inc_php/unitecreator_entrance_animations.class.php:62
+msgid "From Right"
+msgstr "从右边"
+
+#: inc_php/unitecreator_entrance_animations.class.php:61
+msgid "From Left"
+msgstr "从左边"
+
+#: inc_php/unitecreator_entrance_animations.class.php:60
+msgid "Scale Up"
+msgstr "放大"
+
+#: inc_php/unitecreator_entrance_animations.class.php:59
+msgid "Scale Down"
+msgstr "缩小"
+
+#: inc_php/unitecreator_entrance_animations.class.php:58
+msgid "Appear"
+msgstr "出现"
+
+#: provider/provider_settings_multisource.class.php:32
+msgid "Post Meta Field"
+msgstr "文章 Meta 字段"
+
+#: provider/provider_settings_multisource.class.php:31
+msgid "Post Url"
+msgstr "文章 URL"
+
+#: provider/provider_settings_multisource.class.php:30
+msgid "Post Date"
+msgstr "文章日期"
+
+#: provider/provider_settings_multisource.class.php:29
+msgid "Post Featured Image"
+msgstr "文章特色图片"
+
+#: provider/provider_helper.class.php:69
+msgid "Future From Tomorrow"
+msgstr "从明天开始的未来"
+
+#: provider/provider_helper.class.php:68
+msgid "Future From Today"
+msgstr "从今天开始的未来"
+
+#: provider/provider_settings_multisource.class.php:75
+msgid "ACF Repeater"
+msgstr "ACF 中继器"
+
+#: provider/provider_settings.class.php:1354
+msgid "Add The Parent As Well"
+msgstr "同时添加父级"
+
+#: provider/provider_settings.class.php:1349
+msgid "To End"
+msgstr "到结束"
+
+#: provider/provider_settings.class.php:1348
+msgid "To Beginning"
+msgstr "到开始"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:928
+msgid "In Foregroud"
+msgstr "在前景"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:927
+msgid "In Background"
+msgstr "在背景"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:923
+msgid "Background Location"
+msgstr "背景位置"
+
+#: provider/provider_settings.class.php:1933
+msgid "Give your Query unique ID to been able to filter it in server side using add_filter() function. This feature exists in a PRO Version only. <a target='blank' href='https://unlimited-elements.com/docs/work-with-query-id-in-posts-selection/'>help</a>"
+msgstr "提供您的查询唯一 ID，以便能够使用 add_filter() 函数在服务器端对其进行过滤。此功能仅存在于 PRO 版本中。 <a target='blank' href='https://unlimited-elements.com/docs/work-with-query-id-in-posts-selection/'>帮助</a>"
+
+#: provider/provider_settings.class.php:1929
+msgid "Give your Query unique ID to been able to filter it in server side using add_filter() function. <a href='https://unlimited-elements.com/docs/work-with-query-id-in-posts-selection/'><a target='blank' href='https://unlimited-elements.com/docs/work-with-query-id-in-posts-selection/'>See docs here</a></a>."
+msgstr "提供您的查询唯一 ID，以便能够使用 add_filter() 函数在服务器端对其进行过滤。 <a href='https://unlimited-elements.com/docs/work-with-query-id-in-posts-selection/'><a target='blank' href='https://unlimited-elements.com/docs/work-with-query-id-in-posts-selection/'>在此处查看文档</a></a>。"
+
+#: provider/provider_settings.class.php:1475
+msgid "Show Post Meta Fields for Debug"
+msgstr "显示用于调试的文章 Meta 字段"
+
+#: provider/provider_settings.class.php:1466
+msgid "Meta Fields Relation"
+msgstr "Meta 字段关系"
+
+#: provider/provider_settings.class.php:1454
+msgid "Include by Second Meta Value"
+msgstr "按次要 Meta 值包含"
+
+#: provider/provider_settings.class.php:1448
+msgid "Second Meta Value"
+msgstr "次要 Meta 值"
+
+#: provider/provider_settings.class.php:1442
+msgid "Include by Second Meta Compare"
+msgstr "按次要 Meta 比较包含"
+
+#: provider/provider_settings.class.php:1434
+msgid "Include by Second Meta Key"
+msgstr "通过次要 Meta key 包含"
+
+#: provider/provider_settings.class.php:1427
+msgid "Second Meta Key"
+msgstr "次要 Meta Key"
+
+#: provider/provider_settings.class.php:1421
+msgid "Add Second Meta Key"
+msgstr "添加次要 Meta Key"
+
+#: provider/provider_settings.class.php:2419
+msgid "Meta Field for Video ID"
+msgstr "视频 ID 的 Meta字段"
+
+#: provider/provider_settings.class.php:2409
+msgid "Meta Field for Item Type"
+msgstr "项目类型的 Meta 字段"
+
+#: inc_php/unitecreator_dialog_param.class.php:1093
+msgid "instructions"
+msgstr "说明"
+
+#: inc_php/unitecreator_dialog_param.class.php:1091
+msgid "* With this setting you can set or modify dropdown items in php."
+msgstr "* 使用此设置，您可以在 php.ini 中设置或修改下拉项目。"
+
+#: inc_php/unitecreator_dialog_param.class.php:1085
+msgid "PHP Filter Name"
+msgstr "PHP 过滤器名称"
+
+#: provider/functions_wordpress.class.php:1265
+msgid "Rating (WooCommerce)"
+msgstr "评级（WooCommerce）"
+
+#: provider/functions_wordpress.class.php:1264
+msgid "Number of Sales (WooCommerce)"
+msgstr "销售数量（WooCommerce）"
+
+#: inc_php/unitecreator_dialog_param.class.php:889
+msgid "Add Filtering"
+msgstr "添加过滤"
+
+#: inc_php/unitecreator_dialog_param.class.php:883
+msgid "Add Pagination"
+msgstr "添加分页"
+
+#: inc_php/unitecreator_dialog_param.class.php:466
+msgid "Disable Dynamic Icon"
+msgstr "禁用动态图标"
+
+#: inc_php/unitecreator_dialog_param.class.php:456
+msgid "Placeholder Text"
+msgstr "占位符文本"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:106
+msgid "Choose the filters behaviour for the current grid. If third mode selected - after ajax it will remember the current grid and filters state in the url so you can get back to it later"
+msgstr "选择当前网格的过滤器行为。如果选择了第三种模式 - 在 ajax 之后，它将记住当前网格和过滤器状态在 url 中，以便您稍后可以返回"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:102
+msgid "Ajax and Url Change"
+msgstr "Ajax 和 URL 更改"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:100
+msgid "Ajax"
+msgstr "Ajax"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:96
+msgid "Filters Behaviour"
+msgstr "过滤器行为"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:89
+msgid "When turned on, you can use all the post filters widgets like tabs filter, load more etc with this grid"
+msgstr "打开后，您可以使用所有文章过滤器组件，如标签过滤器，加载更多等与此网格"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:82
+msgid "Enable Post Filtering"
+msgstr "开启文章筛选"
+
+#: inc_php/unitecreator_dialog_param.class.php:967
+msgid "Enable Ajax / Filters Options"
+msgstr "启用 Ajax / 过滤器选项"
+
+#: provider/provider_settings.class.php:2123
+msgid "Enable Sync and Remote"
+msgstr "启用同步和远程"
+
+#: provider/provider_settings.class.php:1412
+msgid "Include by Meta Value 3"
+msgstr "按 Meta 值包含 3"
+
+#: provider/provider_settings.class.php:1408
+msgid "Include by Meta Value 2"
+msgstr "按 Meta 值包含 3"
+
+#: provider/provider_settings.class.php:2019
+msgid "Sync slide run with other widgets"
+msgstr "与其他组件同步滑动运行"
+
+#: provider/provider_helper.class.php:150
+msgid "Sync Group 10"
+msgstr "同步组 10"
+
+#: provider/provider_helper.class.php:149
+msgid "Sync Group 9"
+msgstr "同步组 9"
+
+#: provider/provider_helper.class.php:148
+msgid "Sync Group 8"
+msgstr "同步组 8"
+
+#: provider/provider_helper.class.php:147
+msgid "Sync Group 7"
+msgstr "同步组 7"
+
+#: provider/provider_helper.class.php:146
+msgid "Sync Group 6"
+msgstr "同步组 6"
+
+#: provider/provider_settings.class.php:2048
+#: provider/provider_settings.class.php:2163
+msgid "Show Debug"
+msgstr "显示 Debug(调试)"
+
+#: provider/provider_settings.class.php:2034
+#: provider/provider_settings.class.php:2138
+msgid "Sync Group"
+msgstr "同步组"
+
+#: provider/provider_settings.class.php:2029
+msgid "Choose the sync group"
+msgstr "选择同步组"
+
+#: provider/provider_helper.class.php:145
+msgid "Sync Group 5"
+msgstr "同步组 5"
+
+#: provider/provider_helper.class.php:144
+msgid "Sync Group 4"
+msgstr "同步组 4"
+
+#: provider/provider_helper.class.php:143
+msgid "Sync Group 3"
+msgstr "同步组 3"
+
+#: provider/provider_helper.class.php:142
+msgid "Sync Group 2"
+msgstr "同步组 2"
+
+#: provider/provider_helper.class.php:141
+msgid "Sync Group 1"
+msgstr "同步组 1"
+
+#: inc_php/unitecreator_dialog_param.class.php:853
+msgid "Remote Background"
+msgstr "远程背景"
+
+#: inc_php/unitecreator_dialog_param.class.php:814
+msgid "Posts Filter Options"
+msgstr "文章过滤器选项"
+
+#: inc_php/unitecreator_dialog_param.class.php:792
+msgid "Has Filter Option"
+msgstr "有过滤选项"
+
+#: provider/provider_settings.class.php:2099
+msgid "Custom Parent Name"
+msgstr "自定义父名称"
+
+#: provider/provider_settings.class.php:2069
+#: provider/provider_settings.class.php:2090
+#: provider/provider_settings.class.php:2154
+msgid "Remote Parent Name"
+msgstr "远程父名称"
+
+#: provider/provider_settings.class.php:2065
+msgid "Select the name of the parent for connetion"
+msgstr "选择连接的父级名称"
+
+#: provider/provider_settings.class.php:2021
+msgid "Sync"
+msgstr "同步"
+
+#: provider/provider_settings.class.php:2046
+msgid "Show information about remote widgets that connected to this widget. Please turn off this option before release"
+msgstr "显示有关连接到此小部件的远程组件的信息。请在发布前关闭此选项"
+
+#: provider/provider_settings.class.php:1998
+msgid "Widget Name for Connection"
+msgstr "连接的组件名称"
+
+#: provider/provider_settings.class.php:1993
+msgid "This name will be used to connect and control this widget by other widgets"
+msgstr "此名称将用于连接和由其他组件控制此组件"
+
+#: provider/provider_settings.class.php:1985
+msgid "Enable Remote Connection"
+msgstr "启用远程连接"
+
+#: provider/provider_settings.class.php:1983
+msgid "Enable the remote connection functionality for this widget"
+msgstr "为这个组件启用远程连接功能"
+
+#: provider/provider_helper.class.php:130
+#: provider/provider_settings.class.php:2004
+msgid "Custom Name"
+msgstr "自定义名称"
+
+#: provider/provider_helper.class.php:127
+msgid "Fourth"
+msgstr "第四"
+
+#: provider/provider_helper.class.php:126
+msgid "Third"
+msgstr "第三"
+
+#: provider/provider_helper.class.php:125
+msgid "Second"
+msgstr "第二"
+
+#: provider/provider_helper.class.php:122
+msgid "Auto Detectable"
+msgstr "自动检测"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:390
+msgid "%, PX"
+msgstr "%, PX"
+
+#: inc_php/unitecreator_helperhtml.class.php:1004
+msgid "Add Condition"
+msgstr "添加条件"
+
+#: inc_php/unitecreator_dialog_param.class.php:1721
+msgid "Tab"
+msgstr "Tab"
+
+#: inc_php/unitecreator_dialog_param.class.php:852
+msgid "Remote Controller"
+msgstr "远程控制器"
+
+#: inc_php/unitecreator_dialog_param.class.php:851
+msgid "Remote Parent"
+msgstr "远程父级"
+
+#: inc_php/unitecreator_dialog_param.class.php:844
+msgid "Remote"
+msgstr "远程"
+
+#: provider/provider_settings.class.php:2484
+msgid "Image Items"
+msgstr "图片项"
+
+#: provider/provider_settings.class.php:452
+msgid "Children Of Current Term"
+msgstr "当前项的子项目"
+
+#: provider/provider_settings.class.php:451
+msgid "Children Of"
+msgstr "子"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2608
+msgid "Instagram Source"
+msgstr "Instagram 源"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:218
+msgid "Item Link"
+msgstr "项目链接"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:176
+msgid "This image will be used for gallery thumbnail and video placeholder"
+msgstr "此图像将用于画廊缩略图和视频占位符"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:145
+msgid "Enter url of the mp4 video in current or external site. Example: http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+msgstr "在当前或外部站点中输入 mp4 视频的 url。 示例：http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:395
+msgid "PX, VH, %"
+msgstr "PX, VH, %"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:394
+msgid "PX, VH"
+msgstr "PX, VH"
+
+#: inc_php/unitecreator_dialog_param.class.php:871
+msgid "Enable Video Items"
+msgstr "启用视频项目"
+
+#: provider/provider_settings.class.php:2482
+msgid "Image And Video Items"
+msgstr "图像和视频项目"
+
+#: provider/provider_settings.class.php:1237
+msgid "Products From Post Content (woo)"
+msgstr "来自文章内容的产品 (woo)"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:235
+msgid "Gallery Items"
+msgstr "画廊项目"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:202
+msgid "Item Description"
+msgstr "项目描述"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:187
+msgid "Item Title"
+msgstr "项目标题"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:142
+msgid "MP4 Video Url"
+msgstr "MP4 视频网址"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:130
+msgid "For example: 9oedgxuciv"
+msgstr "例如：9oedgxuciv"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:127
+msgid "Wistia Video ID"
+msgstr "Wistia 视频 ID"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:115
+msgid "For example: 581014653, or https://vimeo.com/581014653"
+msgstr "例如：581014653，或 https://vimeo.com/581014653"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:112
+msgid "Vimeo Video ID or Url"
+msgstr "Vimeo 视频 ID 或 URL"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:97
+msgid "Youtube Url or ID"
+msgstr "Youtube 网址或 ID"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:86
+msgid "HTML5 Video"
+msgstr "HTML5 视频"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:78
+msgid "Item Type"
+msgstr "项目类型"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:66
+msgid " Items"
+msgstr "项目"
+
+#: inc_php/unitecreator_dialog_param.class.php:624
+msgid "Write a json file, from assets folder. Important to specify it that the widget will not look empty."
+msgstr "从资源文件夹中编写一个 json 文件。重要的是要指定组件不会看起来是空的。"
+
+#: inc_php/unitecreator_dialog_param.class.php:618
+msgid "Default Json File"
+msgstr "默认 Json 文件"
+
+#: inc_php/unitecreator_dialog_param.class.php:596
+msgid "Media Type"
+msgstr "媒体类型"
+
+#: inc_php/unitecreator_dialog_param.class.php:402
+msgid "Enter Text"
+msgstr "输入文字"
+
+#: inc_php/unitecreator_dialog_param.class.php:181
+msgid "Heading"
+msgstr "标题"
+
+#: inc_php/unitecreator_dialog_param.class.php:179
+msgid "Image (media)"
+msgstr "图像（媒体）"
+
+#: views/objects/addon_view.class.php:114
+msgid "Section Heading"
+msgstr "段标题"
+
+#: views/objects/addon_view.class.php:108
+msgid "Section Label"
+msgstr "段标签"
+
+#: views/objects/addon_view.class.php:107
+msgid "Default is 'Items'"
+msgstr "默认为“项目”"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:406
+msgid "Show When Has Those Terms"
+msgstr "当有这些分类项显示"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:380
+msgid "Hide When Has Those Terms"
+msgstr "当有这些分类项隐藏"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:371
+msgid "This hide by archive terms works only when current page is ARCHIVE type and current the term match the seleced"
+msgstr "仅当当前页面为 归档类型且当前分类项与所选分类项匹配时，此归档分类项隐藏才有效"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:355
+msgid "This section will be hidden by default if no other condition is chosen"
+msgstr "如果没有选择其他条件，此部分将默认隐藏"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:342
+msgid "Hide By Default"
+msgstr "默认隐藏"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:338
+msgid "Hide By"
+msgstr "隐藏"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:327
+msgid "Enable Visibility Conditions"
+msgstr "启用可见性条件"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:888
+msgid "Special Attribute Type"
+msgstr "特殊属性类型"
+
+#: inc_php/unitecreator_dialog_param.class.php:1714
+msgid "Label Block"
+msgstr "标签显示"
+
+#: inc_php/unitecreator_dialog_param.class.php:1392
+msgid "Write every filter name that could be run by apply_filters php function"
+msgstr "写出可以由 apply_filters php 函数运行的每个过滤器名称"
+
+#: inc_php/unitecreator_dialog_param.class.php:1386
+msgid "Filter Parameter"
+msgstr "过滤参数"
+
+#: inc_php/unitecreator_dialog_param.class.php:1377
+msgid "Filter Name"
+msgstr "筛选名称"
+
+#: inc_php/unitecreator_client_text.php:78
+#: inc_php/unitecreator_dialog_param.class.php:227
+msgid "Special Attribute"
+msgstr "特殊属性"
+
+#: inc_php/unitecreator_dialog_param.class.php:209
+msgid "By Filter Hook"
+msgstr "筛选挂钩"
+
+#: provider/provider_settings.class.php:2508
+#: provider/provider_settings_multisource.class.php:152
+msgid "Source"
+msgstr "来源"
+
+#: views/objects/addon_view.class.php:136
+msgid "load as module"
+msgstr "作为模块加载"
+
+#: views/objects/addon_view.class.php:678
+msgid "Include as ES6 module"
+msgstr "作为 ES6 模块包含"
+
+#: views/objects/addon_view.class.php:661
+msgid "leave empty for auto"
+msgstr "自动留空"
+
+#: views/objects/addon_view.class.php:656
+msgid "Handle"
+msgstr "处理"
+
+#: provider/provider_settings.class.php:1736
+msgid "Avoid duplicate posts, that fetched by another post widgets in the page, and have this option seleted (avoid duplicates)"
+msgstr "避免由页面中的另一个文章组件获取的重复文章，并选择此选项（避免重复）"
+
+#: provider/provider_settings.class.php:1724
+msgid "Exclude Posts by Dynamic Field"
+msgstr "按动态字段排除文章"
+
+#: provider/provider_settings.class.php:1695
+msgid "Avoid Duplicates"
+msgstr "避免重复"
+
+#: provider/provider_settings.class.php:1666
+msgid "Or Select Post IDs by Dynamic Field"
+msgstr "或按动态字段选择文章 ID"
+
+#: provider/provider_settings.class.php:1531
+msgid "Include Posts by Dynamic Field"
+msgstr "按动态字段包括文章"
+
+#: provider/provider_settings.class.php:1526
+#: provider/provider_settings.class.php:1719
+msgid "Enter post id's like 45,65,76, or select from dynamic tag"
+msgstr "输入文章 ID，如 45、65、76，或从动态标签中选择"
+
+#: provider/provider_settings.class.php:1229
+#: provider/provider_settings.class.php:1696
+msgid "IDs from Dynamic Field"
+msgstr "动态字段中的 ID"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:560
+#: provider/provider_settings.class.php:69
+msgid "Choose Template"
+msgstr "选择模板"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:554
+#: provider/provider_settings.class.php:61
+msgid "[No Template Selected]"
+msgstr "[未选择模板]"
+
+#: provider/provider_settings_multisource.class.php:87
+msgid "Items Source"
+msgstr "项目来源"
+
+#: provider/provider_settings.class.php:2497
+msgid "Current Post Metafield"
+msgstr "当前文章 META 字段"
+
+#: provider/provider_settings.class.php:2466
+msgid " Item Template"
+msgstr "项目模板"
+
+#: provider/provider_settings.class.php:2461
+msgid "Gallery Items "
+msgstr "画廊项目"
+
+#: provider/provider_settings.class.php:2378
+msgid "Big Image Size"
+msgstr "大图像尺寸"
+
+#: provider/provider_settings.class.php:2366
+msgid "Thumb Image Size"
+msgstr "缩略图像大小"
+
+#: provider/provider_settings.class.php:2313
+msgid "Debug - Show Meta Fields"
+msgstr "调试 - 显示 META 字段"
+
+#: provider/provider_settings.class.php:2310
+msgid "Show the current post meta fields, turn off it after choose the right one"
+msgstr "显示当前的文章 META 字段，选择正确的后关闭它"
+
+#: provider/provider_settings.class.php:2294
+#: provider/provider_settings.class.php:2349
+msgid "Image Description Source"
+msgstr "图像描述源"
+
+#: provider/provider_settings.class.php:2283
+#: provider/provider_settings.class.php:2337
+msgid "Image Title Source"
+msgstr "图像标题源"
+
+#: provider/provider_settings.class.php:2259
+msgid "Choose Images"
+msgstr "选择图像"
+
+#: provider/provider_settings.class.php:2233
+msgid "Image Description"
+msgstr "图像描述"
+
+#: provider/provider_settings.class.php:2230
+#: provider/provider_settings_multisource.class.php:28
+msgid "Post Content"
+msgstr "文章内容"
+
+#: provider/provider_settings.class.php:2216
+#: provider/provider_settings.class.php:2236
+msgid "Image Caption"
+msgstr "图片说明"
+
+#: provider/provider_settings.class.php:2215
+#: provider/provider_settings.class.php:2235
+msgid "Image Alt"
+msgstr "图像 Alt"
+
+#: provider/provider_settings.class.php:2214
+#: provider/provider_settings.class.php:2234
+msgid "Image Title"
+msgstr "图像标题"
+
+#: provider/provider_settings.class.php:2213
+msgid "Image Auto (title or alt or caption)"
+msgstr "图像自动（标题 或 Alt 或 说明 ）"
+
+#: provider/provider_settings.class.php:2210
+#: provider/provider_settings.class.php:2228
+#: provider/provider_settings_multisource.class.php:27
+msgid "Post Excerpt"
+msgstr "文章摘要"
+
+#: provider/provider_settings.class.php:1306
+msgid "Date by Meta Field"
+msgstr "按 META 字段的日期"
+
+#: provider/provider_settings.class.php:1303
+msgid "Optional, Select custom field (like ACF) with date format 20210310 (Ymd). For example: event_date"
+msgstr "可选，选择日期格式为 20210310 (Ymd) 的自定义字段（如 ACF）。例如：event_date"
+
+#: provider/provider_helper.class.php:66
+msgid "Next Month"
+msgstr "下个月"
+
+#: provider/provider_helper.class.php:65
+msgid "This Month"
+msgstr "这个月"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2549
+msgid "Gallery "
+msgstr "画廊"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2547
+#: provider/provider_settings.class.php:2459
+msgid "Items "
+msgstr "项目"
+
+#: inc_php/unitecreator_client_text.php:71
+msgid "Grouped Settings"
+msgstr "分组设置"
+
+#: inc_php/unitecreator_dialog_param.class.php:860
+msgid "Use For"
+msgstr "用于"
+
+#: inc_php/unitecreator_dialog_param.class.php:843
+#: provider/provider_settings.class.php:2479
+msgid "Gallery"
+msgstr "画廊"
+
+#: inc_php/unitecreator_dialog_param.class.php:842
+msgid "Template Loop"
+msgstr "模板循环"
+
+#: inc_php/unitecreator_dialog_param.class.php:194
+msgid "Dynamic Grouped Settings"
+msgstr "动态分组设置"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:473
+msgid "Show Debug Text"
+msgstr "显示 Debug(调试) 文本"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:393
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:419
+msgid "Or Their Children"
+msgstr "或者他们的孩子"
+
+#: inc_php/unitecreator_client_text.php:76
+#: inc_php/unitecreator_dialog_param.class.php:176
+msgid "Multiple Select"
+msgstr "多选"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:35
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:38
+msgid "Posts Pagination and Filtering"
+msgstr "文章分页和过滤器"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:343
+msgid "Archive Terms"
+msgstr "归档分类项"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:314
+msgid "UE Visibility Conditions"
+msgstr "UE可见性条件"
+
+#: views/objects/addon_view.class.php:670
+msgid "Include after elementor-frontend.js"
+msgstr "包含在 elementor-frontend.js 之后"
+
+#: provider/provider_settings.class.php:1517
+msgid "Meta Field Name"
+msgstr "Meta 字段名称"
+
+#: provider/provider_settings.class.php:1514
+msgid "Choose meta field name that has the post id's on it. Good for acf relationship for example"
+msgstr "选择具有文章ID的 meta 字段名称。例如，适用于ACF关系"
+
+#: provider/provider_settings.class.php:1504
+msgid "Select Post (leave empty for current post)"
+msgstr "选择文章（为当前文章留空）"
+
+#: provider/provider_settings.class.php:1500
+msgid "PHP Function Argument"
+msgstr "PHP 函数参数"
+
+#: provider/provider_settings.class.php:1497
+msgid "Optional. Some argument to be passed to this function. For some \"IF\" statement."
+msgstr "可选的。 一些参数要传递给此函数。 对于某些“ IF”语句。"
+
+#: provider/provider_settings.class.php:1496
+msgid "yourtext"
+msgstr "你的文字"
+
+#: provider/provider_settings.class.php:1490
+msgid "PHP Function Name"
+msgstr "PHP 函数名称"
+
+#: provider/provider_settings.class.php:1487
+msgid ""
+"Get post id's array from php function. \n"
+" For example: function getMyIDs($arg){return(array(\"32\",\"58\")). This function MUST begin with 'get'. }"
+msgstr ""
+"从 PHP 函数获取 post id 的数组。\n"
+"例如：function getMyIDs($arg){return(array(\"32\",\"58\")). This function MUST begin with 'get'. }"
+
+#: provider/provider_settings.class.php:1486
+msgid "getMyIDs"
+msgstr "getMyIDs"
+
+#: provider/provider_settings.class.php:1228
+msgid "IDs from Post Meta"
+msgstr "来自 文章 Meta 的 ID"
+
+#: provider/provider_settings.class.php:1227
+msgid "IDs from PHP function"
+msgstr "来自 PHP 函数的 ID"
+
+#: inc_php/unitecreator_dialog_param.class.php:808
+msgid "For WooCommerce Terms"
+msgstr "对于 WooCommerce 项目"
+
+#: provider/functions_wordpress.class.php:1276
+msgid "Preserve Posts In Order"
+msgstr "按顺序保留文章"
+
+#: provider/provider_settings.class.php:1572
+msgid "Most Viewed Time Range"
+msgstr "最多浏览时间范围"
+
+#: provider/provider_settings.class.php:1549
+msgid "'WordPress Popular Posts' plugin activated."
+msgstr "“WordPress Popular Posts (热门文章)”插件已激活。"
+
+#: provider/provider_settings.class.php:1546
+msgid "Select most viewed posts, integration with plugin: 'WordPress Popular Posts' that should be installed"
+msgstr "选择最大浏览量的文章，与插件集成：应该安装插件 'WordPress Popular Posts'"
+
+#: provider/provider_settings.class.php:1226
+msgid "Most Viewed"
+msgstr "最多浏览"
+
+#: provider/provider_settings.class.php:1222
+msgid "Post Meta"
+msgstr "文章 Meta"
+
+#: provider/core/plugins/unlimited_elements/elementor/dynamic_tags/tag_current_timestamp.php:18
+msgid "Current Time Stamp"
+msgstr "当前时间戳"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2129
+msgid "Debug Data Type"
+msgstr "Debug (调试) 数据类型"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2115
+msgid "Posts Titles and Meta"
+msgstr "文章标题和Meta"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2114
+msgid "Posts Titles"
+msgstr "文章标题"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2111
+msgid "Items Only"
+msgstr "仅项目"
+
+#: inc_php/unitecreator_helperhtml.class.php:980
+msgid "No parent attribute (dropdown, checkbox or radio) exists in this category"
+msgstr "此类别中不存在父属性（下拉列表、复选框或单选项）"
+
+#: inc_php/unitecreator_dialog_param.class.php:961
+msgid "Show Image Sizes Select"
+msgstr "显示图像尺寸选择"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1872
+msgid "Size"
+msgstr "尺寸"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:417
+msgid "Not Chosen"
+msgstr "未选择"
+
+#: provider/functions_wordpress.class.php:2602
+msgid "Full Size"
+msgstr "原图"
+
+#: provider/provider_settings.class.php:684
+#: provider/provider_settings.class.php:1962
+msgid "Debug Options"
+msgstr "Debug (调试) 选项"
+
+#: provider/provider_settings.class.php:679
+#: provider/provider_settings.class.php:1957
+msgid "Basic"
+msgstr "基本"
+
+#: inc_php/unitecreator_dialog_param.class.php:611
+msgid "Add Image Size Select"
+msgstr "添加图像尺寸选择"
+
+#: inc_php/unitecreator_client_text.php:109
+#: inc_php/unitecreator_dialog_param.class.php:223
+msgid "Border Radius"
+msgstr "Border Radius (边框圆角)"
+
+#: provider/provider_settings.class.php:1236
+msgid "Recently Viewed Produts (woo)"
+msgstr "最近浏览过产品（woo）"
+
+#: provider/provider_settings.class.php:1235
+msgid "Out Of Stock Products Only (woo)"
+msgstr "仅缺货（woo）"
+
+#: provider/provider_settings.class.php:1234
+msgid "Cross Sells Products (woo)"
+msgstr "交叉销售产品（woo）"
+
+#: provider/provider_settings.class.php:1233
+msgid "Up Sells Products (woo)"
+msgstr "追加销售产品（woo）"
+
+#: provider/provider_settings.class.php:1232
+msgid "Products On Sale Only (woo)"
+msgstr "仅限在售产品（woo）"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:866
+msgid "Add the value of this attribute to the class list of your html element"
+msgstr "将此属性的值添加到 html 元素的 class 列表中"
+
+#: inc_php/unitecreator_helperhtml.class.php:997
+#: inc_php/unitecreator_helperhtml.class.php:1015
+msgid "Not Equal"
+msgstr "不相等"
+
+#: inc_php/unitecreator_helperhtml.class.php:996
+#: inc_php/unitecreator_helperhtml.class.php:1014
+msgid "Equal"
+msgstr "相等"
+
+#: inc_php/unitecreator_helperhtml.class.php:986
+msgid "Show When"
+msgstr "显示时机"
+
+#: inc_php/unitecreator_helperhtml.class.php:970
+msgid "Enable Condition"
+msgstr "启用显示条件"
+
+#: inc_php/unitecreator_dialog_param.class.php:948
+msgid "Default Max Posts"
+msgstr "默认最大文章数"
+
+#: inc_php/unitecreator_client_text.php:111
+#: inc_php/unitecreator_dialog_param.class.php:225
+msgid "Hover Animations"
+msgstr "悬停动画"
+
+#: inc_php/unitecreator_client_text.php:110
+#: inc_php/unitecreator_dialog_param.class.php:224
+msgid "Css Filters"
+msgstr "CSS 滤镜"
+
+#: provider/functions_wordpress.class.php:1312
+msgid "Count - (number of posts associated)"
+msgstr "计数-（关联的文章数）"
+
+#: provider/provider_settings.class.php:831
+msgid "&nbsp;&nbsp;Meta Field Name"
+msgstr "&nbsp;&nbsp;元字段名称"
+
+#: provider/provider_settings.class.php:618
+#: provider/provider_settings.class.php:807
+msgid "Meta Value - Numeric"
+msgstr "元值 - 数值"
+
+#: provider/provider_settings.class.php:616
+msgid "Include - (specific terms order)"
+msgstr "包含 - (特定项目顺序)"
+
+#: provider/provider_settings.class.php:603
+msgid "Max Number of Terms"
+msgstr "最大项目数"
+
+#: provider/provider_settings.class.php:600
+msgid "100 terms if empty"
+msgstr "如果为空，则为100个项目"
+
+#: provider/provider_settings.class.php:586
+msgid "Exclude With All Children Tree"
+msgstr "排除所有子树对象"
+
+#: provider/provider_settings.class.php:559
+msgid "Hide Empty Terms"
+msgstr "隐藏空项目"
+
+#: provider/provider_settings.class.php:558
+msgid "Current Term (for archive only)"
+msgstr "当前项目（仅适用于存档）"
+
+#: provider/provider_settings.class.php:545
+msgid "Include by Search"
+msgstr "按搜索包括"
+
+#: provider/provider_settings.class.php:541
+msgid "Search Text"
+msgstr "搜索文本"
+
+#: provider/provider_settings.class.php:535
+msgid "Is Direct Parent"
+msgstr "是直接父对象"
+
+#: provider/provider_settings.class.php:532
+msgid "If turned off, all the terms tree will be selected"
+msgstr "如果关闭，将选择所有项目树对象"
+
+#: provider/provider_settings.class.php:526
+msgid "Select Parent Term"
+msgstr "选择父项"
+
+#: provider/provider_settings.class.php:513
+msgid "Select Specific Terms"
+msgstr "选择特定项目"
+
+#: provider/provider_settings.class.php:505
+msgid "Only those selected terms will be loaded"
+msgstr "仅加载那些选择的项目"
+
+#: provider/provider_settings.class.php:499
+#: provider/provider_settings.class.php:1407
+msgid "Include by Meta Value"
+msgstr "按元值包含"
+
+#: provider/provider_settings.class.php:495
+#: provider/provider_settings.class.php:617
+#: provider/provider_settings.class.php:806
+#: provider/provider_settings.class.php:1400
+msgid "Meta Value"
+msgstr "元值"
+
+#: provider/provider_settings.class.php:488
+#: provider/provider_settings.class.php:1394
+msgid "Include by Meta Compare"
+msgstr "通过元(Meta)比较包含"
+
+#: provider/provider_settings.class.php:482
+#: provider/provider_settings.class.php:1387
+msgid "Get only those terms that has the meta key/value. For IN, NOT IN, BETWEEN, NOT BETWEEN compares, use coma saparated values"
+msgstr "仅获取具有元键/值（meta key/value） 的那些项目。对于IN，NOT IN，BETWEEN，NOT BETWEEN比较，请使用逗号分隔的值"
+
+#: provider/provider_settings.class.php:475
+#: provider/provider_settings.class.php:1381
+msgid "Include by Meta Key"
+msgstr "通过元密钥包含"
+
+#: provider/provider_settings.class.php:472
+#: provider/provider_settings.class.php:1374
+#: provider/provider_settings.class.php:2304
+msgid "Meta Key"
+msgstr "元密钥"
+
+#: provider/provider_settings.class.php:456
+msgid "Term Meta"
+msgstr "项目 Meta"
+
+#: provider/provider_settings.class.php:455
+msgid "Not a Child of Other Term"
+msgstr "非其他项子对象 (父对象+无子对象)"
+
+#: provider/provider_settings.class.php:454
+msgid "Only Childless"
+msgstr "所有节点(含父节点)中仅无子对象  (Only Childless)"
+
+#: provider/provider_settings.class.php:453
+msgid "By Search Text"
+msgstr "通过搜索文字"
+
+#: provider/provider_settings.class.php:450
+#: provider/provider_settings.class.php:557
+msgid "Specific Terms"
+msgstr "具体项目"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:113
+msgid "CSS Selector 3 Value"
+msgstr "CSS选择器3的值"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:105
+msgid "CSS Selector 3"
+msgstr "CSS选择器3"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:95
+msgid "CSS Selector 2 Value"
+msgstr "CSS选择器2的值"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:87
+msgid "CSS Selector 2"
+msgstr "CSS选择器2"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:79
+msgid "Show More Selectors"
+msgstr "显示更多选择器"
+
+#: provider/provider_settings.class.php:320
+msgid "Additional Meta Data Keys"
+msgstr "附加元数据键"
+
+#: provider/provider_settings.class.php:315
+msgid "Get additional meta data by given meta keys comma separated"
+msgstr "通过给定的以逗号分隔的元数据键获取附加元数据"
+
+#: provider/provider_helper.class.php:108
+msgid "Number of Posts"
+msgstr "文章数量"
+
+#: provider/provider_helper.class.php:107
+msgid "Registered Date"
+msgstr "注册日期"
+
+#: provider/provider_helper.class.php:106
+msgid "User Url"
+msgstr "用户网址"
+
+#: provider/provider_helper.class.php:105
+msgid "Email"
+msgstr "邮箱"
+
+#: provider/provider_helper.class.php:104
+msgid "Nice Name"
+msgstr "好名字"
+
+#: provider/provider_helper.class.php:103
+msgid "User Login"
+msgstr "用户登录"
+
+#: provider/provider_helper.class.php:102
+msgid "Username"
+msgstr "用户名"
+
+#: provider/provider_helper.class.php:101
+msgid "Display Name"
+msgstr "显示名称"
+
+#: provider/provider_helper.class.php:100
+msgid "User ID"
+msgstr "用户 ID"
+
+#: provider/provider_helper.class.php:87
+msgid "Inherit"
+msgstr "继承"
+
+#: provider/provider_helper.class.php:86
+msgid "Private"
+msgstr "私有"
+
+#: provider/provider_helper.class.php:85
+msgid "Pending Review"
+msgstr "待审核"
+
+#: provider/provider_helper.class.php:84
+msgid "Draft"
+msgstr "草稿"
+
+#: provider/provider_helper.class.php:83
+msgid "Future"
+msgstr "未来"
+
+#: provider/provider_helper.class.php:82
+msgid "Publish"
+msgstr "发布"
+
+#: provider/provider_helper.class.php:70
+msgid "Custom"
+msgstr "自定义"
+
+#: provider/provider_helper.class.php:64
+msgid "Past Year"
+msgstr "去年"
+
+#: provider/provider_helper.class.php:63
+msgid "Past 3 Months"
+msgstr "过去三个月"
+
+#: provider/provider_helper.class.php:62
+msgid "Past Month"
+msgstr "过去一个月"
+
+#: provider/provider_helper.class.php:61
+msgid "Past Week"
+msgstr "上周"
+
+#: provider/provider_helper.class.php:56
+msgid "Past 2 days"
+msgstr "过去2天"
+
+#: provider/provider_helper.class.php:55
+msgid "Past Day"
+msgstr "过去1天"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:703
+msgid "Show Time Picker"
+msgstr "显示时间选择器"
+
+#: provider/provider_settings.class.php:1837
+#: provider/provider_settings.class.php:1854
+msgid "Max %s"
+msgstr "最多显示%s"
+
+#: provider/provider_settings.class.php:1818
+msgid "Post Status"
+msgstr "文章状态"
+
+#: provider/provider_settings.class.php:1812
+msgid "Select one or more statuses"
+msgstr "选择一个或多个状态"
+
+#: provider/provider_settings.class.php:1795
+msgid "Specific %s To Exclude"
+msgstr "要排除的特定%s"
+
+#: provider/provider_settings.class.php:1768
+msgid "Use this setting to skip over posts, not showing first posts to the offset given"
+msgstr "使用此设置跳过文章，不显示给定偏移量的第一篇文章"
+
+#: provider/provider_settings.class.php:1761
+msgid "Exclude By Author"
+msgstr "按作者排除"
+
+#: provider/provider_settings.class.php:1694
+#: provider/provider_settings.class.php:1776
+msgid "Offset"
+msgstr "偏移量"
+
+#: provider/provider_settings.class.php:1693
+msgid "%s With Current Tags"
+msgstr "具有当前标签的%s"
+
+#: provider/provider_settings.class.php:1692
+msgid "%s with Current Category"
+msgstr "当前分类的%s"
+
+#: provider/provider_settings.class.php:1691
+msgid "%s Without Featured Image"
+msgstr "无特色图片的%s"
+
+#: provider/provider_settings.class.php:1689
+msgid "Specific %s"
+msgstr "具体的%s"
+
+#: provider/provider_settings.class.php:1688
+msgid "Current %s"
+msgstr "当前%s"
+
+#: provider/provider_settings.class.php:1684
+msgid "Products On Sale (woo)"
+msgstr "在售产品（woo）"
+
+#: provider/provider_settings.class.php:1683
+msgid "Out Of Stock Products (woo)"
+msgstr "缺货中的产品（woo）"
+
+#: provider/provider_settings.class.php:1652
+msgid "Seach And Select %s"
+msgstr "搜索并选择%s"
+
+#: provider/provider_settings.class.php:1338
+msgid "Select %s Parents"
+msgstr "选择%s父级"
+
+#: provider/provider_settings.class.php:1323
+msgid "Published After Date"
+msgstr "日期后发布"
+
+#: provider/provider_settings.class.php:1321
+msgid "Show all the posts published since the chosen date, inclusive."
+msgstr "显示自选定日期（包括该日期）以来发布的所有文章。"
+
+#: provider/provider_settings.class.php:1319
+msgid "Published Before Date"
+msgstr "在日期之前发布"
+
+#: provider/provider_settings.class.php:1313
+msgid "Choose Date"
+msgstr "选择日期"
+
+#: provider/provider_settings.class.php:1312
+msgid "Show all the posts published until the chosen date, inclusive."
+msgstr "显示直到所选日期（包括该日期）的所有已发布文章。"
+
+#: provider/provider_settings.class.php:1297
+msgid "Include By Date"
+msgstr "按日期包括"
+
+#: provider/provider_settings.class.php:1281
+msgid "Include By Author"
+msgstr "包括作者"
+
+#: provider/provider_settings.class.php:1272
+#: provider/provider_settings.class.php:1754
+msgid "Select one or more authors"
+msgstr "选择一个或多个作者"
+
+#: provider/provider_settings.class.php:1240
+msgid "Add Specific %s"
+msgstr "添加特定的%s"
+
+#: provider/provider_settings.class.php:1219
+msgid "Post Parent"
+msgstr "父级文章"
+
+#: provider/provider_settings.class.php:1134
+msgid "%s Source"
+msgstr "%s来源"
+
+#: provider/provider_settings.class.php:1131
+msgid "Related %s"
+msgstr "相关%s"
+
+#: provider/provider_settings.class.php:1130
+msgid "Custom %s"
+msgstr "自定义%s"
+
+#: provider/provider_settings.class.php:1129
+msgid "Current Query %s"
+msgstr "当前查询%s"
+
+#: provider/provider_operations.class.php:186
+#: provider/provider_settings.class.php:1037
+msgid "Product"
+msgstr "产品"
+
+#: provider/provider_settings.class.php:1036
+#: provider/provider_settings.class.php:2493
+#: provider/provider_settings_multisource.class.php:68
+msgid "Products"
+msgstr "产品"
+
+#: provider/provider_settings.class.php:1032
+#: provider/provider_settings.class.php:2489
+#: provider/provider_settings_multisource.class.php:64
+msgid "Posts"
+msgstr "文章"
+
+#: provider/provider_settings.class.php:2209
+#: provider/provider_settings.class.php:2229
+#: provider/provider_settings_multisource.class.php:26
+msgid "Post Title"
+msgstr "文章标题"
+
+#: provider/provider_settings.class.php:966
+msgid "All Products"
+msgstr "所有产品"
+
+#: provider/provider_settings.class.php:275
+msgid "Max Number of Users"
+msgstr "最大用户数"
+
+#: provider/provider_settings.class.php:271
+msgid "all users if empty"
+msgstr "所有用户（如果为空）"
+
+#: provider/provider_settings.class.php:256
+msgid "Select Specific Users"
+msgstr "选择特定用户"
+
+#: provider/provider_settings.class.php:246
+msgid "Exclude By Specific Users"
+msgstr "按特定用户排除"
+
+#: provider/provider_settings.class.php:241
+#: provider/provider_settings.class.php:253
+msgid "Select one or more users"
+msgstr "选择一个或多个用户"
+
+#: provider/provider_settings.class.php:200
+msgid "Leave empty for all the roles"
+msgstr "为所有角色留空"
+
+#: provider/provider_settings.class.php:186
+msgid "Select Users By"
+msgstr "选择用户依据"
+
+#: provider/provider_settings.class.php:181
+msgid "Custom Query"
+msgstr "自定义查询"
+
+#: provider/provider_settings.class.php:1785
+msgid "Exclude Terms With Children"
+msgstr "排除与子项有关的项目"
+
+#: provider/provider_settings.class.php:1747
+msgid "Exclude By Terms"
+msgstr "按项目排除"
+
+#: provider/provider_settings.class.php:1687
+#: provider/provider_settings_multisource.class.php:70
+msgid "Terms"
+msgstr "项目"
+
+#: provider/provider_settings.class.php:1212
+msgid "Get Only Sticky Posts"
+msgstr "仅获取置顶文章"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2084
+msgid "Advanced"
+msgstr "高级"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:439
+#: provider/provider_settings.class.php:970
+msgid "Loading Data..."
+msgstr "加载数据中..."
+
+#: inc_php/unitecreator_actions.class.php:391
+#: inc_php/unitecreator_actions.class.php:393
+msgid "Widget Updated"
+msgstr "组件已更新"
+
+#: inc_php/unitecreator_actions.class.php:380
+msgid "Widget Installed"
+msgstr "组件已安装"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2105
+#: provider/functions_wordpress.class.php:1256
+#: provider/functions_wordpress.class.php:1292
+#: provider/functions_wordpress.class.php:1305
+#: provider/provider_helper.class.php:99
+msgid "Default"
+msgstr "默认"
+
+#: provider/provider_settings.class.php:959
+msgid "Search and Select Posts"
+msgstr "搜索和选择文章"
+
+#: provider/provider_settings.class.php:963
+msgid "All Posts"
+msgstr "所有文章"
+
+#: provider/provider_settings.class.php:883
+msgid "Include Specific Categories"
+msgstr "包括特定类别"
+
+#: provider/provider_settings.class.php:877
+msgid "Include specific categories by slug"
+msgstr "包括按别名(slug)列出的特定类别"
+
+#: provider/provider_settings.class.php:876
+msgid "Example: cat1, cat2"
+msgstr "示例：cat1，cat2"
+
+#: provider/provider_settings.class.php:724
+msgid "Selection Type"
+msgstr "选择类型"
+
+#: provider/provider_settings.class.php:182
+#: provider/provider_settings.class.php:715
+#: provider/provider_settings.class.php:1132
+msgid "Manual Selection"
+msgstr "手动选择"
+
+#: provider/provider_settings.class.php:714
+msgid "Categories Query"
+msgstr "分类查询"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2471
+msgid "No Settings for this Widget"
+msgstr "没有此组件的设置"
+
+#: inc_php/unitecreator_assets.class.php:1265
+msgid "View"
+msgstr "查看"
+
+#: inc_php/unitecreator_settings_output.class.php:390
+msgid "For the preview svg icon put preview_icon.svg file in the assets folder"
+msgstr "对于预览 svg 图标，将 Preview_icon.svg 文件放入资源文件夹中"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:554
+msgctxt "previous set of posts"
+msgid "Previous"
+msgstr "上一页"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:551
+msgctxt "next set of posts"
+msgid "Next"
+msgstr "下一页"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:70
+msgid "Using Pagination Widget"
+msgstr "使用分页组件"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:54
+msgid "When turned on, the pagination will appear in archive or single pages, you have option to use the \"Posts Pagination\" widget for all the styling options"
+msgstr "启用分页后，分页将显示在存档或单个页面中，您可以选择对所有样式选项使用“文章分页(UE组件库内组件/需手动安装)”组件"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:642
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1868
+msgid "Image Size"
+msgstr "图片大小"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:635
+msgid "Image Repeat"
+msgstr "图片重复"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:628
+msgid "Image Position"
+msgstr "图片位置"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:624
+msgid "Background Image"
+msgstr "背景图片"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:577
+msgid "Background Image Size"
+msgstr "背景图片大小"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:564
+msgid "Background Image Repeat"
+msgstr "背景图片重复"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:550
+msgid "Background Image Position"
+msgstr "背景图片位置"
+
+#: provider/provider_settings.class.php:1211
+msgid "Include Sticky Posts"
+msgstr "包括置顶文章"
+
+#: inc_php/unitecreator_settings.class.php:370
+msgid "Number Of Items"
+msgstr "项目数量"
+
+#: inc_php/unitecreator_settings.class.php:366
+msgid "Number of instagram items. Leave empty for default number ( %d ) set by the widget"
+msgstr "instagram 项目数。将组件设置的默认数字（%d）留空"
+
+#: views/settings.php:21
+msgid "Change Log"
+msgstr "更新日志"
+
+#: views/master_view.php:82
+msgid "view change log"
+msgstr "查看更新日志"
+
+#: views/master_view.php:78
+msgid "upress"
+msgstr "upress"
+
+#: views/master_view.php:76
+msgid "Plugin version"
+msgstr "插件版本"
+
+#: views/master_view.php:64
+msgid "Version Release Log. Current Version: "
+msgstr "版本发布日志 当前版本："
+
+#: views/system/video_dialog.php:197
+msgid "Video not found or error occured. Please search again."
+msgstr "找不到视频或发生错误。 请再次搜索。"
+
+#: views/system/video_dialog.php:173
+msgid "Update Video"
+msgstr "更新视频"
+
+#: views/system/video_dialog.php:173
+msgid "Add Video"
+msgstr "添加视频"
+
+#: views/system/video_dialog.php:161
+msgid "Select new thumb image"
+msgstr "选择新缩略图像"
+
+#: views/system/video_dialog.php:159
+msgid "Thumb Image Url"
+msgstr "缩略图URL"
+
+#: views/system/video_dialog.php:152 views/system/video_dialog.php:161
+msgid "change"
+msgstr "更改"
+
+#: views/system/video_dialog.php:152
+msgid "Select new preview image"
+msgstr "选择新预览图像"
+
+#: views/system/video_dialog.php:150
+msgid "Preview Image Url"
+msgstr "预览图像Url"
+
+#: views/system/video_dialog.php:123
+msgid "Enter Wistia ID"
+msgstr "输入 Wistia ID"
+
+#: views/system/video_dialog.php:112
+msgid "Video OGV Url"
+msgstr "视频 OGV 地址"
+
+#: views/system/video_dialog.php:105
+msgid "Video WEBM Url"
+msgstr "视频 WEBM 地址"
+
+#: views/system/video_dialog.php:98 views/system/video_dialog.php:106
+#: views/system/video_dialog.php:113
+msgid "put example"
+msgstr "举个例子"
+
+#: views/system/video_dialog.php:97
+msgid "Video MP4 Url"
+msgstr "视频 MP4 地址"
+
+#: views/system/video_dialog.php:73
+msgid "Enter Vimeo ID or URL"
+msgstr "输入 Vimeo ID或URL"
+
+#: views/system/video_dialog.php:50
+msgid "Enter Youtube ID or URL"
+msgstr "输入 Youtube ID或URL"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:85
+#: views/system/video_dialog.php:35
+msgid "Wistia"
+msgstr "Wistia"
+
+#: views/system/video_dialog.php:32
+msgid "HTML5"
+msgstr "HTML5"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:84
+#: views/system/video_dialog.php:29
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:83
+#: views/system/video_dialog.php:26
+msgid "Youtube"
+msgstr "Youtube"
+
+#: views/system/video_dialog.php:23
+msgid "Choose video type"
+msgstr "选择视频类型"
+
+#: views/system/video_dialog.php:16
+msgid "Loading Item Data..."
+msgstr "正在加载项目数据..."
+
+#: views/system/video_dialog.php:11
+msgid "Add Media"
+msgstr "添加媒体"
+
+#: views/library.php:65
+msgid "My Library"
+msgstr "我的库"
+
+#: views/library.php:46
+msgid "Background Addons"
+msgstr "背景组件"
+
+#: views/objects/settings_view.class.php:41
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: views/objects/addons_view.class.php:66
+msgid "Manage"
+msgstr "管理"
+
+#: views/objects/mappicker_view.class.php:405
+msgid "Choose Map"
+msgstr "选择地图"
+
+#: views/objects/mappicker_view.class.php:394
+msgid "No Map Chosen"
+msgstr "未选择地图"
+
+#: views/objects/mappicker_view.class.php:201
+msgid "For edit the map, please enter your google map API Key in"
+msgstr "若要编辑地图，请输入您的谷歌地图API密钥"
+
+#: views/objects/mappicker_view.class.php:141
+msgid "Language"
+msgstr "语言"
+
+#: views/objects/mappicker_view.class.php:138
+msgid "Language and Controls"
+msgstr "语言和控制"
+
+#: views/objects/mappicker_view.class.php:99
+msgid "Marker Image"
+msgstr "标记图像"
+
+#: views/objects/mappicker_view.class.php:85
+msgid "Marker"
+msgstr "标记"
+
+#: views/objects/mappicker_view.class.php:81
+msgid "Goto My Location"
+msgstr "转到我的位置"
+
+#: views/objects/mappicker_view.class.php:74
+msgid "Map Height"
+msgstr "地图高度"
+
+#: views/objects/mappicker_view.class.php:73
+msgid "Map Width"
+msgstr "地图宽度"
+
+#: views/objects/mappicker_view.class.php:71
+msgid "Size and Location"
+msgstr "大小和位置"
+
+#: views/objects/layouts_view.class.php:244
+msgid "Categories Message"
+msgstr "分类信息"
+
+#: views/objects/layouts_view.class.php:235
+msgid "Set Category to Page"
+msgstr "设置页面分类"
+
+#: views/objects/layouts_view.class.php:215
+msgid "Sort: "
+msgstr "排序："
+
+#: views/objects/layouts_view.class.php:211
+msgid "Clear Filter"
+msgstr "清除过滤器"
+
+#: views/objects/layouts_view.class.php:210
+msgid "Filter"
+msgstr "过滤器"
+
+#: views/objects/layouts_view.class.php:59
+msgid " export file"
+msgstr " 导出文件"
+
+#: views/objects/layouts_view.class.php:58
+msgid " Categories"
+msgstr " 分类"
+
+#: views/objects/layouts_view.class.php:58
+msgid "Manage "
+msgstr "管理"
+
+#: views/objects/layouts_view.class.php:56
+msgid "Are you sure to delete this ?"
+msgstr "确定要删除吗？"
+
+#: views/objects/layouts_view.class.php:52
+msgid "My "
+msgstr "我的"
+
+#: views/objects/layouts_view.class.php:50
+msgid "  file..."
+msgstr " 文件..."
+
+#: views/library.php:45 views/objects/views_chooser.class.php:55
+msgid "Page Templates"
+msgstr "页面模板"
+
+#: views/library.php:41 views/library.php:92
+#: views/objects/layouts_view.class.php:317
+#: views/objects/views_chooser.class.php:51
+msgid "My Addons"
+msgstr "我的组件"
+
+#: views/objects/addon_view_childparams.class.php:1116
+msgid "Large (max width 780)"
+msgstr "Large (max width 780)"
+
+#: views/objects/addon_view_childparams.class.php:1109
+msgid "Thumb (max width 300)"
+msgstr "Thumb (max width 300)"
+
+#: views/objects/layouts_view.class.php:514
+#: views/objects/objects_list_view.class.php:190
+msgid "Export"
+msgstr "导出"
+
+#: views/objects/layouts_view.class.php:461
+#: views/objects/objects_list_view.class.php:149
+msgid "Actions"
+msgstr "操作"
+
+#: views/objects/layouts_view.class.php:55
+#: views/objects/objects_list_view.class.php:132
+msgid "Found"
+msgstr "发现"
+
+#: views/objects/objects_list_view.class.php:121
+#: views/objects/objects_list_view.class.php:237
+msgid "Are you sure you want to delete this"
+msgstr "你确定要删除这个吗"
+
+#: views/objects/addon_view.class.php:1803
+msgid "Delete From Widgets"
+msgstr "从组件中删除"
+
+#: views/objects/addon_view.class.php:1799
+msgid "Add / Update in Widgets"
+msgstr "在组件中添加/更新"
+
+#: views/objects/addon_view.class.php:1767
+msgid "exists"
+msgstr "存在"
+
+#: views/objects/addon_view.class.php:1765
+msgid "not exists"
+msgstr "不存在"
+
+#: views/objects/addon_view.class.php:1747
+msgid "Status"
+msgstr "状态"
+
+#: views/objects/addon_view.class.php:1744
+msgid "Select All Addons"
+msgstr "选择所有组件"
+
+#: views/objects/addon_view.class.php:1738
+msgid "Updating Addons"
+msgstr "正在更新组件"
+
+#: views/objects/addon_view.class.php:1730
+msgid "attribute"
+msgstr "属性"
+
+#: views/objects/addon_view.class.php:1685
+msgid "Bulk Operations"
+msgstr "批量操作"
+
+#: views/objects/addon_view.class.php:1176
+msgid "Update From Catalog"
+msgstr "从目录更新"
+
+#: views/objects/addon_view.class.php:1131
+msgid " Defaults"
+msgstr " 默认值"
+
+#: views/objects/addon_view.class.php:1076
+msgid " Javascript"
+msgstr " Javascript"
+
+#: views/objects/addon_view.class.php:1055
+msgid "Item CSS"
+msgstr "项目 CSS"
+
+#: views/objects/addon_view.class.php:1046
+msgid " CSS"
+msgstr " CSS"
+
+#: views/objects/addon_view.class.php:1021
+msgid "Item HTML 2"
+msgstr "项目 HTML 2"
+
+#: views/objects/addon_view.class.php:1008
+msgid "Item HTML"
+msgstr "项目 HTML"
+
+#: views/objects/addon_view.class.php:987
+msgid " Content"
+msgstr " 内容"
+
+#: views/objects/addon_view.class.php:981
+msgid " HTML"
+msgstr " HTML"
+
+#: views/objects/addon_view.class.php:892
+msgid "To show code examples in right panel "
+msgstr "在右侧面板中显示代码示例"
+
+#: views/objects/addon_view.class.php:891
+msgid "show documentation"
+msgstr "显示文档"
+
+#: views/objects/addon_view.class.php:890
+msgid "Powered by Twig Template Engine. "
+msgstr "Powered by Twig Template Engine. "
+
+#: views/objects/addon_view.class.php:872
+msgid "Widget Icon"
+msgstr "组件图标"
+
+#: views/objects/addon_view.class.php:870
+msgid "Link to resource"
+msgstr "链接到资源"
+
+#: views/objects/addon_view.class.php:864
+msgid "Widget Description"
+msgstr "组件描述"
+
+#: views/objects/addon_view.class.php:861
+#: views/objects/addon_view.class.php:1746
+msgid "Widget Title"
+msgstr "组件标题"
+
+#: views/objects/addon_view.class.php:733
+msgid "expand"
+msgstr "扩展"
+
+#: views/objects/addon_view.class.php:717
+msgid "Unset"
+msgstr "取消设置"
+
+#: views/objects/addon_view.class.php:716
+msgid "Set"
+msgstr "设置"
+
+#: views/objects/addon_view.class.php:714
+msgid " Assets Path: "
+msgstr "资源路径: "
+
+#: views/objects/addon_view.class.php:701
+msgid "[not set]"
+msgstr "[未设置]"
+
+#: views/objects/addon_view.class.php:643
+msgid "equals"
+msgstr "等于"
+
+#: views/objects/addon_view.class.php:633
+msgid "Include When:"
+msgstr "包括以下情况："
+
+#: views/objects/addon_view.class.php:606
+msgid "Libraries"
+msgstr "库文件"
+
+#: views/objects/addon_view.class.php:592
+msgid "JS / Css Includes"
+msgstr " JS / CSS 库"
+
+#: views/objects/addon_view.class.php:587
+msgid "Choose From Browser"
+msgstr "从浏览器中选择"
+
+#: views/objects/addon_view.class.php:500
+msgid "Assets"
+msgstr "资源"
+
+#: views/objects/addon_view.class.php:494
+msgid "js/css Includes"
+msgstr "JS / CSS 库"
+
+#: views/objects/addon_view.class.php:488
+msgid "Javascript"
+msgstr "Javascript"
+
+#: views/objects/addon_view.class.php:482
+msgid "CSS"
+msgstr "CSS"
+
+#: views/objects/addon_view.class.php:470
+msgid "Item Attributes"
+msgstr "项目属性"
+
+#: views/objects/addon_view.class.php:464
+msgid "Attributes"
+msgstr "属性"
+
+#: views/objects/addon_view.class.php:444
+#: views/objects/addon_view.class.php:984
+msgid "SVG Content"
+msgstr "SVG 内容"
+
+#: views/objects/addon_view.class.php:442
+msgid "HTML"
+msgstr "HTML"
+
+#: inc_php/unitecreator_dialog_param.class.php:900
+#: views/objects/addon_view.class.php:382
+msgid "Widget Type"
+msgstr "组件类型"
+
+#: views/objects/addon_view.class.php:103
+msgid "Enable Items"
+msgstr "启用项目"
+
+#: views/objects/activation_view.class.php:244
+msgid "Activate Your Pro Account"
+msgstr "激活你的专业帐户"
+
+#: views/objects/activation_view.class.php:210
+msgid "Deactivate Pro Version"
+msgstr "停用Pro版本"
+
+#: views/objects/activation_view.class.php:208
+msgid "This pro version is active!"
+msgstr "此专业版已激活！"
+
+#: views/objects/activation_view.class.php:190
+msgid "Thank you for purchasing from us and good luck"
+msgstr "感谢您从我们这里购买，祝您好运"
+
+#: views/objects/activation_view.class.php:183
+msgid "Refresh page to View Your Pro Catalog"
+msgstr "刷新页面以查看您的Pro目录"
+
+#: views/objects/activation_view.class.php:179
+msgid "DAYS"
+msgstr "天"
+
+#: views/objects/activation_view.class.php:174
+msgid "Hi Five"
+msgstr "击掌"
+
+#: views/objects/activation_view.class.php:164
+msgid "support center"
+msgstr "支持中心"
+
+#: views/objects/activation_view.class.php:164
+msgid "or contact our"
+msgstr "或联系我们"
+
+#: views/objects/activation_view.class.php:161
+msgid "Activation Failed"
+msgstr "激活失败"
+
+#: views/objects/activation_view.class.php:161
+msgid "Ooops"
+msgstr "哎呀"
+
+#: views/objects/activation_view.class.php:99
+msgid "Activating"
+msgstr "激活中"
+
+#: views/objects/activation_view.class.php:59
+#: views/objects/activation_view.class.php:188
+msgid "Your pro account is activated lifetime for this site"
+msgstr "您的专业帐户在此网站的生命周期内被激活"
+
+#: views/objects/activation_view.class.php:57
+msgid "You probably got your activation code wrong"
+msgstr "您的激活码可能不正确"
+
+#: views/objects/activation_view.class.php:54
+msgid "Go to My Account"
+msgstr "转到我的帐户"
+
+#: views/objects/activation_view.class.php:53
+msgid "If you already purchased, get the key from my account?"
+msgstr "如果你已经买了，从我的帐户上取得钥匙？"
+
+#: views/objects/activation_view.class.php:51
+msgid "Don't have a pro activation key?"
+msgstr "没有pro激活密钥？"
+
+#: views/objects/activation_view.class.php:49
+msgid "View our pricing plans"
+msgstr "查看我们的定价计划"
+
+#: views/objects/activation_view.class.php:46
+msgid "Paste your activation key here"
+msgstr "在此处粘贴激活密钥"
+
+#: views/objects/activation_view.class.php:44
+msgid "+100 page templates and +50 section designs"
+msgstr "+ 100页模板 和 +50 区段设计"
+
+#: views/objects/activation_view.class.php:42
+msgid "Unleash access to +700 addons,"
+msgstr "释放对+700个插件的访问权限，"
+
+#: views/objects/activation_view.class.php:41
+msgid "GO PRO"
+msgstr "到专业版"
+
+#: views/assets.php:11
+msgid "Assets Manager"
+msgstr "资源管理者"
+
+#: views/templates/addon_defaults.php:54
+msgid "Back to Widgets List"
+msgstr "返回组件列表"
+
+#: views/templates/addon_defaults.php:51
+msgid "Edit This Widget"
+msgstr "编辑此组件"
+
+#: views/templates/addon_defaults.php:39
+msgid "Save Defaults"
+msgstr "保存默认值"
+
+#: views/templates/addon_defaults.php:40 views/templates/test_addon.php:56
+#: views/testaddonnew.php:179
+msgid "saving..."
+msgstr "正在保存..."
+
+#: views/templates/test_addon.php:55 views/testaddonnew.php:178
+msgid "Save Data"
+msgstr "保存数据"
+
+#: views/templates/test_addon.php:51 views/testaddonnew.php:174
+msgid "Delete Data"
+msgstr "删除数据"
+
+#: views/templates/test_addon.php:50 views/testaddonnew.php:173
+msgid "loading..."
+msgstr "载入中..."
+
+#: views/templates/test_addon.php:49 views/testaddonnew.php:172
+msgid "Restore Data"
+msgstr "恢复数据"
+
+#: views/templates/addon_defaults.php:47 views/templates/test_addon.php:46
+#: views/testaddonnew.php:169
+msgid "Preview New Tab"
+msgstr "新选项卡中预览"
+
+#: views/templates/addon_defaults.php:44 views/templates/test_addon.php:44
+#: views/testaddonnew.php:167
+msgid "Hide Preview"
+msgstr "隐藏预览"
+
+#: views/templates/addon_defaults.php:43 views/templates/test_addon.php:43
+#: views/testaddonnew.php:166
+msgid "To Preview"
+msgstr "预览"
+
+#: views/objects/addon_view.class.php:1130 views/templates/test_addon.php:30
+#: views/testaddonnew.php:153
+msgid " List"
+msgstr " 列表"
+
+#: views/objects/addon_view.class.php:1130 views/templates/test_addon.php:30
+#: views/testaddonnew.php:153
+msgid "Back To "
+msgstr "回到 "
+
+#: views/templates/test_addon.php:28 views/testaddonnew.php:151
+msgid "Edit This "
+msgstr "编辑这个"
+
+#: views/addondefaults.php:37
+msgid "Widget Defaults"
+msgstr "组件默认值"
+
+#: provider/views/layout_outer.php:15
+msgid "Edit Page"
+msgstr "编辑页面"
+
+#: provider/views/layout_outer.php:12
+msgid "New Page"
+msgstr "新建页面"
+
+#: provider/views/general_settings.php:15
+msgid "Theme Developers"
+msgstr "主题开发者"
+
+#: provider/views/master_view.php:83
+msgid "Select Audio"
+msgstr "选择音频"
+
+#: provider/views/master_view.php:77
+msgid "Selected Audio: "
+msgstr "所选音频："
+
+#: provider/views/master_view.php:40
+msgid "Selected Image: "
+msgstr "所选图像："
+
+#: provider/views/provider_activation_view.class.php:59
+msgid "Have Envato Market Activation Key? "
+msgstr "有Envato市场激活密钥吗？"
+
+#: provider/views/provider_activation_view.class.php:56
+msgid "Activate With Envato Key"
+msgstr "使用 Envato Key 激活"
+
+#: provider/views/provider_activation_view.class.php:42
+msgid "Don't have Envato Activation Key? "
+msgstr "没有Envato激活密钥？ "
+
+#: provider/views/provider_activation_view.class.php:40
+msgid "Activate With Blox Key"
+msgstr "使用 Blox Key 激活"
+
+#: provider/views/provider_activation_view.class.php:32
+msgid "You probably got your purchase code wrong"
+msgstr "你可能把你的购买代码弄错了"
+
+#: provider/views/provider_activation_view.class.php:30
+msgid "We used to sell this product in codecanyon.net <br> Activate from this screen only if you bought it there."
+msgstr "我们曾经在codecanyon.net中出售该产品。<br>仅当您在此屏幕上购买时，才可以从此屏幕激活。"
+
+#: provider/views/provider_activation_view.class.php:24
+msgid "Paste your envato purchase code here <br> from the pro version item"
+msgstr "将您的envato购买代码粘贴到pro版本项目的<br>此处"
+
+#: provider/views/provider_activation_view.class.php:22
+msgid "Activate Blox Pro - Envato"
+msgstr "激活 Blox Pro - Envato"
+
+#: provider/views/provider_activation_view.class.php:19
+#: provider/views/provider_activation_view.class.php:72
+#: views/objects/activation_view.class.php:39
+msgid "Activate Blox Pro"
+msgstr "激活Blox Pro"
+
+#: provider/provider_settings_output.class.php:74
+msgid "Please type post title"
+msgstr "请输入文章标题类型"
+
+#: provider/provider_helper.class.php:548
+msgid "Page Name"
+msgstr "页面名称"
+
+#. translators: Admin screen title. 1: Admin screen name, 2: Network or site
+#. name
+#: provider/functions_wordpress.class.php:3285
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr "%1$s &lsaquo; %2$s &#8212; WordPress"
+
+#. translators: Admin screen title. 1: Admin screen name
+#: provider/functions_wordpress.class.php:3282
+msgid "%1$s &#8212; WordPress"
+msgstr "%1$s &#8212; WordPress"
+
+#. translators: User dashboard screen title. 1: Network name
+#: provider/functions_wordpress.class.php:3275
+msgid "User Dashboard: %s"
+msgstr "用户仪表板：%s"
+
+#. translators: Network admin screen title. 1: Network name
+#: provider/functions_wordpress.class.php:3272
+msgid "Network Admin: %s"
+msgstr "网络管理: %s"
+
+#: provider/functions_wordpress.class.php:2952
+msgid "[All Roles]"
+msgstr "[所有角色]"
+
+#: provider/provider_settings.class.php:680
+#: provider/provider_settings.class.php:1958
+msgid "Full"
+msgstr "Full (完整)"
+
+#: provider/functions_wordpress.class.php:1311
+msgid "Parent"
+msgstr "Parent (父级)"
+
+#: provider/functions_wordpress.class.php:1309
+msgid "Term ID"
+msgstr "项目 ID"
+
+#: provider/functions_wordpress.class.php:1308
+msgid "Term Group"
+msgstr "项目组"
+
+#: provider/functions_wordpress.class.php:1294
+msgid "Ascending"
+msgstr "升序"
+
+#: provider/functions_wordpress.class.php:1293
+msgid "Descending"
+msgstr "降序"
+
+#: provider/functions_wordpress.class.php:1279
+msgid "Custom Field Value (numeric)"
+msgstr "自定义字段值（数字）"
+
+#: provider/functions_wordpress.class.php:1278
+msgid "Custom Field Value"
+msgstr "自定义字段值"
+
+#: provider/functions_wordpress.class.php:1275
+msgid "Parent Post"
+msgstr "父文章"
+
+#: provider/functions_wordpress.class.php:1274
+msgid "Menu Order"
+msgstr "菜单顺序"
+
+#: provider/functions_wordpress.class.php:1273
+msgid "Unsorted"
+msgstr "未分类"
+
+#: provider/functions_wordpress.class.php:1272
+msgid "Random"
+msgstr "随机"
+
+#: provider/functions_wordpress.class.php:1271
+msgid "Number Of Comments"
+msgstr "评论数"
+
+#: provider/functions_wordpress.class.php:1270
+msgid "Last Modified"
+msgstr "上一次更改"
+
+#: provider/functions_wordpress.class.php:1269
+#: provider/provider_settings.class.php:1215
+#: provider/provider_settings.class.php:1690
+msgid "Author"
+msgstr "作者"
+
+#: provider/functions_wordpress.class.php:1268
+#: provider/functions_wordpress.class.php:1307
+msgid "Slug"
+msgstr "Slug"
+
+#: provider/functions_wordpress.class.php:1263
+msgid "Sale Price (WooCommerce)"
+msgstr "销售价格（WooCommerce）"
+
+#: provider/functions_wordpress.class.php:1262
+msgid "Price (WooCommerce)"
+msgstr "价格（WooCommerce）"
+
+#: provider/functions_wordpress.class.php:1258
+#: provider/provider_settings.class.php:1216
+msgid "Date"
+msgstr "日期"
+
+#: provider/functions_wordpress.class.php:1257
+msgid "Post ID"
+msgstr "文章 ID"
+
+#: provider/functions_wordpress.class.php:1108
+msgid "[All Categories]"
+msgstr "[所有类别]"
+
+#: provider/woocommerce_integrate.class.php:871
+msgid "Price"
+msgstr "价格"
+
+#: provider/woocommerce_integrate.class.php:870
+msgid "Product Name"
+msgstr "产品名称"
+
+#: provider/provider_params_processor.class.php:4159
+msgid "menu not selected"
+msgstr "菜单未选择"
+
+#: provider/provider_operations.class.php:244
+msgid "[please select post]"
+msgstr "[请选择文章]"
+
+#: provider/core/plugins/create_addons/plugin.php:99
+msgid "Export Category "
+msgstr "导出分类 "
+
+#: provider/core/plugins/create_addons/plugin.php:85
+msgid "Add Widget"
+msgstr "添加组件"
+
+#: provider/core/plugins/unlimited_elements/views/templates_elementor.php:37
+msgid "Elementor Templates"
+msgstr "Elementor 元素模板"
+
+#: provider/core/plugins/unlimited_elements/views/templates_elementor.php:22
+msgid "Manage Templates for Elementor"
+msgstr "管理Elementor模板"
+
+#: provider/core/plugins/unlimited_elements/views/backgrounds.php:22
+msgid "Manage Background Widgets"
+msgstr "管理背景组件"
+
+#: provider/core/plugins/unlimited_elements/views/custom_posttypes.php:22
+msgid "Manage Custom Post Types"
+msgstr "管理自定义文章类型"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:226
+msgid "Change License"
+msgstr "更改许可证"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:185
+msgid "The Unlimited Elements UPress license is not active"
+msgstr "Unlimited Elements UPress 许可证无效"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:180
+msgid "The Unlimited Elements UPress license is active"
+msgstr "Unlimited Elements UPress 许可证处于激活状态"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:151
+#: views/license.php:22
+msgid " License"
+msgstr " 许可证"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:141
+msgid "Unlimited Elements is activated lifetime for this site!"
+msgstr "“Unlimited Elements (无限元素)”已在该站点激活，终身有效！"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:111
+msgid "Unleash access to +700 widgets for Elementor"
+msgstr "释放对Elementor的+700个组件的访问权限"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:109
+#: provider/views/provider_activation_view.class.php:25
+msgid "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+msgstr "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:105
+msgid "Activate Unlimited Elements"
+msgstr "激活无限元素"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:50
+msgid "The activation key (product key) is located in <br> downloads section in CodeCanyon."
+msgstr "激活密钥（产品密钥）位于CodeCanyon的<br>下载部分。"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:42
+msgid "Paste your envato activation key here"
+msgstr "将您的envato激活密钥粘贴在此处"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:24
+msgid "Activate In UPress"
+msgstr "在 UPress 中激活"
+
+#: provider/core/plugins/unlimited_elements/views/licenseelementor.php:22
+msgid "Activate Unlimited Elements Plugin UPress version"
+msgstr "激活Unlimited Elements插件UPress版本"
+
+#: provider/core/plugins/unlimited_elements/views/addons_elementor.php:22
+msgid "Manage Widgets for Elementor"
+msgstr "管理 Elementor 组件"
+
+#: provider/core/plugins/unlimited_elements/views/svg_shapes.php:22
+msgid "Manage SVG Shapes"
+msgstr "管理SVG形状"
+
+#: provider/core/plugins/unlimited_elements/addontype_elementor_template.class.php:50
+msgid "This template is available<br>when the plugin is activated."
+msgstr "当插件激活时，<br>该模板可用。"
+
+#: inc_php/unitecreator_client_text.php:97
+#: inc_php/unitecreator_dialog_param.class.php:197
+#: provider/core/plugins/unlimited_elements/addontype_elementor_template.class.php:47
+msgid "Elementor Template"
+msgstr "Elementor 模板"
+
+#: provider/core/plugins/unlimited_elements/addontype_elementor_template.class.php:46
+#: provider/provider_operations.class.php:189
+msgid "Template"
+msgstr "模板"
+
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:118
+msgid "Upress License"
+msgstr "Upress许可证"
+
+#: provider/core/plugins/unlimited_elements/addontype_elementor_template.class.php:45
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:109
+msgid "Templates"
+msgstr "模板"
+
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:64
+msgid "The category name is unchangable, because of the addons consolidation, if changed it could break the layout."
+msgstr "类别名称是不可更改的，因为插件合并，如果更改它可能会破坏布局。"
+
+#: provider/core/plugins/unlimited_elements/addontype_elementor_template.class.php:49
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:16
+msgid "Activate Plugin"
+msgstr "激活插件"
+
+#: provider/core/plugins/unlimited_elements/addontype_elementor.class.php:30
+msgid "Elementor Widget"
+msgstr "Elementor 组件"
+
+#: provider/core/plugins/unlimited_elements/addontype_elementor.class.php:29
+#: views/objects/addon_view.class.php:1732
+msgid "Widget"
+msgstr "组件"
+
+#: provider/core/plugins/unlimited_elements/addontype_elementor.class.php:28
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:100
+msgid "Widgets"
+msgstr "组件"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:63
+msgid "Unlimited Elements Template"
+msgstr "Unlimited Elements 模板"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:39
+msgid "All Templates"
+msgstr "所有模板"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:38
+msgid "No Template found in trash"
+msgstr "在回收站内找不到模板"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:37
+msgid "No Template Found"
+msgstr "未找到模板"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:36
+msgid "Search Template"
+msgstr "搜索模板"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:33
+msgid "New Template"
+msgstr "新的模板"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:32
+msgid "Edit Template"
+msgstr "编辑模板"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:31
+msgid "Add New Template"
+msgstr "添加新模板"
+
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:29
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:30
+msgid "Unlimited Elements Library"
+msgstr "Unlimited Elements 库"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1153
+msgid "The selector that the typography field will be related to. Can be related to several html tags."
+msgstr "排版字段将与之相关的选择器。可以与几个html标签相关。"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1147
+msgid "CSS Selector 3 (optional)"
+msgstr "CSS选择器3（可选）"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1136
+msgid "CSS Selector 2 (optional)"
+msgstr "CSS选择器2（可选）"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1101
+msgid "Mobile"
+msgstr "移动端"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1091
+msgid "Tablet"
+msgstr "平板端"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1078
+msgid "Desktop"
+msgstr "桌面端"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1072
+msgid " Default Values"
+msgstr "默认值"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1026
+msgid "* You can use those placeholders: {{VALUE}} &nbsp; {{CURRENT_ITEM}}"
+msgstr "* 您可以使用以下占位符：{{VALUE}}&nbsp;{{CURRENT_ITEM}}"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1006
+msgid "* Those settings are for the attribute up and down arrows only."
+msgstr "* 这些设置仅适用于属性的向上和向下箭头。"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:997
+msgid "Max Value"
+msgstr "最大值"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:992
+msgid "Min Value"
+msgstr "最小值"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:965
+msgid "Suffix"
+msgstr "后缀"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:924
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:946
+msgid "Example: .my-box"
+msgstr "示例：.my-box"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:697
+msgid "* The default value can be empty as well"
+msgstr "* 默认值也可以为空"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:408
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:450
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1002
+msgid "Step"
+msgstr "跳动值"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:407
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:440
+msgid "Max"
+msgstr "最大"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:406
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:430
+msgid "Min"
+msgstr "最小"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:393
+msgid "VH, PX"
+msgstr "VH, PX"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:392
+msgid "PX, %, EM"
+msgstr "PX, %, EM"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:391
+msgid "PX, %"
+msgstr "PX, %"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:389
+msgid "VH"
+msgstr "VH"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:366
+msgid "Border Width - Mobile"
+msgstr "边框宽度 - 手机端"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:358
+msgid "Border Width - Tablet"
+msgstr "边框宽度 - 平板端"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:350
+msgid "Border Width"
+msgstr "边框宽度"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:342
+msgid "Border Color"
+msgstr "边框颜色"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:312
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:334
+msgid "Border Type"
+msgstr "边框类型"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:286
+msgid "SVG Output"
+msgstr "SVG 输出"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:282
+msgid "Put SVG as"
+msgstr "将 SVG 作为"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:275
+msgid "Enable SVG Select"
+msgstr "启用 SVG 选择"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:247
+msgid "Include Avatar"
+msgstr "包括头像"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:240
+msgid "Include User Meta Data"
+msgstr "包括用户元数据"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:232
+msgid "Use this attribute to get the WP Users List"
+msgstr "使用此属性获取WP用户列表"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:208
+msgid "WP Menu Reference"
+msgstr "WP菜单参考"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:206
+msgid "Information about menu classes you can find here"
+msgstr "您可以在此处找到有关菜单类的信息"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:168
+msgid "Default Value - Mobile"
+msgstr "默认值 - 移动端"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:161
+msgid "Default Value - Tablet"
+msgstr "默认值 - 平板端"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:148
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1066
+msgid "Responsive Control"
+msgstr "响应控制"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:70
+msgid "CSS Selector Value"
+msgstr "CSS选择器值"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:53
+msgid "* You can use those placeholders: "
+msgstr "* 您可以使用这些占位符："
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:45
+msgid "Example .my-price"
+msgstr "示例 .my-price"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:32
+msgid "* This attribute generate css only within the css selectors, it don't have placeholder in the widget editor"
+msgstr "* 此属性仅在css选择器内生成css，在组件编辑器中没有占位符"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:28
+msgid "Example"
+msgstr "例"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:25
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:62
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1125
+msgid "CSS Selector"
+msgstr "CSS选择器"
+
+#: provider/core/plugins/unlimited_elements/addontype_cpt.class.php:28
+msgid "Custom Post Type"
+msgstr "自定义文章类型"
+
+#: provider/core/plugins/unlimited_elements/addontype_cpt.class.php:26
+msgid "Custom Post Types"
+msgstr "自定义文章类型"
+
+#: provider/core/plugins/unlimited_elements/elementor/controls/control_shape.php:50
+msgid "Choose Shape"
+msgstr "选择形状"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_background_widget.class.php:72
+msgid "No settings for this background"
+msgstr "此背景没有设置"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1388
+msgid "Export With Images"
+msgstr "带有图像导出"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1144
+msgid "Import Now"
+msgstr "现在导入"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1138
+msgid "Choose an Elementor template .zip file, that you exported using \"export with images\" button"
+msgstr "选择您使用“带有图像导出”按钮导出的Elementor模板.zip文件"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1135
+msgid "Import Template With Images"
+msgstr "导入带有图像的模板"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1088
+msgid "Layout Imported Successfully"
+msgstr "布局成功导入"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1087
+msgid "Uploading layout file..."
+msgstr "正在上传布局文件..."
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1086
+msgid "Import VC Layout"
+msgstr "导入VC布局"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1076
+#: views/objects/layouts_view.class.php:279
+msgid "Overwrite Addons"
+msgstr "覆盖组件"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1062
+msgid "Select vc layout export file (zip)"
+msgstr "选择VC版面导出文件（zip）"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1053
+msgid "Import Unlimited Elements Layout to Elementor"
+msgstr "将无限元素布局导入到Elementor"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:903
+#: views/objects/addon_view.class.php:894
+msgid "click here"
+msgstr "单击此处"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:902
+msgid "To install more backgrounds"
+msgstr "安装更多背景"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:893
+msgid "Background Type"
+msgstr "背景类型"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:886
+msgid "Unlimited Background"
+msgstr "无限背景"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:870
+msgid "[No Background]"
+msgstr "[默认]"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_layout_exporter.class.php:413
+msgid "Imported Template: "
+msgstr "导入的模板："
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_layout_exporter.class.php:407
+msgid "templates import failed"
+msgstr "模板导入失败"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2649
+msgid "Select Style"
+msgstr "选择样式"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2438
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2554
+msgid "Posts Query"
+msgstr "文章查询(UE)"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2436
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2580
+msgid "Products Query"
+msgstr "产品查询(UE)"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2185
+msgid "Section "
+msgstr "区段"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2100
+msgid "Show widget data for debugging purposes. Please turn off this option when you releasing the widget"
+msgstr "显示组件数据以进行调试。释放小部件时，请关闭此选项"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2093
+msgid "Show Widget Data For Debug"
+msgstr "显示组件数据进行调试"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1199
+msgid "Width"
+msgstr "Width"
+
+#: inc_php/unitecreator_dialog_param.class.php:791
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:331
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:396
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:422
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:476
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:831
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2096
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:85
+#: provider/provider_settings.class.php:1347
+#: views/objects/layouts_view.class.php:55
+#: views/objects/objects_list_view.class.php:132
+msgid "No"
+msgstr "否"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:330
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:395
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:421
+#: provider/core/plugins/unlimited_elements/elementor/elementor_dynamic_visibility.class.php:475
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:830
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2095
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:84
+msgid "Yes"
+msgstr "是"
+
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:445
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2870
+msgid "Styles"
+msgstr "样式"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:218
+msgid "Space Between"
+msgstr "之间的间距"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:196
+msgid "Active"
+msgstr "激活"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:176
+msgid "Hover"
+msgstr "悬停"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:156
+msgid "Normal"
+msgstr "标准"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:145
+msgid "Colors"
+msgstr "颜色"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:69
+msgid "Numbers"
+msgstr "数字"
+
+#: inc_php/unitecreator_entrance_animations.class.php:56
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:587
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:68
+#: provider/provider_settings_multisource.class.php:25
+msgid "None"
+msgstr "无"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:64
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:125
+msgid "Pagination"
+msgstr "分页"
+
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:33
+msgid "Posts Pagination"
+msgstr "文章分页(UE)"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:70
+msgid "Please describe the reason you are deactivating the plugin"
+msgstr "请描述停用插件的原因"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:69
+msgid "Other"
+msgstr "其他"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:64
+msgid "I found to many bugs"
+msgstr "我发现了很多bug"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:60
+msgid "I couldn't get the plugin to work"
+msgstr "我无法让插件工作"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:56
+msgid "It's a temporary deactivation"
+msgstr "临时停用"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:53
+msgid "Do you mind writing us the name of the diffrent plugin you intend to use?"
+msgstr "你介意给我们写下你打算使用的不同插件的名字吗？"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:52
+msgid "I found a better plugin that has the same features"
+msgstr "我找到了一个更好的插件，有相同的功能"
+
+#: provider/core/plugins/unlimited_elements/feedback.class.php:48
+msgid "I don't need the plugin anymore"
+msgstr "我不再需要这个插件了"
+
+#: provider/admin_notices.class.php:99
+msgid "Dismiss unlimited elements message"
+msgstr "取消无限元素消息"
+
+#: provider/admin_notices.class.php:98
+msgid "Dismiss"
+msgstr "取消"
+
+#: provider/provider_actions.class.php:36
+msgid "Updated"
+msgstr "已更新"
+
+#: provider/provider_actions.class.php:31
+msgid "Layout Created, redirecting..."
+msgstr "已创建布局，正在重定向.."
+
+#: provider/provider_admin.class.php:300
+msgid "this view not allowed in the plugin"
+msgstr "组件中不允许使用此视图"
+
+#: provider/provider_browser.class.php:22
+msgid "This addon is available<br>when blox is activated."
+msgstr "当blox被激活时<br>此加载项可用。"
+
+#: provider/provider_browser.class.php:21
+msgid "Activate Blox"
+msgstr "激活Blox"
+
+#: provider/provider_web_api.class.php:225
+msgid "Please enter page name"
+msgstr "请输入页面名称"
+
+#: provider/provider_settings.class.php:335
+#: provider/provider_settings.class.php:670
+#: provider/provider_settings.class.php:898
+#: provider/provider_settings.class.php:1948
+msgid "Show Query Debug"
+msgstr "显示查询调试"
+
+#: provider/provider_settings.class.php:333
+#: provider/provider_settings.class.php:668
+#: provider/provider_settings.class.php:896
+#: provider/provider_settings.class.php:1946
+msgid "Show the query for debugging purposes. Don't forget to turn it off before page release"
+msgstr "显示查询以进行调试。 不要忘记在发布页面之前将其关闭"
+
+#: provider/provider_settings.class.php:1934
+msgid "Query ID (pro)"
+msgstr "查询ID（专业版）"
+
+#: provider/provider_settings.class.php:1928
+msgid "Query ID"
+msgstr "查询 ID"
+
+#: provider/provider_settings.class.php:1908
+msgid "&nbsp;&nbsp;Order By Direction"
+msgstr "按指令排序"
+
+#: provider/provider_settings.class.php:641
+#: provider/provider_settings.class.php:1897
+msgid "&nbsp;&nbsp;Custom Field Name"
+msgstr "&nbsp;&nbsp自定义字段名"
+
+#: provider/provider_settings.class.php:1830
+msgid "100 posts if empty"
+msgstr "100篇文章（如果为空）"
+
+#: provider/provider_settings.class.php:567
+#: provider/provider_settings.class.php:1710
+msgid "Exclude By"
+msgstr "排除"
+
+#: provider/provider_settings.class.php:1648
+msgid "Include Terms Children"
+msgstr "包括子分类"
+
+#: provider/provider_settings.class.php:1636
+msgid "Include By Terms Relation"
+msgstr "包括关系(和/或)"
+
+#: provider/provider_settings.class.php:1620
+msgid "Include By Terms"
+msgstr "包括分类"
+
+#: provider/provider_settings.class.php:465
+#: provider/provider_settings.class.php:1253
+msgid "Include By"
+msgstr "包括方式"
+
+#: provider/provider_settings.class.php:1193
+msgid "Post Types"
+msgstr "文章类型"
+
+#: provider/provider_settings.class.php:1140
+msgid "Choose the source of the posts list"
+msgstr "选择内容列表的源"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:662
+#: provider/provider_settings.class.php:944
+msgid "Gradient Color2"
+msgstr "渐变色 2"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:656
+#: provider/provider_settings.class.php:943
+msgid "Gradient Color1"
+msgstr "渐变色 1"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:612
+#: provider/provider_settings.class.php:936
+msgid "Solid Color"
+msgstr "纯色"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:597
+#: provider/provider_settings.class.php:919
+msgid "Gradient"
+msgstr "渐变色"
+
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:592
+#: provider/provider_settings.class.php:918
+msgid "Solid"
+msgstr "纯色"
+
+#: provider/provider_settings.class.php:917
+msgid "No Background"
+msgstr "无背景"
+
+#: provider/provider_settings.class.php:793
+msgid "Exclude Uncategorized Category"
+msgstr "排除未分类的类别"
+
+#: provider/provider_settings.class.php:786
+msgid "Don't Exclude"
+msgstr "不排除"
+
+#: provider/provider_settings.class.php:785
+msgid "Exclude"
+msgstr "排除"
+
+#: provider/provider_settings.class.php:777
+msgid "Exclude Categories"
+msgstr "排除分类"
+
+#: provider/provider_settings.class.php:763
+msgid "Include Children"
+msgstr "包括子元素"
+
+#: provider/provider_settings.class.php:753
+msgid "Include"
+msgstr "包括"
+
+#: provider/provider_settings.class.php:752
+msgid "Don't Include"
+msgstr "不包括"
+
+#: provider/provider_settings.class.php:744
+msgid "Parent Category"
+msgstr "父分类"
+
+#: provider/provider_settings.class.php:739
+msgid "Write parent category slug, if no parent leave empty"
+msgstr "写入父类别 slug，如果没有父类别留空"
+
+#: provider/provider_settings.class.php:738
+msgid "Example: cat1"
+msgstr "示例：cat1"
+
+#: provider/provider_settings.class.php:862
+msgid "Hide Empty"
+msgstr "隐藏空"
+
+#: provider/provider_settings.class.php:302
+#: provider/provider_settings.class.php:655
+#: provider/provider_settings.class.php:846
+msgid "Order Direction"
+msgstr "排序方向"
+
+#: provider/provider_settings.class.php:292
+#: provider/provider_settings.class.php:628
+#: provider/provider_settings.class.php:818
+#: provider/provider_settings.class.php:1883
+msgid "Order By"
+msgstr "排序"
+
+#: provider/provider_settings.class.php:578
+msgid "Exclude Terms"
+msgstr "排除项目"
+
+#: provider/provider_settings.class.php:445
+msgid "Select Taxonomy"
+msgstr "选择分类法"
+
+#: provider/provider_settings.class.php:424
+msgid "Select Post Type"
+msgstr "选择文章类型"
+
+#: provider/provider_settings.class.php:369
+msgid "Max Depth"
+msgstr "最大层级"
+
+#: provider/provider_settings.class.php:364
+msgid "3"
+msgstr "3"
+
+#: provider/provider_settings.class.php:363
+msgid "2"
+msgstr "2"
+
+#: provider/provider_settings.class.php:362
+msgid "1"
+msgstr "1"
+
+#: provider/provider_settings.class.php:361
+msgid "All Depths"
+msgstr "所有层级"
+
+#: provider/provider_settings.class.php:357
+msgid "Select Menu"
+msgstr "选择菜单"
+
+#: provider/provider_settings.class.php:232
+msgid "Exclude Roles"
+msgstr "排除角色"
+
+#: provider/provider_settings.class.php:214
+msgid "Select Roles"
+msgstr "选择角色"
+
+#: provider/provider_settings.class.php:211
+msgid "All Roles"
+msgstr "所有角色"
+
+#: provider/provider_settings.class.php:85
+msgid "All Categories"
+msgstr "所有分类"
+
+#: provider/provider_functions.class.php:789
+msgid "Choose the update file:"
+msgstr "选择更新文件："
+
+#: provider/provider_functions.class.php:779
+msgid "You can change those settings in php.ini or contact your hosting provider"
+msgstr "您可以在php.ini中更改这些设置，或与您的托管服务提供商联系"
+
+#: provider/provider_functions.class.php:777
+msgid "Max Upload Size"
+msgstr "最大上传大小"
+
+#: provider/provider_functions.class.php:775
+msgid "Post Max Size"
+msgstr "文章最大大小"
+
+#: provider/provider_functions.class.php:771
+msgid "File example: unlimited-elements0.x.x.zip"
+msgstr "文件示例：unlimited-elements0.x.x.zip"
+
+#: provider/provider_functions.class.php:769
+msgid "The files will be overwriten"
+msgstr "文件将被覆盖"
+
+#: provider/provider_functions.class.php:766
+msgid "To update the plugin please select the plugin install package."
+msgstr "要更新插件，请选择插件安装包。"
+
+#: provider/provider_functions.class.php:754
+#: provider/provider_functions.class.php:796
+msgid "Update Plugin"
+msgstr "更新插件"
+
+#: provider/provider_functions.class.php:744
+msgid "Unlimited Elements Plugin"
+msgstr "Unlimited Elements 插件"
+
+#: provider/provider_functions.class.php:509
+msgid "All rights reserved"
+msgstr "版权所有"
+
+#: inc_php/unitecreator_categories.class.php:767
+msgid "This category is installed"
+msgstr "此类别已安装"
+
+#: inc_php/unitecreator_categories.class.php:757
+msgid "This category not installed yet in your catalog"
+msgstr "目录中尚未安装此类别"
+
+#: inc_php/unitecreator_categories.class.php:393
+msgid "[From Gallery Settings]"
+msgstr "[从图库设置]"
+
+#: inc_php/unitecreator_categories.class.php:390
+msgid "[Add New Category]"
+msgstr "[添加新分类]"
+
+#: inc_php/unitecreator_categories.class.php:387
+#: provider/provider_layouts.class.php:246
+msgid "[Not Selected]"
+msgstr "[未选中的]"
+
+#: inc_php/unitecreator_addon_config.class.php:140
+msgid "Config"
+msgstr "配置"
+
+#: inc_php/unitecreator_addon_config.class.php:135
+msgid "Addon Title"
+msgstr "组件标题"
+
+#: inc_php/unitecreator_dialog_param.class.php:1901
+msgid "Edit Variable"
+msgstr "编辑变量"
+
+#: inc_php/unitecreator_dialog_param.class.php:1900
+msgid "Update Variable"
+msgstr "更新变量"
+
+#: inc_php/unitecreator_dialog_param.class.php:1898
+#: inc_php/unitecreator_dialog_param.class.php:1899
+#: views/objects/addon_view.class.php:817
+msgid "Add Variable"
+msgstr "添加变量"
+
+#: inc_php/unitecreator_dialog_param.class.php:1748
+msgid " under \"downloads\" section."
+msgstr "在“下载”部分下。"
+
+#: inc_php/unitecreator_dialog_param.class.php:1746
+msgid "The PRO version (unlimited-elements-pro) is available for download in the "
+msgstr "Unlimited Elements Pro 可在以下位置下载："
+
+#: inc_php/unitecreator_dialog_param.class.php:1742
+msgid "This attribute is available only in the ."
+msgstr "此属性仅可用在"
+
+#: inc_php/unitecreator_dialog_param.class.php:1735
+msgid "Show attribute content on admin side"
+msgstr "在管理端显示属性内容"
+
+#: inc_php/unitecreator_dialog_param.class.php:1732
+msgid "Admin Label"
+msgstr "管理标签"
+
+#: inc_php/unitecreator_dialog_param.class.php:1654
+msgid "PRO version"
+msgstr "专业版"
+
+#: inc_php/unitecreator_dialog_param.class.php:1653
+msgid "client panel"
+msgstr "客户面板"
+
+#: inc_php/unitecreator_dialog_param.class.php:1615
+msgid "Attribute Type: "
+msgstr "属性类型："
+
+#: inc_php/unitecreator_dialog_param.class.php:1576
+msgid "Update Attribute"
+msgstr "更新属性"
+
+#: inc_php/unitecreator_dialog_param.class.php:1575
+msgid "Edit Attribute"
+msgstr "编辑属性"
+
+#: inc_php/unitecreator_dialog_param.class.php:1570
+msgid "Update Form Item"
+msgstr "更新表单项"
+
+#: inc_php/unitecreator_dialog_param.class.php:1569
+msgid "Edit Form Item"
+msgstr "编辑表单项"
+
+#: inc_php/unitecreator_dialog_param.class.php:1420
+msgid "Checked By Default"
+msgstr "默认选中"
+
+#: inc_php/unitecreator_dialog_param.class.php:1304
+msgid "Sanitize Type"
+msgstr "清理类型"
+
+#: inc_php/unitecreator_dialog_param.class.php:1292
+msgid "This parameter will go from GET query string"
+msgstr "此专业版已激活！此参数将来自GET查询字符串"
+
+#: inc_php/unitecreator_dialog_param.class.php:1261
+msgid "Select Item Attribute"
+msgstr "选择项目属性"
+
+#: inc_php/unitecreator_dialog_param.class.php:1257
+msgid "Select Main Attribute"
+msgstr "选择主属性"
+
+#: inc_php/unitecreator_dialog_param.class.php:1244
+msgid "The %numitem% is 1,2,3,4... numbers serials"
+msgstr "%numitem%是1,2,3,4...数字序列"
+
+#: inc_php/unitecreator_dialog_param.class.php:1231
+msgid "Value for Last Item"
+msgstr "最后一项的值"
+
+#: inc_php/unitecreator_dialog_param.class.php:1214
+msgid "Value for First Item"
+msgstr "第一项的值"
+
+#: inc_php/unitecreator_dialog_param.class.php:1207
+#: inc_php/unitecreator_dialog_param.class.php:1222
+#: inc_php/unitecreator_dialog_param.class.php:1239
+msgid "Add Numitem"
+msgstr "添加 Numitem"
+
+#: inc_php/unitecreator_dialog_param.class.php:1165
+msgid "Html Output"
+msgstr "Html 导出"
+
+#: inc_php/unitecreator_dialog_param.class.php:1164
+msgid "Attribute Value"
+msgstr "属性值"
+
+#: inc_php/unitecreator_dialog_param.class.php:956
+msgid "For WooCommerce Products"
+msgstr "对于 WooCommerce 产品"
+
+#: inc_php/unitecreator_dialog_param.class.php:938
+msgid "Use Post Category"
+msgstr "使用文章类别"
+
+#: inc_php/unitecreator_dialog_param.class.php:927
+msgid "Post Example For Custom Fields"
+msgstr "文章示例的自定义字段"
+
+#: inc_php/unitecreator_dialog_param.class.php:925
+msgid "Choose some post for the custom fields to appear in attributes list in the right"
+msgstr "选择一些文章，以便自定义字段显示在右侧的属性列表中"
+
+#: inc_php/unitecreator_dialog_param.class.php:803
+#: inc_php/unitecreator_dialog_param.class.php:933
+msgid "Use Custom Fields"
+msgstr "使用自定义字段"
+
+#: inc_php/unitecreator_dialog_param.class.php:788
+msgid "Post terms are post categories / tags and other custom types. Also called as taxonomies "
+msgstr "文章分类项是文章类别/标签和其他自定义类型。 也称为分类法"
+
+#: inc_php/unitecreator_dialog_param.class.php:758
+msgid "Choose Addon Type"
+msgstr "选择组件类型"
+
+#: inc_php/unitecreator_dialog_param.class.php:734
+msgid "Choose Query"
+msgstr "选择查询"
+
+#: inc_php/unitecreator_dialog_param.class.php:716
+msgid "Choose Dataset Type"
+msgstr "选择数据集类型"
+
+#: inc_php/unitecreator_dialog_param.class.php:690
+msgid "Default Audio File Url"
+msgstr "默认音频文件Url"
+
+#: inc_php/unitecreator_dialog_param.class.php:607
+msgid "Default Image"
+msgstr "默认图像"
+
+#: inc_php/unitecreator_dialog_param.class.php:1149
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:497
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:504
+msgid "Default Item"
+msgstr "默认项目"
+
+#: inc_php/unitecreator_dialog_param.class.php:1137
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:489
+msgid "Item Value"
+msgstr "项目值"
+
+#: inc_php/unitecreator_dialog_param.class.php:1136
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:488
+msgid "Item Text"
+msgstr "项目文本"
+
+#: inc_php/unitecreator_dialog_param.class.php:544
+msgid "(text near)"
+msgstr "(text near)"
+
+#: inc_php/unitecreator_dialog_param.class.php:482
+#: inc_php/unitecreator_dialog_param.class.php:1486
+msgid "Use this font override in css tab using special function"
+msgstr "使用特殊功能在CSS标签中使用此字体替换"
+
+#: inc_php/unitecreator_dialog_param.class.php:427
+#: views/system/video_dialog.php:62 views/system/video_dialog.php:85
+#: views/system/video_dialog.php:135
+msgid "example"
+msgstr "例子"
+
+#: inc_php/unitecreator_dialog_param.class.php:426
+msgid "filter"
+msgstr "过滤器"
+
+#: inc_php/unitecreator_dialog_param.class.php:426
+msgid "To allow html tags, use"
+msgstr "要允许html标记，请使用"
+
+#: inc_php/unitecreator_dialog_param.class.php:398
+#: inc_php/unitecreator_dialog_param.class.php:1202
+#: inc_php/unitecreator_dialog_param.class.php:1305
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:265
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:405
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:418
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:852
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:915
+msgid "Default Value"
+msgstr "默认值"
+
+#: inc_php/unitecreator_dialog_param.class.php:363
+msgid "Field Required"
+msgstr "所需字段"
+
+#: inc_php/unitecreator_dialog_param.class.php:344
+msgid "Allow edit font for this field in font style tab. Must be put with the {{fieldname|raw}} in html"
+msgstr "允许在“字体样式”选项卡中编辑此字段的字体。必须与html中的{fieldname| raw}}放在一起"
+
+#: inc_php/unitecreator_dialog_param.class.php:341
+msgid "Allow Font Edit"
+msgstr "允许字体编辑"
+
+#: inc_php/unitecreator_dialog_param.class.php:312
+msgid "No default value for this attribute"
+msgstr "此属性没有默认值"
+
+#: inc_php/unitecreator_dialog_param.class.php:301
+msgid "Form Params Goes Here"
+msgstr "此处显示表单参数"
+
+#: inc_php/unitecreator_dialog_param.class.php:288
+msgid "Defaults for google map"
+msgstr "谷歌地图的默认值"
+
+#: inc_php/unitecreator_dialog_param.class.php:271
+msgid "Put number of items (1-12), or empty for all the items (12)"
+msgstr "输入项目数（1-12），或所有项目为空（12）"
+
+#: inc_php/unitecreator_dialog_param.class.php:265
+msgid "Max Items"
+msgstr "最大项目数"
+
+#: inc_php/unitecreator_dialog_param.class.php:216
+msgid "Background"
+msgstr "Background (背景)"
+
+#: inc_php/unitecreator_dialog_param.class.php:213
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:1041
+msgid "Margins"
+msgstr "Margins (外距)"
+
+#: inc_php/unitecreator_dialog_param.class.php:211
+msgid "GET Param"
+msgstr "获取参数"
+
+#: inc_php/unitecreator_dialog_param.class.php:208
+msgid "Item Attribute Related"
+msgstr "项目属性相关"
+
+#: inc_php/unitecreator_dialog_param.class.php:207
+msgid "Attribute Related"
+msgstr "属性相关"
+
+#: inc_php/unitecreator_dialog_param.class.php:206
+msgid "Simple Variable"
+msgstr "简单变量"
+
+#: inc_php/unitecreator_dialog_param.class.php:203
+msgid "Dataset"
+msgstr "数据集"
+
+#: inc_php/unitecreator_dialog_param.class.php:202
+msgid "Google Map"
+msgstr "谷歌地图"
+
+#: inc_php/unitecreator_dialog_param.class.php:201
+#: provider/provider_settings.class.php:2486
+#: provider/provider_settings_multisource.class.php:80
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc_php/unitecreator_dialog_param.class.php:200
+msgid "Form"
+msgstr "表单"
+
+#: inc_php/unitecreator_dialog_param.class.php:193
+msgid "WooCommerce Categories"
+msgstr "WooCommerce 分类"
+
+#: inc_php/unitecreator_dialog_param.class.php:192
+msgid "Posts Terms"
+msgstr "Post Terms (文章分类项)"
+
+#: inc_php/unitecreator_dialog_param.class.php:186
+msgid "Icon (deprecated)"
+msgstr "图标（已弃用）"
+
+#: inc_php/unitecreator_client_text.php:101
+#: inc_php/unitecreator_dialog_param.class.php:180
+msgid "HR Line"
+msgstr "HR Line (分割线)"
+
+#: inc_php/framework/db.class.php:518
+msgid "not found"
+msgstr "找不到"
+
+#: inc_php/framework/db.class.php:516
+msgid "Record"
+msgstr "记录"
+
+#: inc_php/framework/functions.class.php:974
+msgid "No Sanitize (not recomended)"
+msgstr "未清理（不建议）"
+
+#: inc_php/framework/functions.class.php:973
+msgid "Sanitize Text Field"
+msgstr "清理文本字段"
+
+#: inc_php/framework/functions.class.php:972
+msgid "Sanitize KEY"
+msgstr "清理密钥"
+
+#: inc_php/framework/functions.class.php:971
+msgid "Sanitize ID"
+msgstr "清理ID"
+
+#: inc_php/framework/settings_output.class.php:1393
+msgid "The typography setting will be visible in Elementor Page Builder"
+msgstr "排版设置将在Elementor页面生成器中可见"
+
+#: inc_php/framework/settings_output.class.php:982
+msgid "Duplicate Item"
+msgstr "复制项目"
+
+#: inc_php/framework/settings_output.class.php:978
+#: inc_php/unitecreator_dialog_param.class.php:1147
+msgid "Delete Item"
+msgstr "删除项目"
+
+#: inc_php/framework/settings_output.class.php:971
+#: views/objects/addon_view.class.php:809
+msgid "Item"
+msgstr "项目"
+
+#: inc_php/framework/settings_output.class.php:949
+msgid "No Items Found"
+msgstr "找不到项目"
+
+#: inc_php/framework/settings_output.class.php:675
+msgid "Select Map"
+msgstr "选择地图"
+
+#: inc_php/framework/settings_output.class.php:652
+msgid "Configure"
+msgstr "配置"
+
+#: inc_php/framework/table.class.php:548
+#: views/objects/layouts_view.class.php:53
+msgid "Search"
+msgstr "搜索"
+
+#: inc_php/framework/table.class.php:493
+msgid "Last Page"
+msgstr "最后一页"
+
+#: inc_php/framework/table.class.php:492
+msgid "Next Page"
+msgstr "下一页"
+
+#: inc_php/framework/table.class.php:449
+msgid "Previous"
+msgstr "上一页"
+
+#: inc_php/framework/table.class.php:448 provider/provider_helper.class.php:124
+msgid "First"
+msgstr "首先"
+
+#: inc_php/framework/table.class.php:409
+msgid "Filter Category"
+msgstr "过滤器类别"
+
+#: inc_php/framework/instagram/helper.class.php:175
+msgid "Clear Access Data"
+msgstr "清除访问数据"
+
+#: inc_php/framework/instagram/helper.class.php:174
+msgid "The instagram access token are already set up"
+msgstr "instagram 访问令牌已经设置"
+
+#: inc_php/framework/instagram/helper.class.php:155
+msgid "Connect With Instagram"
+msgstr "与Instagram连接"
+
+#: inc_php/framework/instagram/helper.class.php:121
+msgid " days. Don't worry, it should auto renew."
+msgstr " 天。 不用担心，它应该会自动续订。"
+
+#: inc_php/framework/instagram/helper.class.php:121
+msgid "The token will expire in "
+msgstr "令牌将在"
+
+#: inc_php/framework/instagram/helper.class.php:118
+msgid " ago"
+msgstr "前"
+
+#: inc_php/framework/instagram/helper.class.php:118
+msgid "The token has expired "
+msgstr "令牌已过期"
+
+#: inc_php/framework/settings_advances.class.php:306
+msgid "&nbsp;Custom Content"
+msgstr "&nbsp;自定义内容"
+
+#: inc_php/framework/settings_advances.class.php:207
+#: inc_php/framework/settings_advances.class.php:225
+msgid "Middle"
+msgstr "中间"
+
+#: inc_php/framework/settings_advances.class.php:193
+#: inc_php/framework/settings_advances.class.php:222
+msgid "Center"
+msgstr "居中"
+
+#: inc_php/unitecreator_actions.class.php:467
+msgid "Template Imported"
+msgstr "模板已导入"
+
+#: inc_php/unitecreator_actions.class.php:405
+msgid "Screenshot Saved"
+msgstr "截图已保存"
+
+#: inc_php/unitecreator_actions.class.php:384
+msgid "Template Installed"
+msgstr "模板已安装"
+
+#: inc_php/unitecreator_actions.class.php:359
+msgid "Product Activated"
+msgstr "产品激活"
+
+#: inc_php/unitecreator_actions.class.php:318
+#: inc_php/unitecreator_actions.class.php:324
+#: inc_php/unitecreator_actions.class.php:425
+msgid "Settings Saved"
+msgstr "设置已保存"
+
+#: inc_php/unitecreator_actions.class.php:288
+msgid "Addons Imported"
+msgstr "导入的组件"
+
+#: inc_php/unitecreator_actions.class.php:274
+msgid "Test data deleted"
+msgstr "删除测试数据"
+
+#: inc_php/unitecreator_actions.class.php:262
+#: inc_php/unitecreator_actions.class.php:266
+msgid "Saved"
+msgstr "已保存"
+
+#: inc_php/unitecreator_actions.class.php:229
+msgid "Duplicated Successfully"
+msgstr "复制成功"
+
+#: inc_php/unitecreator_actions.class.php:225
+msgid "Done Operation"
+msgstr "完成操作"
+
+#: inc_php/unitecreator_actions.class.php:215
+#: inc_php/unitecreator_actions.class.php:220
+msgid "Order Saved"
+msgstr "排序已保存"
+
+#: inc_php/unitecreator_actions.class.php:210
+msgid "Addons Removed"
+msgstr "组件已删除"
+
+#: inc_php/unitecreator_actions.class.php:205
+msgid "Addons updated successfully"
+msgstr "组件已成功更新"
+
+#: inc_php/unitecreator_actions.class.php:200
+msgid "Addon updated successfully"
+msgstr "组件已成功更新"
+
+#: inc_php/unitecreator_actions.class.php:195
+msgid "Addon added successfully"
+msgstr "组件添加成功"
+
+#: inc_php/unitecreator_actions.class.php:182
+msgid "The addon deleted successfully"
+msgstr "组件删除成功"
+
+#: inc_php/unitecreator_actions.class.php:169
+msgid "Updated."
+msgstr "已更新。"
+
+#: inc_php/unitecreator_actions.class.php:129
+msgid "Order updated"
+msgstr "排序已更新"
+
+#: inc_php/unitecreator_actions.class.php:125
+msgid "Category updated"
+msgstr "分类已更新"
+
+#: inc_php/unitecreator_actions.class.php:121
+msgid "The category deleted successfully"
+msgstr "已成功删除分类"
+
+#: inc_php/unitecreator_params_editor.class.php:228
+msgid "Add Image Base Fields"
+msgstr "添加画廊字段"
+
+#: inc_php/unitecreator_dialog_param.class.php:1573
+#: inc_php/unitecreator_dialog_param.class.php:1574
+#: inc_php/unitecreator_params_editor.class.php:224
+msgid "Add Attribute"
+msgstr "添加属性"
+
+#: inc_php/unitecreator_params_editor.class.php:221
+msgid "No Attributes Found"
+msgstr "找不到属性"
+
+#: inc_php/unitecreator_params_editor.class.php:212
+msgid "Operations"
+msgstr "操作"
+
+#: inc_php/unitecreator_params_editor.class.php:209
+msgid "Attribute"
+msgstr "属性"
+
+#: inc_php/unitecreator_params_editor.class.php:206
+#: provider/core/plugins/unlimited_elements/addontype_cpt.class.php:27
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1164
+msgid "Type"
+msgstr "类型"
+
+#: inc_php/unitecreator_params_editor.class.php:194
+msgid "Select / Deselect All"
+msgstr "全选 / 取消全选"
+
+#: inc_php/unitecreator_params_editor.class.php:179
+msgid "clear copied"
+msgstr "清除复制"
+
+#: inc_php/unitecreator_params_editor.class.php:178
+msgid "Clear the copied section"
+msgstr "清除复制的区段"
+
+#: inc_php/unitecreator_params_editor.class.php:173
+msgid "to style"
+msgstr "to style"
+
+#: inc_php/unitecreator_params_editor.class.php:172
+msgid "Paste section in style tab"
+msgstr "在样式标签中粘贴 section"
+
+#: inc_php/unitecreator_params_editor.class.php:169
+msgid "to content"
+msgstr "to content"
+
+#: inc_php/unitecreator_params_editor.class.php:168
+msgid "Paste section in content tab"
+msgstr "在内容标签中粘贴 section"
+
+#: inc_php/unitecreator_params_editor.class.php:162
+msgid "section copied"
+msgstr "菜单项已复制"
+
+#: inc_php/unitecreator_params_editor.class.php:152
+msgid "clear"
+msgstr "清除"
+
+#: inc_php/unitecreator_params_editor.class.php:151
+msgid "Clear Selected Attributes"
+msgstr "清除选定的属性"
+
+#: inc_php/unitecreator_params_editor.class.php:149
+#: views/objects/addon_view.class.php:1794
+msgid "selected"
+msgstr "已选"
+
+#: inc_php/unitecreator_params_editor.class.php:143
+msgid "Stop Move Mode"
+msgstr "停止移动模式"
+
+#: inc_php/unitecreator_params_editor.class.php:141
+msgid "Move Mode"
+msgstr "移动模式"
+
+#: inc_php/unitecreator_params_editor.class.php:131
+#: views/objects/mappicker_view.class.php:103
+msgid "Style"
+msgstr "样式"
+
+#: inc_php/unitecreator_dialog_param.class.php:189
+#: inc_php/unitecreator_params_editor.class.php:107
+#: provider/core/plugins/unlimited_elements/elementor/control_example.php:26
+msgid "Content"
+msgstr "内容"
+
+#: inc_php/unitecreator_params_editor.class.php:70
+msgid "Please fill the section title"
+msgstr "请填写菜单项标题"
+
+#: inc_php/unitecreator_params_editor.class.php:52
+msgid "Section Title"
+msgstr "菜单项标题"
+
+#: inc_php/unitecreator_params_editor.class.php:45
+msgid "Update Section"
+msgstr "更新菜单项"
+
+#: inc_php/unitecreator_params_editor.class.php:41
+#: inc_php/unitecreator_params_editor.class.php:43
+#: inc_php/unitecreator_params_editor.class.php:44
+#: inc_php/unitecreator_params_editor.class.php:68
+#: inc_php/unitecreator_params_editor.class.php:109
+#: inc_php/unitecreator_params_editor.class.php:133
+msgid "Add Section"
+msgstr "添加菜单项"
+
+#: inc_php/unitecreator_assets.class.php:1361
+msgid "Loading File list..."
+msgstr "正在加载文件列表..."
+
+#: inc_php/unitecreator_assets.class.php:1283
+msgid "Active Path"
+msgstr "活动路径"
+
+#: inc_php/unitecreator_assets.class.php:1263
+msgid "unzipping..."
+msgstr "正在解压缩..."
+
+#: inc_php/unitecreator_assets.class.php:1262
+msgid "Unzip"
+msgstr "解压"
+
+#: inc_php/unitecreator_assets.class.php:1260
+msgid "Move"
+msgstr "移动"
+
+#: inc_php/unitecreator_assets.class.php:1254 views/templates/test_addon.php:52
+#: views/testaddonnew.php:175
+msgid "deleting..."
+msgstr "正在删除..."
+
+#: inc_php/unitecreator_assets.class.php:1248
+msgid "Upload"
+msgstr "上传"
+
+#: inc_php/unitecreator_assets.class.php:1215
+msgid "Skip"
+msgstr "跳过"
+
+#: inc_php/unitecreator_assets.class.php:1214
+msgid "Overwrite"
+msgstr "覆盖"
+
+#: inc_php/unitecreator_assets.class.php:1204
+msgid "Files Moved"
+msgstr "文件已移动"
+
+#: inc_php/unitecreator_assets.class.php:1203
+msgid "Moving Files..."
+msgstr "正在移动文件..."
+
+#: inc_php/unitecreator_assets.class.php:1190
+msgid "Move %1 files to"
+msgstr "将%1个文件移动到"
+
+#: inc_php/unitecreator_assets.class.php:1186
+#: inc_php/unitecreator_assets.class.php:1202
+msgid "Move Files"
+msgstr "移动文件"
+
+#: inc_php/unitecreator_assets.class.php:1166
+msgid "File Saved..."
+msgstr "文件已保存..."
+
+#: inc_php/unitecreator_assets.class.php:1165
+msgid "Saving File..."
+msgstr "正在保存文件..."
+
+#: inc_php/unitecreator_assets.class.php:1160 views/master_view.php:67
+msgid "Loading..."
+msgstr "加载中..."
+
+#: inc_php/unitecreator_assets.class.php:1142
+msgid "File/Dir Renamed"
+msgstr "文件/目录已重命名"
+
+#: inc_php/unitecreator_assets.class.php:1141
+msgid "Renaming..."
+msgstr "正在重命名..."
+
+#: inc_php/unitecreator_assets.class.php:1140
+#: inc_php/unitecreator_assets.class.php:1258
+msgid "Rename"
+msgstr "重命名"
+
+#: inc_php/unitecreator_assets.class.php:1135
+msgid "Rename this file/folder to"
+msgstr "将此文件/文件夹重命名为"
+
+#: inc_php/unitecreator_assets.class.php:1133
+msgid "Rename File / Folder"
+msgstr "重命名文件/文件夹"
+
+#: inc_php/unitecreator_assets.class.php:1118
+msgid "File Created"
+msgstr "文件已创建"
+
+#: inc_php/unitecreator_assets.class.php:1117
+msgid "Creating File..."
+msgstr "创建文件..."
+
+#: inc_php/unitecreator_assets.class.php:1110
+msgid "File Name"
+msgstr "文件名"
+
+#: inc_php/unitecreator_assets.class.php:1107
+#: inc_php/unitecreator_assets.class.php:1116
+#: inc_php/unitecreator_assets.class.php:1251
+msgid "Create File"
+msgstr "创建文件"
+
+#: inc_php/unitecreator_assets.class.php:1090
+msgid "Folder Created"
+msgstr "文件夹已创建"
+
+#: inc_php/unitecreator_assets.class.php:1089
+msgid "Creating Folder..."
+msgstr "创建文件夹..."
+
+#: inc_php/unitecreator_assets.class.php:1082
+msgid "Folder Name"
+msgstr "文件夹名称"
+
+#: inc_php/unitecreator_assets.class.php:1079
+#: inc_php/unitecreator_assets.class.php:1088
+#: inc_php/unitecreator_assets.class.php:1250
+msgid "Create Folder"
+msgstr "创建文件夹"
+
+#: inc_php/unitecreator_assets.class.php:1037
+msgid "Upload to folder: "
+msgstr "上传到文件夹："
+
+#: inc_php/unitecreator_assets.class.php:1032
+msgid "Upload Files"
+msgstr "上传文件"
+
+#: inc_php/unitecreator_assets.class.php:607
+msgid "empty folder"
+msgstr "空文件夹"
+
+#: inc_php/unitecreator_browser.class.php:1214
+msgid "Checking Update"
+msgstr "正在检查更新"
+
+#: inc_php/unitecreator_browser.class.php:1210
+msgid "Check And Update Catalog"
+msgstr "检查并更新目录"
+
+#: inc_php/unitecreator_browser.class.php:698
+msgid "Installing"
+msgstr "安装中"
+
+#: inc_php/unitecreator_browser.class.php:622
+msgid "You can install this "
+msgstr "你可以安装这个"
+
+#: inc_php/unitecreator_browser.class.php:621
+msgid "Web"
+msgstr "Web"
+
+#: inc_php/unitecreator_browser.class.php:616
+#: inc_php/unitecreator_browser.class.php:622
+msgid "To use it click install"
+msgstr "要使用它，请单击“安装”"
+
+#: inc_php/unitecreator_browser.class.php:616
+msgid " Is Free"
+msgstr " 是免费的"
+
+#: inc_php/unitecreator_browser.class.php:616
+msgid "This "
+msgstr "这个"
+
+#: inc_php/unitecreator_browser.class.php:593
+msgid "widget"
+msgstr "组件"
+
+#: inc_php/unitecreator_browser.class.php:442
+msgid "No pages in this category"
+msgstr "此分类中没有页面"
+
+#: inc_php/unitecreator_browser.class.php:440
+msgid "No addons in this category"
+msgstr "此分类中没有组件"
+
+#: inc_php/unitecreator_browser.class.php:253
+msgid "Check Catalog Update"
+msgstr "检查目录更新"
+
+#: inc_php/unitecreator_browser.class.php:251
+msgid "The product is Active!"
+msgstr "产品激活！"
+
+#: inc_php/unitecreator_browser.class.php:250
+msgid "Already bought Blox PRO?"
+msgstr "已经买了Blox PRO？"
+
+#: inc_php/unitecreator_browser.class.php:246
+#: inc_php/unitecreator_browser.class.php:634
+msgid "Pro"
+msgstr "专业版"
+
+#: inc_php/unitecreator_browser.class.php:245
+#: inc_php/unitecreator_browser.class.php:615
+msgid "Free"
+msgstr "免费"
+
+#: inc_php/unitecreator_browser.class.php:244
+msgid "Installed"
+msgstr "安装"
+
+#: inc_php/unitecreator_browser.class.php:243
+msgid "Show All"
+msgstr "全部显示"
+
+#: inc_php/unitecreator_browser.class.php:242
+msgid "Blox"
+msgstr "Blox"
+
+#: inc_php/unitecreator_browser.class.php:46
+msgid "This addon is available<br>for Blox PRO users only."
+msgstr "此加载项<br>仅对Blox PRO用户可用。"
+
+#: inc_php/unitecreator_browser.class.php:45
+msgid "Buy PRO"
+msgstr "购买 PRO"
+
+#: inc_php/addontypes/unitecreator_addontype_bgaddon.class.php:30
+#: provider/core/plugins/unlimited_elements/addontype_elementor.class.php:33
+msgid "Upgrade to PRO version <br> to use this widget"
+msgstr "升级到PRO版本<br>以使用此组件"
+
+#: inc_php/addontypes/unitecreator_addontype_bgaddon.class.php:29
+#: provider/core/plugins/unlimited_elements/addontype_elementor.class.php:32
+#: provider/provider_admin.class.php:628
+msgid "Go Pro"
+msgstr "到专业版本"
+
+#: inc_php/addontypes/unitecreator_addontype_bgaddon.class.php:19
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:106
+msgid "Background Widgets"
+msgstr "背景组件"
+
+#: inc_php/addontypes/unitecreator_addontype_bgaddon.class.php:18
+msgid "Background Widget"
+msgstr "背景组件"
+
+#: inc_php/addontypes/unitecreator_addontype_layout_general.class.php:24
+msgid "General Layouts"
+msgstr "常规布局"
+
+#: inc_php/addontypes/unitecreator_addontype_layout_general.class.php:23
+msgid "Layout"
+msgstr "布局"
+
+#: inc_php/addontypes/unitecreator_addontype_layout.class.php:44
+#: inc_php/addontypes/unitecreator_addontype_layout_general.class.php:42
+#: inc_php/addontypes/unitecreator_addontype_layout_section.class.php:42
+msgid "Preview Image Settings"
+msgstr "预览图像设置"
+
+#: inc_php/addontypes/unitecreator_addontype_layout_section.class.php:24
+#: views/library.php:44 views/objects/views_chooser.class.php:54
+msgid "Sections"
+msgstr "区段"
+
+#: inc_php/addontypes/unitecreator_addontype.class.php:57
+#: provider/core/plugins/unlimited_elements/addontype_elementor_template.class.php:36
+#: views/objects/addon_view.class.php:810
+msgid "Main"
+msgstr "主"
+
+#: inc_php/addontypes/unitecreator_addontype.class.php:56
+msgid "Regular Addon"
+msgstr "常规组件"
+
+#: inc_php/addontypes/unitecreator_addontype.class.php:55
+msgid "Addons"
+msgstr "组件"
+
+#: inc_php/addontypes/unitecreator_addontype_shape.class.php:21
+#: views/library.php:43 views/objects/views_chooser.class.php:53
+msgid "Shapes"
+msgstr "形状"
+
+#: inc_php/addontypes/unitecreator_addontype_shape.class.php:20
+#: inc_php/unitecreator_dialog_param.class.php:188
+msgid "Shape"
+msgstr "形状"
+
+#: inc_php/addontypes/unitecreator_addontype_shape_devider.class.php:20
+#: views/library.php:42 views/objects/views_chooser.class.php:52
+msgid "Dividers"
+msgstr "分隔线"
+
+#: inc_php/addontypes/unitecreator_addontype_shape_devider.class.php:19
+msgid "Divider"
+msgstr "分隔线"
+
+#: inc_php/unitecreator_settings.class.php:967
+msgid "New Category"
+msgstr "新建分类"
+
+#: inc_php/unitecreator_settings.class.php:359
+msgid "Instagram User"
+msgstr "Instagram 用户"
+
+#: inc_php/unitecreator_settings.class.php:351
+msgid "Type instagram user (@username). This method is deprecated. Please connect with your instagram user from general settings"
+msgstr "输入instagram用户（@username）。 不建议使用此方法。 请通过常规设置与您的instagram用户联系"
+
+#: inc_php/unitecreator_settings.class.php:332
+msgid "Get data from instagram user: "
+msgstr "从instagram用户获取数据："
+
+#: inc_php/unitecreator_addon.class.php:1893
+msgid "no settings for this widget"
+msgstr "没有此组件的设置"
+
+#: inc_php/unitecreator_addon.class.php:1877
+msgid "Fonts"
+msgstr "字体"
+
+#: inc_php/unitecreator_addon.class.php:1839
+#: inc_php/unitecreator_params_editor.class.php:115
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2181
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2463
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2949
+#: views/objects/addon_view.class.php:458
+msgid "General"
+msgstr "常规"
+
+#: inc_php/unitecreator_addon.class.php:372
+msgid "Double Name, please remove"
+msgstr "重复名称，请重命名"
+
+#: inc_php/unitecreator_addon.class.php:115
+#: views/objects/addon_view.class.php:862
+msgid "Widget Name"
+msgstr "组件名称"
+
+#: inc_php/manager/unitecreator_manager.class.php:862
+msgid "items selected"
+msgstr "选定的项目"
+
+#: inc_php/manager/unitecreator_manager.class.php:861
+msgid "Getting Items"
+msgstr "获取项目"
+
+#: inc_php/manager/unitecreator_manager.class.php:557
+msgid "Update Catalog"
+msgstr "更新目录"
+
+#: inc_php/manager/unitecreator_manager.class.php:551
+msgid "Show Debug Data"
+msgstr "显示调试数据"
+
+#: inc_php/manager/unitecreator_manager.class.php:510
+msgid "Move To"
+msgstr "移动到"
+
+#: inc_php/manager/unitecreator_manager.class.php:362
+msgid "Add Category"
+msgstr "添加分类"
+
+#: inc_php/manager/unitecreator_manager.class.php:289
+msgid "Category and it's addons Deleted"
+msgstr "分类及其组件已删除"
+
+#: inc_php/manager/unitecreator_manager.class.php:288
+msgid "Deleting Category..."
+msgstr "删除分类中..."
+
+#: inc_php/manager/unitecreator_manager.class.php:283
+msgid " category and all it's widgets?"
+msgstr "类别及其所有组件？"
+
+#: inc_php/manager/unitecreator_manager.class.php:279
+msgid "Are you sure you want to delete the: "
+msgstr "您确定要删除以下内容："
+
+#: inc_php/manager/unitecreator_manager.class.php:260
+#: inc_php/unitecreator_categories.class.php:982
+msgid "Category Added"
+msgstr "添加的分类"
+
+#: inc_php/manager/unitecreator_manager.class.php:259
+msgid "Adding Category..."
+msgstr "添加分类中..."
+
+#: inc_php/manager/unitecreator_manager.class.php:258
+#: views/objects/layouts_view.class.php:230
+msgid "Create Category"
+msgstr "创建分类"
+
+#: inc_php/manager/unitecreator_manager.class.php:252
+msgid "Enter Category Name"
+msgstr "输入分类名称"
+
+#: inc_php/manager/unitecreator_manager.class.php:249
+#: views/objects/layouts_view.class.php:227
+msgid "Add New Category"
+msgstr "添加新分类"
+
+#: inc_php/manager/unitecreator_manager.class.php:226
+msgid "Edit Title"
+msgstr "编辑标题"
+
+#: inc_php/manager/unitecreator_manager.class.php:222
+msgid "Category ID"
+msgstr "分类 ID"
+
+#: inc_php/manager/unitecreator_manager.class.php:192
+#: inc_php/unitecreator_browser.class.php:381
+msgid "Categories"
+msgstr "分类"
+
+#: inc_php/manager/unitecreator_manager.class.php:148
+msgid "No Items"
+msgstr "无项目"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2263
+#: views/objects/layouts_view.class.php:454
+msgid "Shortcode"
+msgstr "简码"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2233
+msgid "Make Thumbs"
+msgstr "制作缩略图"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2232
+msgid "Make Thumb"
+msgstr "制作缩略图"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2166
+#: inc_php/manager/unitecreator_manager_addons.class.php:2226
+#: inc_php/unitecreator_browser.class.php:252
+msgid "Deactivate"
+msgstr "停用"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2165
+#: inc_php/manager/unitecreator_manager_addons.class.php:2225
+msgid "Activate"
+msgstr "激活"
+
+#: inc_php/manager/unitecreator_manager.class.php:572
+#: inc_php/manager/unitecreator_manager_addons.class.php:2075
+#: inc_php/unitecreator_params_editor.class.php:123
+msgid "Move Here"
+msgstr "移动到这里"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2073
+msgid "Copied"
+msgstr "已复制"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2051
+msgid "Back To Category"
+msgstr "返回分类"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1947
+msgid "Not active state only"
+msgstr "仅非激活状态"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1946
+msgid "Active state only"
+msgstr "仅激活状态"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1945
+msgid "Show all states"
+msgstr "显示所有状态"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1919
+msgid "Clear Search"
+msgstr "清除搜索"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1917
+msgid "Search Widget"
+msgstr "搜索组件"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1910
+msgid "Search..."
+msgstr "搜索..."
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1898
+msgid "Show Only Installed"
+msgstr "仅显示已安装"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1859
+msgid "Category Icon"
+msgstr "分类图标"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1858
+msgid "Category Name"
+msgstr "分类名"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1857
+msgid "Category Title"
+msgstr "分类标题"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1787
+#: inc_php/unitecreator_filters_process.class.php:1421
+#: provider/provider_helper.class.php:53
+msgid "All"
+msgstr "所有"
+
+#: inc_php/manager/unitecreator_manager.class.php:118
+#: inc_php/manager/unitecreator_manager.class.php:129
+#: inc_php/manager/unitecreator_manager.class.php:305
+#: inc_php/manager/unitecreator_manager.class.php:366
+#: inc_php/manager/unitecreator_manager.class.php:600
+#: inc_php/manager/unitecreator_manager_addons.class.php:1626
+msgid "No Action"
+msgstr "无操作"
+
+#: inc_php/manager/unitecreator_manager.class.php:275
+#: inc_php/manager/unitecreator_manager.class.php:287
+#: inc_php/manager/unitecreator_manager_addons.class.php:1620
+msgid "Delete Category"
+msgstr "删除分类"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1605
+msgid "Make Thumbnails"
+msgstr "制作缩略图"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1569
+#: inc_php/manager/unitecreator_manager_addons.class.php:2396
+#: provider/core/plugins/create_addons/plugin.php:53
+#: provider/core/plugins/create_addons/plugin.php:124
+#: views/objects/addon_view.class.php:1133
+msgid "Export "
+msgstr "导出"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1566
+#: inc_php/manager/unitecreator_manager_addons.class.php:2393
+msgid "Test In New Tab"
+msgstr "在新选项卡中测试"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1565
+#: inc_php/manager/unitecreator_manager_addons.class.php:2392
+#: views/objects/addon_view.class.php:1129 views/testaddon.php:38
+#: views/testaddonnew.php:38
+msgid "Test "
+msgstr "测试 "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1559
+#: inc_php/manager/unitecreator_manager_addons.class.php:2387
+msgid "Copy"
+msgstr "复制"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1553
+#: inc_php/manager/unitecreator_manager_addons.class.php:2382
+msgid "Make Thumbnail"
+msgstr "制作缩略图"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1550
+#: inc_php/manager/unitecreator_manager_addons.class.php:2379
+msgid "View Thumbnail"
+msgstr "查看缩略图"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1547
+#: inc_php/manager/unitecreator_manager_addons.class.php:2207
+#: inc_php/manager/unitecreator_manager_addons.class.php:2219
+#: inc_php/unitecreator_browser.class.php:604
+#: inc_php/unitecreator_output.class.php:1072
+#: views/objects/layouts_view.class.php:462
+#: views/objects/layouts_view.class.php:518
+#: views/objects/objects_list_view.class.php:150
+#: views/objects/objects_list_view.class.php:195
+msgid "Preview"
+msgstr "预览"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1538
+#: inc_php/manager/unitecreator_manager_addons.class.php:2373
+msgid "Edit In New Tab"
+msgstr "在新选项卡中编辑"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1506
+msgid "You can purchase a pro version here"
+msgstr "您可以在这里购买专业版"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1502
+msgid "This template is available only for the PRO version users of Unlimited Elements plugin."
+msgstr "该模板仅适用于Unlimited Elements插件的PRO版本用户。"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1474
+msgid "Create Page"
+msgstr "建立页面"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1473
+msgid "Enter Page Name"
+msgstr "输入页面名称"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1469
+msgid "Create Page From Template"
+msgstr "从模板创建页面"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1463
+msgid "Edit With Elementor"
+msgstr "用 Elementor 编辑"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1462
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:34
+#: provider/core/plugins/unlimited_elements/helper_provider_core.class.php:35
+msgid "View Template"
+msgstr "查看模板"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1462
+msgid "View Page"
+msgstr "查看页面"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1458
+msgid "Template Already Imported"
+msgstr "模板已导入"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1457
+msgid "Template Imported Successfully"
+msgstr "模板导入成功"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1434
+msgid "Import Template Again"
+msgstr "再次导入模板"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1428
+msgid "After import is completed the template will show under Elementor Saved Templates list for future use."
+msgstr "导入完成后，模板将显示在“Elementor已保存的模板”列表下，以备将来使用。"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1427
+msgid "To get started click the \"Import Template\" button."
+msgstr "要开始使用，请单击“导入模板”按钮。"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1424
+#: inc_php/manager/unitecreator_manager_addons.class.php:1433
+msgid "Import Template"
+msgstr "导入模板"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1414
+msgid "Back To Catalog"
+msgstr "返回目录"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1412
+msgid "To Next Template"
+msgstr "到下一个模板"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1410
+msgid "To Previous Template"
+msgstr "到上一个模板"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1388
+msgid "This import will overwrite the existing imported template. Continue?"
+msgstr "此导入将覆盖现有的导入模板。 继续？"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1387
+msgid "Preview Template"
+msgstr "预览模板"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1334
+msgid "Adding "
+msgstr "添加中"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1324
+msgid " Description"
+msgstr " 描述"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1291
+#: views/objects/addon_view.class.php:362
+msgid " Title"
+msgstr " 标题"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1263
+msgid " Updated"
+msgstr " 已更新"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1261
+#: provider/provider_functions.class.php:759
+#: provider/provider_functions.class.php:762
+msgid "Update "
+msgstr "更新 "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1254
+msgid "Loading Properties"
+msgstr "正在加载属性"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1245
+msgid " Properties"
+msgstr " 属性"
+
+#: inc_php/manager/unitecreator_manager.class.php:233
+#: inc_php/manager/unitecreator_manager_addons.class.php:1229
+#: inc_php/unitecreator_actions.class.php:334
+#: views/objects/layouts_view.class.php:237
+msgid "Category Updated"
+msgstr "分类已更新"
+
+#: inc_php/manager/unitecreator_manager.class.php:232
+#: inc_php/manager/unitecreator_manager_addons.class.php:1228
+#: views/objects/layouts_view.class.php:236
+msgid "Updating Category..."
+msgstr "正在更新分类..."
+
+#: inc_php/manager/unitecreator_manager.class.php:231
+#: inc_php/manager/unitecreator_manager_addons.class.php:1227
+msgid "Update Category"
+msgstr "更新分类"
+
+#: inc_php/manager/unitecreator_manager.class.php:218
+#: inc_php/manager/unitecreator_manager_addons.class.php:1215
+#: inc_php/manager/unitecreator_manager_addons.class.php:1619
+msgid "Edit Category"
+msgstr "编辑分类"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1192
+#: inc_php/unitecreator_dialog_param.class.php:1698
+#: inc_php/unitecreator_settings.class.php:526
+#: provider/functions_wordpress.class.php:1310
+#: views/system/video_dialog.php:188
+msgid "Description"
+msgstr "描述"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1179
+#: inc_php/unitecreator_dialog_param.class.php:1690
+#: inc_php/unitecreator_params_editor.class.php:203
+#: provider/functions_wordpress.class.php:1306
+msgid "Name"
+msgstr "字段名 (小写英文/数字/下划)"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1171
+#: inc_php/unitecreator_dialog_param.class.php:1680
+#: inc_php/unitecreator_params_editor.class.php:200
+#: provider/core/plugins/unlimited_elements/elementor/control_example.php:32
+#: provider/functions_wordpress.class.php:1259
+#: views/objects/layouts_view.class.php:54
+#: views/objects/objects_list_view.class.php:142
+#: views/system/video_dialog.php:180
+msgid "Title"
+msgstr "标题"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1166
+#: inc_php/manager/unitecreator_manager_addons.class.php:1556
+#: inc_php/manager/unitecreator_manager_addons.class.php:2384
+msgid "Quick Edit"
+msgstr "快速编辑"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1136
+msgid " Log"
+msgstr " 日志"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1114
+msgid "Current Category"
+msgstr "当前分类"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1113
+msgid "[Autodetect]"
+msgstr "[自动检测]"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1110
+msgid "Import to Category"
+msgstr "导入到分类"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1074
+msgid "Overwrite Widgets"
+msgstr "覆盖组件"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1072
+msgid "Overwrite Existing "
+msgstr "覆盖现有 "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1066
+#: inc_php/manager/unitecreator_manager_addons.class.php:1335
+#: views/objects/layouts_view.class.php:51
+msgid " Added Successfully"
+msgstr " 添加成功"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1065
+msgid " file..."
+msgstr " 文件..."
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1065
+#: views/objects/layouts_view.class.php:50
+msgid "Uploading "
+msgstr "上传 "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1064
+msgid " export zip file (or files)"
+msgstr " 导出zip文件（或多个文件）"
+
+#: inc_php/framework/settings_output.class.php:610
+#: inc_php/manager/unitecreator_manager_addons.class.php:1064
+#: views/objects/layouts_view.class.php:59
+msgid "Select "
+msgstr "选择 "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1063
+#: inc_php/manager/unitecreator_manager_addons.class.php:2182
+#: views/objects/layouts_view.class.php:48
+#: views/objects/layouts_view.class.php:49
+msgid "Import "
+msgstr "导入 "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:846
+msgid "Duplicate "
+msgstr "复制"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:843
+#: inc_php/manager/unitecreator_manager_addons.class.php:1544
+#: inc_php/manager/unitecreator_manager_addons.class.php:2376
+msgid "Edit Template Kit"
+msgstr "编辑模板套件"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:842
+msgid "Preview Template Kit"
+msgstr "预览模板套件"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:839
+#: inc_php/manager/unitecreator_manager_addons.class.php:1537
+#: inc_php/manager/unitecreator_manager_addons.class.php:1540
+#: inc_php/manager/unitecreator_manager_addons.class.php:2183
+#: views/objects/addon_view.class.php:263
+msgid "Edit "
+msgstr "编辑 "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:838
+#: views/objects/addon_view.class.php:1128
+msgid "Preview "
+msgstr "预览 "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:714
+msgid "Imported"
+msgstr "已导入"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:696
+#: inc_php/manager/unitecreator_manager_addons.class.php:2053
+msgid "Template Kit"
+msgstr "模板套件"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:274
+msgid "Add "
+msgstr "添加 "
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:182
+msgid " selected"
+msgstr " 已选择的"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:181
+msgid "Getting "
+msgstr "获取"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1220
+#: inc_php/manager/unitecreator_manager_inline.class.php:198
+msgid "Loading Settings"
+msgstr "正在加载设置"
+
+#: inc_php/manager/unitecreator_manager_inline.class.php:162
+#: inc_php/unitecreator_assets.class.php:1249
+msgid "Unselect All"
+msgstr "取消全选"
+
+#: inc_php/manager/unitecreator_manager_inline.class.php:156
+#: inc_php/unitecreator_dialog_param.class.php:1567
+#: inc_php/unitecreator_dialog_param.class.php:1568
+msgid "Add Form Item"
+msgstr "添加表单项"
+
+#: inc_php/manager/unitecreator_manager_inline.class.php:151
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1974
+msgid "Add Images"
+msgstr "添加图像"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1588
+#: inc_php/manager/unitecreator_manager_inline.class.php:124
+#: inc_php/manager/unitecreator_manager_inline.class.php:162
+#: inc_php/unitecreator_assets.class.php:1249
+msgid "Select All"
+msgstr "全选"
+
+#: inc_php/unitecreator_helper.class.php:1773
+msgid " not found. Please create one in template parts page"
+msgstr " 找不到..请在模板部件页中创建一个"
+
+#: inc_php/unitecreator_helper.class.php:1773
+msgid "Template part"
+msgstr "模板零件"
+
+#: inc_php/unitecreator_addon_validator.class.php:245
+msgid "Not valid fill color!"
+msgstr "无效的填充颜色！"
+
+#: inc_php/unitecreator_addon_validator.class.php:225
+msgid "Not existing include file!"
+msgstr "尚无库文件！"
+
+#: inc_php/unitecreator_addon_validator.class.php:163
+msgid "Missing Preview Link"
+msgstr "缺少预览链接"
+
+#: inc_php/unitecreator_client_text.php:155
+#: inc_php/unitecreator_params_editor.class.php:42
+#: inc_php/unitecreator_params_editor.class.php:119
+msgid "Edit Section"
+msgstr "编辑菜单项"
+
+#: inc_php/unitecreator_client_text.php:154
+msgid "Section Anchor"
+msgstr "区段 锚"
+
+#: inc_php/unitecreator_client_text.php:153
+msgid "Hidden Addon"
+msgstr "隐藏组件"
+
+#: inc_php/unitecreator_client_text.php:152
+msgid "Hidden Column"
+msgstr "隐藏列"
+
+#: inc_php/unitecreator_client_text.php:151
+msgid "Hidden Row"
+msgstr "隐藏行"
+
+#: inc_php/unitecreator_client_text.php:150
+msgid "Less Actions"
+msgstr "Less Actions"
+
+#: inc_php/unitecreator_client_text.php:149
+msgid "More Actions"
+msgstr "更多动作"
+
+#: inc_php/unitecreator_client_text.php:148
+msgid "Row Layout"
+msgstr "行布局"
+
+#: inc_php/addontypes/unitecreator_addontype_layout_section.class.php:23
+#: inc_php/unitecreator_client_text.php:147
+msgid "Section"
+msgstr "区段"
+
+#: inc_php/unitecreator_client_text.php:146
+msgid "Row"
+msgstr "行"
+
+#: inc_php/unitecreator_client_text.php:145
+#: provider/provider_admin.class.php:624
+msgid "Settings"
+msgstr "设置"
+
+#: inc_php/unitecreator_client_text.php:144
+msgid "Move Addon"
+msgstr "移动组件"
+
+#: inc_php/unitecreator_client_text.php:143
+msgid "Move Column"
+msgstr "移动列"
+
+#: inc_php/unitecreator_client_text.php:142
+msgid "Move Section"
+msgstr "移动区段"
+
+#: inc_php/unitecreator_client_text.php:141
+msgid "Move Row"
+msgstr "移动行"
+
+#: inc_php/unitecreator_client_text.php:140
+msgid "Add Column"
+msgstr "添加列"
+
+#: inc_php/unitecreator_client_text.php:139
+msgid "Column Settings"
+msgstr "列设置"
+
+#: inc_php/unitecreator_client_text.php:138
+msgid "Duplicate Column"
+msgstr "复制列"
+
+#: inc_php/unitecreator_client_text.php:137
+msgid "Delete Column"
+msgstr "删除列"
+
+#: inc_php/unitecreator_client_text.php:136
+msgid "In Buffer"
+msgstr "在缓冲区"
+
+#: inc_php/unitecreator_client_text.php:134
+msgid "Paste Section"
+msgstr "粘贴区段"
+
+#: inc_php/unitecreator_client_text.php:133
+#: inc_php/unitecreator_client_text.php:156
+#: inc_php/unitecreator_params_editor.class.php:121
+msgid "Copy Section"
+msgstr "复制区段"
+
+#: inc_php/unitecreator_client_text.php:132
+msgid "Duplicate Section"
+msgstr "复制区段"
+
+#: inc_php/unitecreator_client_text.php:131
+#: inc_php/unitecreator_client_text.php:157
+msgid "Delete Section"
+msgstr "删除段"
+
+#: inc_php/unitecreator_client_text.php:130
+msgid "Copy Row"
+msgstr "复制行"
+
+#: inc_php/unitecreator_client_text.php:129
+msgid "Duplicate Row"
+msgstr "复制行"
+
+#: inc_php/unitecreator_client_text.php:128
+msgid "Delete Row"
+msgstr "删除行"
+
+#: inc_php/unitecreator_client_text.php:126
+msgid "Choose Addon"
+msgstr "选择扩展"
+
+#: inc_php/unitecreator_browser.class.php:845
+#: inc_php/unitecreator_client_text.php:125
+#: provider/wpml_integrate.class.php:51
+msgid "Not Selected"
+msgstr "未选定"
+
+#: inc_php/unitecreator_client_text.php:124
+msgid "Never Include"
+msgstr "从不包括"
+
+#: inc_php/unitecreator_client_text.php:123
+msgid "Always"
+msgstr "总是"
+
+#: inc_php/unitecreator_client_text.php:122
+#: views/objects/addon_view.class.php:630
+msgid "Include Settings"
+msgstr "包括设置"
+
+#: inc_php/unitecreator_client_text.php:121
+msgid "Add Include"
+msgstr "添加库"
+
+#: inc_php/unitecreator_client_text.php:120
+msgid "Delete Include"
+msgstr "删除库"
+
+#: inc_php/unitecreator_client_text.php:119
+msgid "Bulk"
+msgstr "批量"
+
+#: inc_php/unitecreator_client_text.php:116
+msgid "Save"
+msgstr "保存"
+
+#: inc_php/unitecreator_assets.class.php:1156
+#: inc_php/unitecreator_client_text.php:115
+msgid "Edit File"
+msgstr "编辑文件"
+
+#: inc_php/unitecreator_client_text.php:114
+#: provider/core/plugins/unlimited_elements/elementor/controls/control_audio.php:40
+msgid "Choose Audio"
+msgstr "选择音频"
+
+#: inc_php/unitecreator_client_text.php:113
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:160
+msgid "Choose Image"
+msgstr "选择图像"
+
+#: inc_php/unitecreator_client_text.php:108
+#: inc_php/unitecreator_dialog_param.class.php:218
+msgid "Box Shadow"
+msgstr "盒子阴影"
+
+#: inc_php/unitecreator_client_text.php:107
+#: inc_php/unitecreator_dialog_param.class.php:219
+msgid "Text Shadow"
+msgstr "文字阴影"
+
+#: inc_php/unitecreator_client_text.php:106
+#: inc_php/unitecreator_dialog_param.class.php:221
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:690
+msgid "Date Time"
+msgstr "Date Time (日期时间)"
+
+#: inc_php/unitecreator_client_text.php:105
+#: inc_php/unitecreator_dialog_param.class.php:217
+msgid "Border"
+msgstr "Border (边框)"
+
+#: inc_php/unitecreator_client_text.php:104
+msgid "Backgound"
+msgstr "背景"
+
+#: inc_php/unitecreator_client_text.php:103
+#: inc_php/unitecreator_dialog_param.class.php:220
+msgid "Slider"
+msgstr "Slider (滑块)"
+
+#: inc_php/unitecreator_client_text.php:100
+#: inc_php/unitecreator_dialog_param.class.php:198
+msgid "Menu"
+msgstr "Menu (菜单)"
+
+#: inc_php/unitecreator_client_text.php:99
+msgid "Image Fields"
+msgstr "画廊字段"
+
+#: inc_php/unitecreator_client_text.php:98
+#: inc_php/unitecreator_dialog_param.class.php:182
+msgid "Font Override"
+msgstr "字体替代"
+
+#: inc_php/unitecreator_client_text.php:96
+#: inc_php/unitecreator_dialog_param.class.php:196
+msgid "Users List"
+msgstr "Users List (用户列表)"
+
+#: inc_php/unitecreator_client_text.php:95
+msgid "Post Terms"
+msgstr "Post Terms (文章分类项)"
+
+#: inc_php/unitecreator_client_text.php:94
+msgid "Margin"
+msgstr "外距 (Margin)"
+
+#: inc_php/unitecreator_client_text.php:93
+#: inc_php/unitecreator_dialog_param.class.php:214
+msgid "Padding"
+msgstr "Padding (内距)"
+
+#: inc_php/unitecreator_client_text.php:92
+#: inc_php/unitecreator_dialog_param.class.php:191
+msgid "Posts List"
+msgstr "Posts List (文章列表)"
+
+#: inc_php/unitecreator_client_text.php:91
+#: inc_php/unitecreator_dialog_param.class.php:190
+#: provider/provider_settings.class.php:1033
+msgid "Post"
+msgstr "文章"
+
+#: inc_php/unitecreator_client_text.php:90
+#: inc_php/unitecreator_dialog_param.class.php:185
+msgid "Audio"
+msgstr "音频"
+
+#: inc_php/unitecreator_client_text.php:89
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:285
+#: provider/core/plugins/unlimited_elements/elementor/elementor_controls.class.php:82
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1291
+msgid "Image"
+msgstr "图像"
+
+#: inc_php/unitecreator_client_text.php:88
+msgid "Google Map Picker"
+msgstr "谷歌地图选择器"
+
+#: inc_php/unitecreator_client_text.php:87
+#: inc_php/unitecreator_dialog_param.class.php:183
+msgid "Addon Picker"
+msgstr "组件选取器"
+
+#: inc_php/unitecreator_client_text.php:86
+msgid "Shape Picker"
+msgstr "形状选择器"
+
+#: inc_php/unitecreator_client_text.php:85
+#: inc_php/unitecreator_dialog_param.class.php:187
+msgid "Icon Library"
+msgstr "图标库"
+
+#: inc_php/unitecreator_client_text.php:84
+msgid "Icon Picker"
+msgstr "图标选取器"
+
+#: inc_php/unitecreator_client_text.php:83
+#: inc_php/unitecreator_dialog_param.class.php:173
+msgid "Editor"
+msgstr "Editor (编辑器)"
+
+#: inc_php/unitecreator_client_text.php:82
+#: inc_php/unitecreator_dialog_param.class.php:177
+msgid "Color Picker"
+msgstr "颜色选择器"
+
+#: inc_php/unitecreator_client_text.php:81
+#: inc_php/unitecreator_dialog_param.class.php:170
+msgid "Number"
+msgstr "数字"
+
+#: inc_php/unitecreator_client_text.php:80
+#: inc_php/unitecreator_dialog_param.class.php:178
+msgid "Link"
+msgstr "Link (链接)"
+
+#: inc_php/unitecreator_client_text.php:79
+#: inc_php/unitecreator_dialog_param.class.php:212
+msgid "Typography"
+msgstr "排版 (字体)"
+
+#: inc_php/unitecreator_client_text.php:77
+#: inc_php/unitecreator_dialog_param.class.php:171
+msgid "Radio Boolean"
+msgstr "单选框"
+
+#: inc_php/unitecreator_client_text.php:75
+#: inc_php/unitecreator_dialog_param.class.php:175
+msgid "Dropdown"
+msgstr "下拉列表"
+
+#: inc_php/unitecreator_client_text.php:74
+#: inc_php/unitecreator_dialog_param.class.php:174
+msgid "Checkbox"
+msgstr "Checkbox (开关切换)"
+
+#: inc_php/unitecreator_client_text.php:73
+#: inc_php/unitecreator_dialog_param.class.php:172
+msgid "Text Area"
+msgstr "文本区域"
+
+#: inc_php/unitecreator_client_text.php:72
+#: inc_php/unitecreator_dialog_param.class.php:169
+msgid "Text Field"
+msgstr "文本字段"
+
+#: inc_php/unitecreator_client_text.php:70
+msgid "Are you sure you want to delete these addons?"
+msgstr "是否确实要删除这些插件？"
+
+#: inc_php/unitecreator_client_text.php:69
+msgid "Moving..."
+msgstr "移动中..."
+
+#: inc_php/unitecreator_client_text.php:68
+msgid "Copying..."
+msgstr "正在复制..."
+
+#: inc_php/unitecreator_client_text.php:66
+msgid "Updating Order..."
+msgstr "正在更新排序..."
+
+#: inc_php/unitecreator_client_text.php:65
+msgid "Duplicating..."
+msgstr "复制中..."
+
+#: inc_php/unitecreator_client_text.php:64
+msgid "Updating Title..."
+msgstr "正在更新标题..."
+
+#: inc_php/unitecreator_client_text.php:63
+msgid "Removing..."
+msgstr "正在删除..."
+
+#: inc_php/unitecreator_client_text.php:62
+msgid "Add Addon To Column"
+msgstr "将组件添加到列"
+
+#: inc_php/unitecreator_client_text.php:61
+msgid "Set Addon"
+msgstr "设置组件"
+
+#: inc_php/unitecreator_client_text.php:60
+msgid "Updating Categories Order..."
+msgstr "正在更新分类排序..."
+
+#: inc_php/unitecreator_client_text.php:59
+msgid "Duplicate Addon"
+msgstr "复制组件"
+
+#: inc_php/unitecreator_client_text.php:58
+msgid "Delete Addon"
+msgstr "删除组件"
+
+#: inc_php/unitecreator_client_text.php:57
+msgid "Addon Container Settings"
+msgstr "组件容器设置"
+
+#: inc_php/unitecreator_client_text.php:56
+msgid "Edit Addon"
+msgstr "编辑组件"
+
+#: inc_php/unitecreator_client_text.php:54
+msgid "Import"
+msgstr "导入"
+
+#: inc_php/unitecreator_client_text.php:53
+msgid "Restoring..."
+msgstr "正在还原..."
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1262
+#: inc_php/unitecreator_client_text.php:52
+#: inc_php/unitecreator_client_text.php:67
+#: views/objects/addon_view.class.php:1156
+#: views/objects/addon_view.class.php:1177
+msgid "Updating..."
+msgstr "正在更新..."
+
+#: inc_php/unitecreator_client_text.php:51
+msgid "Restore"
+msgstr "恢复"
+
+#: inc_php/unitecreator_client_text.php:50
+#: views/objects/addon_view.class.php:1152
+msgid "Update"
+msgstr "更新"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2076
+#: inc_php/unitecreator_assets.class.php:1216
+#: inc_php/unitecreator_client_text.php:49
+msgid "Cancel"
+msgstr "取消"
+
+#: inc_php/unitecreator_client_text.php:48
+msgid "Close"
+msgstr "关闭"
+
+#: inc_php/manager/unitecreator_manager_inline.class.php:100
+#: inc_php/manager/unitecreator_manager_inline.class.php:165
+#: inc_php/manager/unitecreator_manager_inline.class.php:187
+#: inc_php/unitecreator_client_text.php:47
+msgid "Edit Item"
+msgstr "编辑项目"
+
+#: inc_php/unitecreator_client_text.php:46
+msgid "Update Item"
+msgstr "更新项目"
+
+#: inc_php/framework/settings_output.class.php:943
+#: inc_php/manager/unitecreator_manager_inline.class.php:123
+#: inc_php/manager/unitecreator_manager_inline.class.php:146
+#: inc_php/unitecreator_client_text.php:45
+#: inc_php/unitecreator_dialog_param.class.php:1148
+msgid "Add Item"
+msgstr "新增项目"
+
+#: inc_php/unitecreator_client_text.php:44
+#: views/objects/layouts_view.class.php:60
+msgid "New"
+msgstr "新的"
+
+#: inc_php/unitecreator_client_text.php:43
+msgid "Empty"
+msgstr "空白"
+
+#: inc_php/unitecreator_client_text.php:38
+msgid "Search Layout"
+msgstr "搜索布局"
+
+#: inc_php/unitecreator_client_text.php:37
+msgid "Addon Library"
+msgstr "组件库"
+
+#: inc_php/unitecreator_client_text.php:36
+msgid "Are you sure to delete this layout?"
+msgstr "确定要删除此布局吗？"
+
+#: inc_php/unitecreator_client_text.php:35
+msgid "Select layouts export file"
+msgstr "选择布局导出文件"
+
+#: inc_php/unitecreator_client_text.php:34
+msgid "Set Category To Layout"
+msgstr "将类别设置为布局"
+
+#: inc_php/unitecreator_client_text.php:33
+msgid "Manage Layout Categories"
+msgstr "管理布局类别"
+
+#: inc_php/unitecreator_client_text.php:32
+msgid "Preview Layout"
+msgstr "预览布局"
+
+#: inc_php/unitecreator_client_text.php:31
+msgid "Layout Saved"
+msgstr "布局已保存"
+
+#: inc_php/unitecreator_client_text.php:30
+msgid "Layout Imported"
+msgstr "已导入布局"
+
+#: inc_php/unitecreator_actions.class.php:340
+#: inc_php/unitecreator_client_text.php:29
+msgid "Layout Updated"
+msgstr "布局已更新"
+
+#: inc_php/unitecreator_client_text.php:28
+msgid "Layout Created"
+msgstr "已创建布局"
+
+#: inc_php/unitecreator_client_text.php:27
+msgid "Uploading Layouts file..."
+msgstr "正在上传布局文件..."
+
+#: inc_php/unitecreator_client_text.php:26
+msgid "Layouts Added Successfully"
+msgstr "已成功添加布局"
+
+#: inc_php/unitecreator_client_text.php:25
+msgid "All Layouts"
+msgstr "所有布局"
+
+#: inc_php/unitecreator_client_text.php:24
+msgid "Layout Duplicated"
+msgstr "布局重复"
+
+#: inc_php/unitecreator_client_text.php:23
+msgid "Layout Deleted"
+msgstr "布局已删除"
+
+#: inc_php/unitecreator_client_text.php:22
+msgid "My Layouts"
+msgstr "我的布局"
+
+#: inc_php/unitecreator_client_text.php:21
+msgid "Back to layouts list"
+msgstr "回到布局列表"
+
+#: inc_php/unitecreator_client_text.php:20
+msgid "Edit Layout"
+msgstr "编辑布局"
+
+#: inc_php/unitecreator_client_text.php:19
+msgid "Layout Title"
+msgstr "标题布局"
+
+#: inc_php/unitecreator_client_text.php:18
+msgid "No Layouts Found"
+msgstr "找不到布局"
+
+#: inc_php/unitecreator_client_text.php:17
+msgid "Save Layout Settings"
+msgstr "保存布局设置"
+
+#: inc_php/unitecreator_client_text.php:16
+msgid "Layouts Global Settings"
+msgstr "布局全局设置"
+
+#: inc_php/unitecreator_client_text.php:15
+msgid "Import Layouts"
+msgstr "导入布局"
+
+#: inc_php/unitecreator_client_text.php:14
+msgid "Import Layout"
+msgstr "导入布局"
+
+#: inc_php/unitecreator_client_text.php:13
+msgid "New Layout"
+msgstr "新建布局"
+
+#: inc_php/unitecreator_client_text.php:12
+msgid "All Items"
+msgstr "所有项目"
+
+#: inc_php/unitecreator_categories.class.php:219
+#: inc_php/unitecreator_client_text.php:11
+msgid "Uncategorized"
+msgstr "未分类"
+
+#: inc_php/unitecreator_assets_work.class.php:430
+msgid "File Saved"
+msgstr "文件已保存"
+
+#: inc_php/unitecreator_assets_work.class.php:333
+msgid "files moved successfully"
+msgstr "文件移动成功"
+
+#: inc_php/layouts/unitecreator_layout.class.php:1763
+msgid "Error in "
+msgstr "错误 "
+
+#: inc_php/layouts/unitecreator_layout.class.php:1621
+msgid "sections"
+msgstr "区段"
+
+#: inc_php/layouts/unitecreator_layout.class.php:1621
+msgid "layout with"
+msgstr "布局"
+
+#: inc_php/layouts/unitecreator_layout.class.php:1605
+msgid "empty layout"
+msgstr "空布局"
+
+#: inc_php/layouts/unitecreator_layout.class.php:99
+#: inc_php/manager/unitecreator_manager_addons.class.php:1300
+#: views/objects/addon_view.class.php:372
+msgid " Name"
+msgstr "Name (名称)"
+
+#: inc_php/layouts/unitecreator_layouts.class.php:533
+msgid "Title Saved"
+msgstr "标题已保存"
+
+#: inc_php/unitecreator_helperhtml.class.php:541
+msgid "only dropdown and radio boolean field types are used for conditional inputs"
+msgstr "只有下拉式和单选框字段类型用于条件输入"
+
+#: inc_php/unitecreator_helperhtml.class.php:111
+msgid "Saving to library"
+msgstr "保存到库中"
+
+#: inc_php/unitecreator_client_text.php:135
+#: inc_php/unitecreator_helperhtml.class.php:110
+msgid "Save To Library"
+msgstr "保存到库"
+
+#: inc_php/unitecreator_helperhtml.class.php:109
+#: views/objects/layouts_view.class.php:513
+#: views/objects/objects_list_view.class.php:188
+msgid "Duplicating"
+msgstr "复制中"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:2161
+#: inc_php/manager/unitecreator_manager_inline.class.php:102
+#: inc_php/manager/unitecreator_manager_inline.class.php:113
+#: inc_php/manager/unitecreator_manager_inline.class.php:163
+#: inc_php/unitecreator_client_text.php:118
+#: inc_php/unitecreator_helperhtml.class.php:108
+#: provider/core/plugins/create_addons/plugin.php:49
+#: provider/core/plugins/create_addons/plugin.php:69
+#: provider/core/plugins/create_addons/plugin.php:114
+#: views/objects/layouts_view.class.php:512
+#: views/objects/objects_list_view.class.php:187
+msgid "Duplicate"
+msgstr "复制"
+
+#: inc_php/unitecreator_helperhtml.class.php:107
+#: views/objects/layouts_view.class.php:511
+#: views/objects/objects_list_view.class.php:184
+msgid "Deleting"
+msgstr "删除中"
+
+#: inc_php/manager/unitecreator_manager_addons.class.php:1562
+#: inc_php/manager/unitecreator_manager_addons.class.php:1602
+#: inc_php/manager/unitecreator_manager_addons.class.php:2160
+#: inc_php/manager/unitecreator_manager_addons.class.php:2205
+#: inc_php/manager/unitecreator_manager_addons.class.php:2389
+#: inc_php/manager/unitecreator_manager_inline.class.php:101
+#: inc_php/manager/unitecreator_manager_inline.class.php:112
+#: inc_php/manager/unitecreator_manager_inline.class.php:164
+#: inc_php/unitecreator_assets.class.php:1253
+#: inc_php/unitecreator_client_text.php:117
+#: inc_php/unitecreator_helperhtml.class.php:106
+#: views/objects/layouts_view.class.php:510
+#: views/objects/objects_list_view.class.php:183
+msgid "Delete"
+msgstr "删除"
+
+#: inc_php/unitecreator_assets.class.php:1256
+#: inc_php/unitecreator_client_text.php:55
+#: inc_php/unitecreator_helperhtml.class.php:105
+#: views/objects/layouts_view.class.php:57
+#: views/objects/objects_list_view.class.php:181
+msgid "Edit"
+msgstr "编辑"
+
+#: inc_php/unitecreator_helperhtml.class.php:62
+msgid "not chosen"
+msgstr "未被选中"
+
+#: inc_php/unitecreator_form.class.php:311
+msgid " field"
+msgstr "字段"
+
+#: inc_php/unitecreator_form.class.php:311
+msgid "Please fill"
+msgstr "请填写"
+
+#: inc_php/unitecreator_form.class.php:133
+msgid "Send"
+msgstr "发送"
+
+#: inc_php/unitecreator_form.class.php:87
+msgid "Thank you text"
+msgstr "感谢文本"
+
+#: inc_php/unitecreator_form.class.php:84
+msgid "Loading Text"
+msgstr "正在加载文本"
+
+#: inc_php/unitecreator_form.class.php:81
+msgid "Send Button Text"
+msgstr "发送按钮文本"
+
+#: inc_php/unitecreator_form.class.php:76
+msgid "you can change it in"
+msgstr "你可以换成"
+
+#: inc_php/unitecreator_form.class.php:76
+msgid "Admin Email"
+msgstr "管理员邮件"
+
+#: inc_php/unitecreator_form.class.php:74
+msgid "Please fill admin email in"
+msgstr "请填写管理员电子邮件"
+
+#: inc_php/unitecreator_form.class.php:69
+#: inc_php/unitecreator_settings.class.php:342
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:111
+#: provider/core/plugins/unlimited_elements/views/settingselementor.php:58
+#: views/objects/mappicker_view.class.php:192 views/settings.php:52
+msgid "General Settings"
+msgstr "常规设置"
+
+#: inc_php/unitecreator_params_processor.class.php:1442
+msgid " menu"
+msgstr "菜单"
+
+#: inc_php/unitecreator_params_processor.class.php:1442
+msgid "No items in "
+msgstr "中没有项目 "
+
+#: inc_php/unitecreator_params_processor.class.php:1408
+msgid "No menu selected"
+msgstr "未选择菜单"
+
+#: inc_php/unitecreator_params_processor.class.php:1117
+msgid "Instagram Gallery Error: "
+msgstr "Instagram 图库错误："
+
+#: inc_php/unitecreator_addon.class.php:1460
+#: inc_php/unitecreator_dialog_param.class.php:845
+#: inc_php/unitecreator_params_processor.class.php:562
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:488
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2907
+#: provider/provider_settings_multisource.class.php:63
+msgid "Items"
+msgstr "项目"
+
+#: inc_php/unitecreator_settings_output.class.php:1246
+#: inc_php/unitecreator_settings_output.class.php:1248
+msgid "Edit Addon Items"
+msgstr "编辑组件项目"
+
+#: inc_php/unitecreator_settings_output.class.php:1205
+msgid "Edit Fonts"
+msgstr "编辑字体"
+
+#: inc_php/unitecreator_settings_output.class.php:1139
+msgid "Enable Styles"
+msgstr "启用样式"
+
+#: inc_php/unitecreator_settings_output.class.php:1013
+#: inc_php/unitecreator_settings_output.class.php:1173
+msgid "Custom Styles"
+msgstr "自定义样式"
+
+#: inc_php/unitecreator_settings_output.class.php:1008
+msgid "Font Style"
+msgstr "字体样式"
+
+#: inc_php/unitecreator_settings_output.class.php:994
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1175
+#: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:1290
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:163
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:183
+#: provider/core/plugins/unlimited_elements/elementor/pagination.class.php:203
+msgid "Color"
+msgstr "颜色"
+
+#: inc_php/unitecreator_settings_output.class.php:989
+msgid "Text Decoration"
+msgstr "文字装饰"
+
+#: inc_php/unitecreator_settings_output.class.php:980
+msgid "Line Height"
+msgstr "行高"
+
+#: inc_php/unitecreator_settings_output.class.php:974
+msgid "Font Size - Mobile (px)"
+msgstr "字体大小 - 移动端(px)"
+
+#: inc_php/unitecreator_settings_output.class.php:971
+msgid "Font Size - Tablet (px)"
+msgstr "字体大小 - 平板端(px)"
+
+#: inc_php/unitecreator_settings_output.class.php:968
+msgid "Font Size (px)"
+msgstr "字体大小（px）"
+
+#: inc_php/unitecreator_settings_output.class.php:956
+msgid "Font Weight"
+msgstr "字体粗细"
+
+#: inc_php/unitecreator_settings_output.class.php:951
+msgid "Font Family"
+msgstr "字体系列"
+
+#: inc_php/unitecreator_settings_output.class.php:945
+msgid "From Page Font"
+msgstr "从页面字体"
+
+#: inc_php/unitecreator_settings_output.class.php:920
+msgid "Select Text Decoration"
+msgstr "选择文本装饰"
+
+#: inc_php/unitecreator_settings_output.class.php:917
+#: inc_php/unitecreator_settings_output.class.php:919
+#: inc_php/unitecreator_settings_output.class.php:922
+msgid "Select"
+msgstr "选择"
+
+#: inc_php/unitecreator_settings_output.class.php:915
+msgid "Select Font Family"
+msgstr "选择字体系列"
+
+#: inc_php/unitecreator_settings_output.class.php:913
+msgid "---- Select Page Font----"
+msgstr "----选择页面字体----"
+
+#: inc_php/unitecreator_settings_output.class.php:690
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:410
+#: provider/core/plugins/unlimited_elements/dialog_param_elementor.class.php:459
+msgid "Units"
+msgstr "单位"
+
+#: inc_php/framework/settings_output.class.php:517
+#: inc_php/unitecreator_settings_output.class.php:577
+msgid "Choose"
+msgstr "选择"
+
+#: inc_php/unitecreator_settings_output.class.php:528
+#: inc_php/unitecreator_settings_output.class.php:578
+msgid "Please select assets path"
+msgstr "请选择资源路径"
+
+#: inc_php/framework/settings_output.class.php:480
+#: inc_php/unitecreator_settings_output.class.php:521
+msgid "Change"
+msgstr "变更"
+
+#: inc_php/framework/settings_output.class.php:479
+#: inc_php/framework/settings_output.class.php:648
+#: inc_php/framework/table.class.php:551
+#: inc_php/unitecreator_browser.class.php:254
+#: inc_php/unitecreator_settings_output.class.php:520
+#: views/objects/objects_list_view.class.php:84
+#: views/templates/test_addon.php:58 views/testaddonnew.php:181
+msgid "Clear"
+msgstr "清除"
+
+#: inc_php/framework/settings_output.class.php:475
+#: inc_php/unitecreator_settings_output.class.php:516
+#: provider/views/master_view.php:46
+msgid "Select Image"
+msgstr "选择图像"
+
+#: inc_php/framework/settings_output.class.php:459
+#: inc_php/unitecreator_settings_output.class.php:505
+msgid "Image Url"
+msgstr "图片 URL"
+
+#: inc_php/framework/settings_advances.class.php:192
+#: inc_php/framework/settings_advances.class.php:221
+#: inc_php/unitecreator_settings_output.class.php:299
+#: inc_php/unitecreator_settings_output.class.php:685
+msgid "Left"
+msgstr "左边"
+
+#: inc_php/framework/settings_advances.class.php:208
+#: inc_php/framework/settings_advances.class.php:226
+#: inc_php/unitecreator_settings_output.class.php:298
+#: inc_php/unitecreator_settings_output.class.php:308
+#: inc_php/unitecreator_settings_output.class.php:682
+msgid "Bottom"
+msgstr "底部"
+
+#: inc_php/framework/settings_advances.class.php:194
+#: inc_php/framework/settings_advances.class.php:223
+#: inc_php/unitecreator_settings_output.class.php:297
+#: inc_php/unitecreator_settings_output.class.php:679
+msgid "Right"
+msgstr "右边"
+
+#: inc_php/framework/settings_advances.class.php:206
+#: inc_php/framework/settings_advances.class.php:224
+#: inc_php/unitecreator_settings_output.class.php:296
+#: inc_php/unitecreator_settings_output.class.php:307
+#: inc_php/unitecreator_settings_output.class.php:676
+msgid "Top"
+msgstr "顶部"
+
+#: inc_php/unitecreator_settings_output.class.php:156
+msgid "Click Me"
+msgstr "点击我"
+
+#: inc_php/unitecreator_actions.class.php:411
+#: inc_php/unitecreator_settings_output.class.php:129
+msgid "Section Saved"
+msgstr "菜单项已保存"
+
+#: inc_php/unitecreator_settings_output.class.php:128
+#: views/objects/settings_view.class.php:55
+msgid "Saving..."
+msgstr "正在保存...."
+
+#: inc_php/unitecreator_settings_output.class.php:127
+msgid "Save Section"
+msgstr "保存菜单项"
+
+#: inc_php/unitecreator_globals.class.php:258
+msgid "Page"
+msgstr "页面"
+
+#: inc_php/unitecreator_browser.class.php:363
+#: inc_php/unitecreator_globals.class.php:257
+#: views/objects/addon_view.class.php:387
+#: views/objects/layouts_view.class.php:458
+#: views/objects/objects_list_view.class.php:146
+msgid "Category"
+msgstr "分类"
+
+#: inc_php/addontypes/unitecreator_addontype.class.php:54
+#: inc_php/unitecreator_globals.class.php:256
+msgid "Addon"
+msgstr "组件"
+
+#. Author of the plugin
+#: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:21
+#: provider/provider_client_text.php:10
+msgid "Unlimited Elements"
+msgstr "无限元素"
+
+#. Description of the plugin
+msgid "Unlimited Elements - Huge Widgets Pack for Elementor Website Builder, with html/css/js widget creator and editor"
+msgstr "【无限元素】Unlimited Elements - 为 Elementor 页面构建器提供的巨量的组件库，可以使用 HTML/CSS/JS 进行组件的自定义创建和编辑，创建属于自己的 Elementor 组件！"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://unlimited-elements.com"
+msgstr "http://unlimited-elements.com"
+
+#. Plugin Name of the plugin
+#: provider/core/plugins/unlimited_elements/plugin.php:32
+msgid "Unlimited Elements for Elementor"
+msgstr "Unlimited Elements for Elementor"

@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QAPress\n"
+"POT-Creation-Date: 2022-08-12 09:37+0800\n"
+"PO-Revision-Date: 2022-08-12 10:14+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_Hant_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/ajax.php:453
+msgid ""
+"You are not signed in, please sign in before proceeding with related "
+"operations!"
+msgstr "您尚未登入，請在繼續相關操作之前登入！"
+
+#: includes/functions.php:32 templates/comment.php:43 templates/comment.php:62
+#: templates/single.php:16 templates/single.php:28
+msgctxt "qapress"
+msgid "Delete"
+msgstr "删除"
+
+#: includes/functions.php:33
+msgctxt "qapress comment"
+msgid "No comments"
+msgstr "沒有評論"
+
+#: includes/functions.php:34
+msgctxt "qapress"
+msgid "No comments"
+msgstr "沒有評論"
+
+#: includes/functions.php:35 templates/single.php:55 templates/single.php:84
+msgctxt "qapress"
+msgid "Add comment"
+msgstr "添加評論"
+
+#: includes/functions.php:36 templates/ask.php:23
+msgctxt "qapress"
+msgid "Submit"
+msgstr "提交"
+
+#: includes/functions.php:37
+msgctxt "qapress"
+msgid "Loading..."
+msgstr "加載。。。"
+
+#: includes/functions.php:38
+msgctxt "qapress"
+msgid "Parameter error, please try again later"
+msgstr "參數錯誤，請稍後重試"
+
+#: includes/functions.php:39
+msgctxt "qapress"
+msgid "Request failed, please try again later"
+msgstr "請求失敗，請稍後重試"
+
+#: includes/functions.php:40
+msgctxt "qapress comment"
+msgid ""
+"The delete action cannot be restored, are you sure you want to delete it?"
+msgstr "無法還原删除操作，是否確實要删除它？"
+
+#: includes/functions.php:41
+msgctxt "qapress"
+msgid ""
+"The delete action cannot be restored, are you sure you want to delete it?"
+msgstr "無法還原删除操作，是否確實要删除它？"
+
+#: includes/functions.php:42
+msgctxt "qapress question"
+msgid ""
+"The delete action cannot be restored, are you sure you want to delete it?"
+msgstr "無法還原删除操作，是否確實要删除它？"
+
+#: includes/functions.php:43
+msgctxt "qapress"
+msgid "Deleting..."
+msgstr "正在删除。。。"
+
+#: includes/functions.php:44
+msgctxt "qapress"
+msgid "Success!"
+msgstr "成功！"
+
+#: includes/functions.php:45
+msgctxt "qapress"
+msgid "Permission denied!"
+msgstr "拒絕許可！"
+
+#: includes/functions.php:46
+msgctxt "qapress"
+msgid "Delete error, please try again later"
+msgstr "删除錯誤，請稍後重試"
+
+#: includes/functions.php:47
+msgctxt "qapress"
+msgid "Comment content cannot be empty"
+msgstr "注釋內容不能為空"
+
+#: includes/functions.php:48
+msgctxt "qapress"
+msgid "Submitting..."
+msgstr "提交中。。。"
+
+#: includes/functions.php:49
+msgctxt "qapress"
+msgid "Submit successfully!"
+msgstr "提交成功！"
+
+#: includes/functions.php:50 templates/comment.php:42
+msgctxt "qapress, 0 comment"
+msgid "No comments"
+msgstr "沒有評論"
+
+#: includes/functions.php:51
+msgctxt "qapress"
+msgid "Sorry, you need to login first"
+msgstr "對不起，您需要先登入"
+
+#: includes/functions.php:52
+msgctxt "qapress"
+msgid "Submission failed, please try again later"
+msgstr "提交失敗，請稍後再試"
+
+#: includes/functions.php:53
+msgctxt "qapress"
+msgid "Please enter your title"
+msgstr "請輸入您的標題"
+
+#: includes/functions.php:54
+msgctxt "qapress"
+msgid "Please select your category"
+msgstr "請選擇您的類別"
+
+#: includes/functions.php:55
+msgctxt "qapress"
+msgid "Please enter your content"
+msgstr "請輸入您的內容"
+
+#: includes/functions.php:56
+msgctxt "qapress"
+msgid "Updated successfully!"
+msgstr "更新成功！"
+
+#: includes/functions.php:57
+msgctxt "qapress"
+msgid "The question was posted successfully!"
+msgstr "問題發佈成功！"
+
+#: includes/functions.php:58
+msgctxt "qapress"
+msgid "Title, category and content cannot be empty"
+msgstr "標題、類別和內容不能為空"
+
+#: includes/functions.php:59
+msgctxt "qapress"
+msgid "The content length cannot be less than 10 characters"
+msgstr "內容長度不能小於10個字元"
+
+#: includes/functions.php:60
+msgctxt "qapress"
+msgid "Comments are all loaded"
+msgstr "注釋都已加載"
+
+#: includes/functions.php:61
+msgctxt "qapress"
+msgid "Load failed, please try again later"
+msgstr "加載失敗，請稍後重試"
+
+#: includes/functions.php:62 includes/functions.php:539
+#: includes/functions.php:563 templates/single.php:74
+msgctxt "qapress"
+msgid "Load more"
+msgstr "加載更多"
+
+#: includes/functions.php:63
+msgctxt "qapress"
+msgid "Are you sure to set the current question as approved?"
+msgstr "是否確實將當前問題設定為已準予？"
+
+#: includes/functions.php:64
+msgctxt "qapress"
+msgid "- END -"
+msgstr "-結束-"
+
+#: includes/functions.php:65
+msgctxt "qapress"
+msgid "Image upload error, please try again later!"
+msgstr "图片上傳錯誤，請稍後再試！"
+
+#: includes/functions.php:66
+msgctxt "qapress"
+msgid "Only support jpg, png, gif file types"
+msgstr "僅支持jpg、png和gif文件類型"
+
+#: includes/functions.php:67
+#, php-format
+msgctxt "qapress"
+msgid "Image size cannot exceed %sM"
+msgstr "影像大小不能超過 %sM"
+
+#: includes/functions.php:68
+msgctxt "qapress"
+msgid "Uploading..."
+msgstr "正在上传。。。"
+
+#: includes/functions.php:69
+msgctxt "qapress"
+msgid "Insert Image"
+msgstr "插入圖像"
+
+#: includes/functions.php:375
+msgid "1 second ago"
+msgstr "1秒鐘前"
+
+#: includes/functions.php:383
+#, php-format
+msgid "%s year ago"
+msgid_plural "%s years ago"
+msgstr[0] "%s 年前"
+
+#: includes/functions.php:384
+#, php-format
+msgid "%s month ago"
+msgid_plural "%s months ago"
+msgstr[0] "%s 個月前"
+
+#: includes/functions.php:385
+#, php-format
+msgid "%s week ago"
+msgid_plural "%s weeks ago"
+msgstr[0] "%s 周前"
+
+#: includes/functions.php:386
+#, php-format
+msgid "%s day ago"
+msgid_plural "%s days ago"
+msgstr[0] "%s 天前"
+
+#: includes/functions.php:387
+#, php-format
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] "%s 小时前"
+
+#: includes/functions.php:388
+#, php-format
+msgid "%s min ago"
+msgid_plural "%s mins ago"
+msgstr[0] "%s 分钟前"
+
+#: includes/functions.php:389
+#, php-format
+msgid "%s second ago"
+msgid_plural "%s seconds ago"
+msgstr[0] "%s 秒前"
+
+#: includes/functions.php:433
+#, php-format
+msgid "Page %s"
+msgstr "頁 %s"
+
+#: includes/functions.php:473
+msgid "Dear User,"
+msgstr "尊敬的用戶，"
+
+#: includes/functions.php:484
+msgid "Q&A"
+msgstr "問&答"
+
+#: includes/functions.php:529
+msgid "Questions"
+msgstr "問題"
+
+#: includes/functions.php:530
+msgid "Answers"
+msgstr "回答"
+
+#: includes/functions.php:542
+msgid "You have not created any questions."
+msgstr "你沒有提出任何問題。"
+
+#: includes/functions.php:542
+msgid "This user has not created any questions."
+msgstr "此用戶尚未創建任何問題。"
+
+#: includes/functions.php:552 includes/functions.php:606
+msgid "answered"
+msgstr "回答"
+
+#: includes/functions.php:556 includes/functions.php:610
+msgid "(Filtered content)"
+msgstr "(過濾內容)"
+
+#: includes/functions.php:567
+msgid "You have not answered any questions."
+msgstr "你沒有回答任何問題。"
+
+#: includes/functions.php:567
+msgid "This user has not answered any questions."
+msgstr "該用戶尚未回答任何問題。"
+
+#: includes/html.php:137
+msgid "You do not have permission to access this page"
+msgstr "您沒有訪問此頁面的許可權"
+
+#: templates/ask.php:9
+msgid "Title: "
+msgstr "標題："
+
+#: templates/ask.php:10
+msgid "Please enter your title"
+msgstr "請輸入您的標題"
+
+#: templates/ask.php:13
+msgid "Category: "
+msgstr "類別："
+
+#: templates/ask.php:16
+msgid "-- Select --"
+msgstr "--選擇--"
+
+#: templates/comment.php:20
+msgctxt "qapress"
+msgid "Reply"
+msgstr "回復"
+
+#: templates/comment.php:32 templates/comment.php:33
+msgid "Upvote"
+msgstr "点赞"
+
+#: templates/comment.php:33
+#, php-format
+msgid "Upvote %s"
+msgstr "点赞 %s"
+
+#: templates/comment.php:35
+msgid "Downvote"
+msgstr "踩踩"
+
+#: templates/comment.php:42
+#, php-format
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s 條評論"
+
+#: templates/list-item.php:16 templates/single.php:7
+msgctxt "qapress"
+msgid "TOP"
+msgstr "置頂"
+
+#: templates/list-item.php:45
+msgid "Last reply from "
+msgstr "最後一個回復來自"
+
+#: templates/list.php:4
+msgctxt "qapress"
+msgid "All"
+msgstr "全部"
+
+#: templates/list.php:30
+msgctxt "qapress"
+msgid "Question list is empty"
+msgstr "問題列表為空"
+
+#: templates/single.php:13
+msgctxt "qapress"
+msgid "Approve"
+msgstr "準予"
+
+#: templates/single.php:14 templates/single.php:24
+msgctxt "qapress"
+msgid "Edit"
+msgstr "編輯"
+
+#: templates/single.php:15
+msgctxt "qapress"
+msgid "UN-sticky"
+msgstr "不置頂"
+
+#: templates/single.php:15
+msgctxt "qapress"
+msgid "Sticky"
+msgstr "置頂"
+
+#: templates/single.php:53
+msgctxt "qapress"
+msgid "Comments"
+msgstr "評論"
+
+#: templates/single.php:54
+#, php-format
+msgctxt "qapress"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s 條評論"
+
+#: templates/single.php:67
+msgctxt "qapress"
+msgid "Comment list is empty"
+msgstr "評論列表為空"
+
+#: templates/single.php:88
+msgctxt "qapress comment"
+msgid "Submit"
+msgstr "提交"
+
+#: templates/single.php:94
+#, php-format
+msgctxt "qapress"
+msgid ""
+"Please <a href=\"%s\">login</a> or <a href=\"%s\">register</a> to add "
+"comment."
+msgstr ""
+"請先<a href=\"%s\">登錄</a> 或者 <a href=\"%s\">註冊</a> 才能發表評論。"

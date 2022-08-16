@@ -1,0 +1,2119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPCOM Member\n"
+"POT-Creation-Date: 2022-07-15 18:52+0800\n"
+"PO-Revision-Date: 2022-07-21 23:30+0800\n"
+"Last-Translator: \n"
+"Language-Team: WPCOM <service@izt.me>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_n:1,2;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;_n_noop:1,2;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: admin/includes/class-plugin-panel.php:79 includes/class-member.php:470
+#: includes/class-member.php:498 includes/class-member.php:573
+#: includes/class-member.php:613
+msgid "Save Changes"
+msgstr "保存设置"
+
+#: includes/class-member.php:271 includes/class-member.php:643
+#: includes/class-member.php:653 includes/class-member.php:658
+#: includes/class-member.php:987 includes/class-member.php:997
+#: includes/class-member.php:1002
+msgid "I'm not a robot"
+msgstr "点击进行人机验证"
+
+#: includes/class-member.php:272
+msgid "You are verified"
+msgstr "验证成功"
+
+#: includes/class-member.php:279 includes/class-member.php:282
+msgid "Select photo"
+msgstr "选择图片"
+
+#: includes/class-member.php:280
+msgid "Select your profile photo"
+msgstr "请选择头像图片"
+
+#: includes/class-member.php:281
+msgid "Select your cover photo"
+msgstr "请选择封面图片"
+
+#: includes/class-member.php:283
+msgid "Apply"
+msgstr "应用"
+
+#: includes/class-member.php:284
+msgid "Cancel"
+msgstr "取消"
+
+#: includes/class-member.php:285
+msgid "This image is too large!"
+msgstr "图片尺寸太大！"
+
+#: includes/class-member.php:286
+msgid "Sorry this is not a valid image."
+msgstr "请选择有效的图片文件"
+
+#: includes/class-member.php:287
+msgid "Nonce check failed!"
+msgstr "随机数校验失败"
+
+#: includes/class-member.php:288
+msgid "Image upload failed!"
+msgstr "图片上传失败"
+
+#: includes/class-member.php:289
+msgid "You must login first!"
+msgstr "请登录后操作"
+
+#: includes/class-member.php:290
+msgid "Please select a photo!"
+msgstr "请选择图片"
+
+#: includes/class-member.php:291
+msgid "Request failed!"
+msgstr "请求失败"
+
+#: includes/class-member.php:318
+#, php-format
+msgid "%s’s %s"
+msgstr "%s的%s"
+
+#: includes/class-member.php:445
+msgid "No user found."
+msgstr "没有找到用户"
+
+#: includes/class-member.php:506
+msgctxt "验证方式"
+msgid "STEP 1"
+msgstr "验证方式"
+
+#: includes/class-member.php:507
+msgctxt "安全验证"
+msgid "STEP 2"
+msgstr "安全验证"
+
+#: includes/class-member.php:508
+msgctxt "绑定帐号"
+msgid "STEP 3"
+msgstr "绑定帐号"
+
+#: includes/class-member.php:553 includes/class-member.php:596
+msgid "Next"
+msgstr "下一步"
+
+#: includes/class-member.php:560
+msgid "Verification failed"
+msgstr "验证失败"
+
+#: includes/class-member.php:586
+msgid "Verify by"
+msgstr "选择验证方式"
+
+#: includes/class-member.php:589
+msgctxt "Verify"
+msgid "Phone number"
+msgstr "手机号码"
+
+#: includes/class-member.php:590
+msgctxt "Verify"
+msgid "Email address"
+msgstr "电子邮箱"
+
+#: includes/class-member.php:662 includes/class-member.php:1006
+msgid "Get Code"
+msgstr "发送验证码"
+
+#: includes/class-member.php:721
+msgid "Load more posts"
+msgstr "点击查看更多"
+
+#: includes/class-member.php:724
+msgid "You have not created any posts."
+msgstr "你还没有发布任何文章。"
+
+#: includes/class-member.php:724
+msgid "This user has not created any posts."
+msgstr "该用户还没有发布任何文章。"
+
+#: includes/class-member.php:783
+msgid "Load more comments"
+msgstr "点击查看更多"
+
+#: includes/class-member.php:786
+msgid "You have not made any comments."
+msgstr "你还没有发布任何评论。"
+
+#: includes/class-member.php:786
+msgid "This user has not made any comments."
+msgstr "该用户还没有发布任何评论。"
+
+#: includes/class-member.php:851
+#, php-format
+msgid "I have read and agree to the %s and %s"
+msgstr "我已阅读并同意%s和%s"
+
+#: includes/class-member.php:853
+#, php-format
+msgid "I have read and agree to the %s"
+msgstr "我已阅读并同意%s"
+
+#: includes/class-member.php:858
+msgid "Create an account"
+msgstr "提交注册"
+
+#: includes/class-member.php:881
+msgid "Remember me"
+msgstr "记住我的登录状态"
+
+#: includes/class-member.php:882
+msgid "Forgot password?"
+msgstr "忘记密码？"
+
+#: includes/class-member.php:884 templates/login.php:19
+msgid "Sign In"
+msgstr "登录"
+
+#: includes/class-member.php:906 includes/class-member.php:922
+#: includes/class-member.php:955
+msgid "Submit"
+msgstr "提交"
+
+#: includes/class-member.php:927
+msgid "Your phone number error!"
+msgstr "手机号码错误"
+
+#: includes/class-member.php:928
+msgid "Unable to get the phone number, please return to the previous step."
+msgstr "无法获取手机号码，请返回上一步继续操作。"
+
+#: includes/class-member.php:934
+msgid "Password reset email send successfully!"
+msgstr "密码重置邮件发送成功！"
+
+#: includes/class-member.php:935
+msgid ""
+"Check your email for a link to reset your password. If it doesn’t appear "
+"within a few minutes, check your spam folder."
+msgstr ""
+"密码重置信息已发送至您帐号绑定的电子邮箱，请登录您的邮箱点击验证地址进行密码"
+"重置。如果一直没有收到邮件，可以检查下邮件的垃圾箱。"
+
+#: includes/class-member.php:944
+msgid "Password reset link invalid"
+msgstr "重置链接无效"
+
+#: includes/class-member.php:946
+msgid "Click here to resend password reset email"
+msgstr "点击重新请求新链接"
+
+#: includes/class-member.php:963
+msgid "Password reset successfully"
+msgstr "密码重置成功！"
+
+#: includes/class-member.php:964
+msgid "Your password has been reset successfully! "
+msgstr "你的密码重置成功，请使用新密码进行登录。"
+
+#: includes/class-member.php:965
+msgid " Click here to return to the login page"
+msgstr "点击进入登录页面"
+
+#: includes/class-member.php:1043
+msgid "Your activation link has expired."
+msgstr "激活链接已经过期"
+
+#: includes/class-member.php:1045
+msgid "Your activation link is invalid."
+msgstr "激活链接无效"
+
+#: includes/class-member.php:1048 includes/class-member.php:1094
+msgid "Resend activation email"
+msgstr "重发激活邮件"
+
+#: includes/class-member.php:1053
+msgid "Your account has been activated successfully."
+msgstr "你的帐号已经激活成功。"
+
+#: includes/class-member.php:1054
+msgid "Click here to login"
+msgstr "点击前往登录"
+
+#: includes/class-member.php:1078
+#, php-format
+msgid "Log in with %s"
+msgstr "%s登录"
+
+#: includes/class-member.php:1292
+msgid "Your password reset link has expired"
+msgstr "密码重置链接已过期，请重新请求新链接。"
+
+#: includes/class-member.php:1294
+msgid "Your password reset link appears to be invalid"
+msgstr "密码重置链接无效，请重新请求新链接。"
+
+#: includes/class-member.php:1520 includes/form-validation.php:148
+#, php-format
+msgid ""
+"Please activate your account. <a href=\"%s\" target=\"_blank\">Resend "
+"activation email</a>"
+msgstr "帐号未激活 <a href=\"%s\" target=\"_blank\">重发激活邮件</a>"
+
+#: includes/class-member.php:1522 includes/form-validation.php:150
+msgid "Account awaiting approval."
+msgstr "当前帐号还未通过审核"
+
+#: includes/class-member.php:1526
+msgid "Blacklist user."
+msgstr "小黑屋用户"
+
+#: includes/class-member.php:1567
+msgid "Unapproved"
+msgstr "未激活/审核中"
+
+#: includes/class-member.php:1574
+msgid "Blacklist"
+msgstr "小黑屋"
+
+#: includes/class-member.php:1674
+msgid "Approve"
+msgstr "激活/审核通过"
+
+#: includes/class-member.php:1675
+msgid "Disapprove"
+msgstr "设置为未激活/审核中"
+
+#: includes/class-member.php:1676
+msgid "Add to blacklist"
+msgstr "加入小黑屋"
+
+#: includes/class-member.php:1677
+msgid "Remove from blacklist"
+msgstr "移出小黑屋"
+
+#: includes/class-member.php:1722
+msgid "Registered"
+msgstr "注册"
+
+#: includes/class-member.php:1727
+msgid "User"
+msgstr ""
+
+#: includes/class-member.php:1731 includes/member-functions.php:167
+#: includes/member-functions.php:235
+msgctxt "label"
+msgid "Phone number"
+msgstr "手机号码"
+
+#: includes/class-member.php:1735
+msgid "Email"
+msgstr ""
+
+#: includes/class-member.php:1768
+msgid "Super Admin"
+msgstr ""
+
+#: includes/class-member.php:1775 includes/member-functions.php:158
+#: includes/member-functions.php:177 includes/member-functions.php:227
+#: includes/member-functions.php:245
+msgid "Edit"
+msgstr "编辑"
+
+#: includes/class-member.php:1782 includes/member-functions.php:280
+msgid "Delete"
+msgstr "解除绑定"
+
+#: includes/class-member.php:1785
+msgid "Remove"
+msgstr ""
+
+#: includes/class-member.php:1795
+#, php-format
+msgid "View posts by %s"
+msgstr ""
+
+#: includes/class-member.php:1796
+msgid "View"
+msgstr ""
+
+#: includes/class-member.php:1821
+msgid "Show more details"
+msgstr ""
+
+#: includes/class-member.php:1838
+msgid "Mobile Phone"
+msgstr "手机号码"
+
+#: includes/class-member.php:1957
+msgctxt "stats"
+msgid "posts"
+msgstr "文章"
+
+#: includes/class-member.php:1962
+msgctxt "stats"
+msgid "comments"
+msgstr "评论"
+
+#: includes/class-member.php:1974
+msgctxt "stats"
+msgid "questions"
+msgstr "问题"
+
+#: includes/class-member.php:1980
+msgctxt "stats"
+msgid "answers"
+msgstr "回答"
+
+#: includes/class-member.php:1990
+msgctxt "stats"
+msgid "followers"
+msgstr "粉丝"
+
+#: includes/form-validation.php:46
+msgid "No phone number added, phone number verification cannot be used"
+msgstr "未绑定手机，无法使用手机验证"
+
+#: includes/form-validation.php:48
+msgid "No email address added, email verification cannot be used"
+msgstr "未绑定邮箱，无法使用邮箱验证"
+
+#: includes/form-validation.php:95
+msgid "The password is incorrect"
+msgstr "密码错误"
+
+#: includes/form-validation.php:116
+msgid "The username or password is incorrect"
+msgstr "用户名或密码错误"
+
+#: includes/form-validation.php:117
+msgid "Login successfully"
+msgstr "登录成功"
+
+#: includes/form-validation.php:214
+msgid "Registered successfully"
+msgstr "注册成功"
+
+#: includes/form-validation.php:225 includes/social-login.php:676
+#: templates/register.php:12
+msgid "User registration is currently not allowed."
+msgstr "目前暂未开放用户注册"
+
+#: includes/form-validation.php:249
+msgid "Sorry, that mobile phone number already exists!"
+msgstr "当前手机号码已经注册"
+
+#: includes/form-validation.php:294 includes/form-validation.php:354
+msgid "The username does not exist"
+msgstr "用户名不存在"
+
+#: includes/form-validation.php:295
+msgid "Resend successfully"
+msgstr "重发成功"
+
+#: includes/form-validation.php:320
+msgid "Error occurs when resend email."
+msgstr "重新发送电子邮件时发生错误"
+
+#: includes/form-validation.php:328
+msgid "You have already activated your account."
+msgstr "请勿重复激活"
+
+#: includes/form-validation.php:355
+msgid "Submitted successfully"
+msgstr "提交成功"
+
+#: includes/form-validation.php:394
+msgid "No email address or phone number added, you should add first"
+msgstr "未绑定邮箱或者手机，社交登录用户请绑定后再使用找回密码功能"
+
+#: includes/form-validation.php:432
+msgid "Reset failed, please retry!"
+msgstr "密码重置失败，请重试"
+
+#: includes/form-validation.php:433
+msgid "Reset successfully"
+msgstr "重置成功"
+
+#: includes/form-validation.php:472
+msgid "Generate reset key error."
+msgstr "生成重置密钥发生错误"
+
+#: includes/form-validation.php:491
+msgid "Someone has requested a password reset for the following account:"
+msgstr "有人为以下帐户请求了密码重置："
+
+#: includes/form-validation.php:493
+#, php-format
+msgid "Site Name: %s"
+msgstr ""
+
+#: includes/form-validation.php:495 includes/member-functions.php:665
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/form-validation.php:496 includes/member-functions.php:640
+#: includes/member-functions.php:719
+msgid "If this was a mistake, ignore this email and nothing will happen."
+msgstr "如果这是一个错误，请忽略此电子邮件，不会发生任何事情。"
+
+#: includes/form-validation.php:497
+msgid "To reset your password, visit the following address:"
+msgstr "要重置您的密码，请打开下面的链接："
+
+#: includes/form-validation.php:501
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/form-validation.php:532 includes/member-functions.php:647
+#: includes/member-functions.php:675 includes/member-functions.php:700
+#: includes/member-functions.php:726
+msgid "The email could not be sent."
+msgstr "邮件无法发送，如有疑问请联系网站管理员"
+
+#: includes/form-validation.php:547
+msgid "Add failed"
+msgstr "绑定失败"
+
+#: includes/form-validation.php:547
+msgid "verification failed"
+msgstr "验证失败"
+
+#: includes/form-validation.php:548
+msgid "Added successfully"
+msgstr "绑定成功"
+
+#: includes/form-validation.php:548
+msgid "Verified successfully"
+msgstr "验证成功"
+
+#: includes/form-validation.php:584
+msgid "The phone number has been registered"
+msgstr "该手机号已被注册"
+
+#: includes/form-validation.php:859
+msgid "Successfully deleted!"
+msgstr "解绑成功！"
+
+#: includes/form-validation.php:881
+msgid "Social login is not turned on"
+msgstr "暂未开启社交登录功能"
+
+#: includes/form-validation.php:887 includes/member-functions.php:161
+#: includes/member-functions.php:180 includes/member-functions.php:230
+#: includes/member-functions.php:248 includes/member-functions.php:271
+msgid "Not set"
+msgstr "未绑定"
+
+#: includes/form-validation.php:887 includes/member-functions.php:271
+msgid "Connect"
+msgstr "立即绑定"
+
+#: includes/form-validation.php:890
+msgid ""
+"The current account only has this login method, please bind other login "
+"methods before unbinding!"
+msgstr "当前帐号仅有此登录方式，请绑定其他登录方式后再进行解绑操作！"
+
+#: includes/form-validation.php:894 includes/social-login.php:674
+msgid "Parameter error"
+msgstr "参数错误"
+
+#: includes/functions.php:165 includes/functions.php:210
+#: includes/functions.php:236
+msgid "Orders"
+msgstr "我的订单"
+
+#: includes/functions.php:166 includes/functions.php:219
+msgid "Downloads"
+msgstr "我的下载"
+
+#: includes/functions.php:167 includes/functions.php:227
+msgid "Addresses"
+msgstr "配送地址"
+
+#: includes/member-functions.php:9 includes/member-functions.php:340
+#: includes/member-functions.php:559 includes/social-login.php:707
+msgctxt "label"
+msgid "Username"
+msgstr "用户名"
+
+#: includes/member-functions.php:13 includes/member-functions.php:344
+#: includes/social-login.php:709
+msgid "Phone number / E-mail / Username"
+msgstr "请输入手机号码/电子邮箱/用户名"
+
+#: includes/member-functions.php:13 includes/member-functions.php:344
+#: includes/member-functions.php:563 includes/social-login.php:709
+msgid "Username or email address"
+msgstr "请输入用户名/电子邮箱"
+
+#: includes/member-functions.php:17 includes/member-functions.php:37
+#: includes/member-functions.php:58 includes/member-functions.php:67
+#: includes/social-login.php:713
+msgctxt "label"
+msgid "Password"
+msgstr "密码"
+
+#: includes/member-functions.php:21 includes/member-functions.php:42
+#: includes/member-functions.php:63 includes/social-login.php:715
+msgctxt "placeholder"
+msgid "Password"
+msgstr "请输入登录密码"
+
+#: includes/member-functions.php:49 includes/member-functions.php:87
+#: includes/member-functions.php:186 includes/member-functions.php:253
+msgctxt "label"
+msgid "Email address"
+msgstr "电子邮箱"
+
+#: includes/member-functions.php:54 includes/member-functions.php:92
+msgctxt "placeholder"
+msgid "Email address"
+msgstr "请输入电子邮箱"
+
+#: includes/member-functions.php:72
+msgctxt "placeholder"
+msgid "Confirm password"
+msgstr "请确认登录密码"
+
+#: includes/member-functions.php:99
+msgctxt "label"
+msgid "Verification code"
+msgstr "验证码"
+
+#: includes/member-functions.php:105
+msgctxt "placeholder"
+msgid "Please enter your verification code"
+msgstr "请输入验证码"
+
+#: includes/member-functions.php:118
+msgid "General"
+msgstr "基本资料"
+
+#: includes/member-functions.php:123
+msgid "Password"
+msgstr "修改密码"
+
+#: includes/member-functions.php:128 includes/member-functions.php:774
+msgid "Logout"
+msgstr "退出登录"
+
+#: includes/member-functions.php:135 includes/member-functions.php:142
+msgctxt "title"
+msgid "Connect"
+msgstr "帐号绑定"
+
+#: includes/member-functions.php:158 includes/member-functions.php:161
+#: includes/member-functions.php:177 includes/member-functions.php:180
+#: includes/member-functions.php:227 includes/member-functions.php:230
+#: includes/member-functions.php:245 includes/member-functions.php:248
+msgid "Private"
+msgstr "仅自己可见"
+
+#: includes/member-functions.php:161 includes/member-functions.php:230
+msgid "Add phone number"
+msgstr "立即绑定"
+
+#: includes/member-functions.php:180 includes/member-functions.php:248
+msgid "Add email address"
+msgstr "立即绑定"
+
+#: includes/member-functions.php:196
+msgid "Nickname"
+msgstr "昵称"
+
+#: includes/member-functions.php:204
+msgid "Description"
+msgstr "个人说明"
+
+#: includes/member-functions.php:208
+msgid "Optional, description can not exceed 200 characters"
+msgstr "可选，个人说明不超过200个字符"
+
+#: includes/member-functions.php:277
+msgid "Connected"
+msgstr "已绑定"
+
+#: includes/member-functions.php:303
+msgctxt "label"
+msgid "Old password"
+msgstr "原密码"
+
+#: includes/member-functions.php:307
+msgctxt "placeholder"
+msgid "Please enter your old password"
+msgstr "请输入原密码"
+
+#: includes/member-functions.php:311 includes/member-functions.php:358
+msgctxt "label"
+msgid "New password"
+msgstr "确认新密码"
+
+#: includes/member-functions.php:317 includes/member-functions.php:365
+msgid "Password must be 6-32 characters"
+msgstr "密码长度为6～32位"
+
+#: includes/member-functions.php:319 includes/member-functions.php:367
+msgctxt "placeholder"
+msgid "Please enter your new password"
+msgstr "请输入新密码"
+
+#: includes/member-functions.php:323 includes/member-functions.php:371
+msgctxt "label2"
+msgid "New password"
+msgstr "确认新密码"
+
+#: includes/member-functions.php:328 includes/member-functions.php:377
+msgctxt "placeholder"
+msgid "Please confirm your new password"
+msgstr "请再次输入新密码"
+
+#: includes/member-functions.php:390
+msgid " is required"
+msgstr "不能为空"
+
+#: includes/member-functions.php:391
+msgid "This is not a valid email"
+msgstr "请输入正确的电子邮箱"
+
+#: includes/member-functions.php:392
+msgid "Please enter your "
+msgstr "请输入"
+
+#: includes/member-functions.php:393
+msgid "Your password must be 6-32 characters"
+msgstr "密码必须为6~32个字符"
+
+#: includes/member-functions.php:394
+msgid "Your passwords do not match"
+msgstr "两次密码输入不一致"
+
+#: includes/member-functions.php:395
+msgid "Please enter a valid phone number"
+msgstr "请输入正确的电话号码"
+
+#: includes/member-functions.php:396
+msgid "Please read and agree with the terms"
+msgstr "请阅读并同意条款"
+
+#: includes/member-functions.php:397
+msgid "Your verification code error"
+msgstr "验证码错误"
+
+#: includes/member-functions.php:398
+msgid "Please slide to verify"
+msgstr "请按住滑块，拖动到最右边"
+
+#: includes/member-functions.php:398
+msgid "Please click to verify"
+msgstr "请点击按钮进行验证"
+
+#: includes/member-functions.php:399
+msgid "Slide verify failed, please try again"
+msgstr "滑块验证失败，请重试"
+
+#: includes/member-functions.php:399
+msgid "Click verify failed, please try again"
+msgstr "点击验证失败，请重试"
+
+#: includes/member-functions.php:400
+msgid "The nonce check failed"
+msgstr "随机数校验失败"
+
+#: includes/member-functions.php:401
+msgid "Request Error!"
+msgstr "请求失败"
+
+#: includes/member-functions.php:411
+msgid "Posts"
+msgstr "文章"
+
+#: includes/member-functions.php:416
+msgid "Comments"
+msgstr "评论"
+
+#: includes/member-functions.php:427
+msgctxt "social login"
+msgid "QQ"
+msgstr "QQ"
+
+#: includes/member-functions.php:431
+msgctxt "social login"
+msgid "Weibo"
+msgstr "微博"
+
+#: includes/member-functions.php:435 includes/member-functions.php:439
+#: includes/member-functions.php:443
+msgctxt "social login"
+msgid "Wechat"
+msgstr "微信"
+
+#: includes/member-functions.php:447
+msgctxt "social login"
+msgid "Google"
+msgstr "Google"
+
+#: includes/member-functions.php:451
+msgctxt "social login"
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/member-functions.php:455
+msgctxt "social login"
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/member-functions.php:459
+msgctxt "social login"
+msgid "Github"
+msgstr "Github"
+
+#: includes/member-functions.php:637 includes/member-functions.php:692
+#: includes/member-functions.php:716
+#, php-format
+msgid "Hi, %s!"
+msgstr "你好，%s！"
+
+#: includes/member-functions.php:638
+#, php-format
+msgid ""
+"Welcome to %s. To activate your account and verify your email address, "
+"please click the following link:"
+msgstr "欢迎加入%s！请点击以下链接验证电子邮箱来激活您的帐号："
+
+#: includes/member-functions.php:642
+#, php-format
+msgid "[%s] Please verify your email address"
+msgstr "【%s】邮箱验证激活"
+
+#: includes/member-functions.php:654
+msgid "The user does not exist"
+msgstr "用户不存在"
+
+#: includes/member-functions.php:664
+#, php-format
+msgid "%s has just created an account on %s!"
+msgstr "用户【%s】已在您的网站【%s】成功注册！"
+
+#: includes/member-functions.php:666
+#, php-format
+msgid "E-Mail: %s"
+msgstr "电子邮箱：%s"
+
+#: includes/member-functions.php:668
+msgid "If you want to approve the new user, please go to wp-admin page."
+msgstr "如需通过用户的注册申请，可在网站后台【用户】页面进行操作。"
+
+#: includes/member-functions.php:670
+#, php-format
+msgid "[%s] New user account"
+msgstr "【%s】新用户注册"
+
+#: includes/member-functions.php:693
+#, php-format
+msgid ""
+"Congratulations, your account has been activated successfully, you can now "
+"login: <a href=\"%s\">%s</a>"
+msgstr "你的帐号已经通过审核，马上点击链接登录：<a href=\"%s\">%s</a>"
+
+#: includes/member-functions.php:695
+#, php-format
+msgid "[%s] Welcome to join us"
+msgstr "【%s】帐号审核通过"
+
+#: includes/member-functions.php:717
+#, php-format
+msgid ""
+"Your verification code is <b style=\"color:red;\">%s</b>, please enter in 10 "
+"minutes."
+msgstr "您的验证码为：<b style=\"color:red;\">%s</b>，请在10分钟内输入。"
+
+#: includes/member-functions.php:721
+#, php-format
+msgid "[%s] Your verification code"
+msgstr "【%s】电子邮件验证码"
+
+#: includes/member-functions.php:751
+msgid "Profile"
+msgstr "个人中心"
+
+#: includes/member-functions.php:770
+msgid "Account"
+msgstr "帐号设置"
+
+#: includes/member-functions.php:897
+msgid ""
+"You are not signed in, please sign in before proceeding with related "
+"operations!"
+msgstr "您还未登录，请登录后再进行相关操作！"
+
+#: includes/member-functions.php:898
+msgid "Please sign in"
+msgstr "请登录"
+
+#: includes/member-functions.php:899
+msgid "Sign in"
+msgstr "登录"
+
+#: includes/member-functions.php:900
+msgid "Sign up"
+msgstr "注册"
+
+#: includes/required.php:15 includes/required.php:53
+msgctxt "pagination"
+msgid "Previous"
+msgstr "上一页"
+
+#: includes/required.php:44 includes/required.php:78
+msgctxt "pagination"
+msgid "Next"
+msgstr "下一页"
+
+#: includes/required.php:47 includes/required.php:81
+msgctxt "页码"
+msgid "GO"
+msgstr "页码"
+
+#: includes/social-login.php:689 includes/social-login.php:696
+#, php-format
+msgid "Hi, <b>%s</b>!"
+msgstr "欢迎你，<b>%s</b>！"
+
+#: includes/social-login.php:690
+#, php-format
+msgid ""
+"Your <b>%s</b> account has been bound successfully, you can log in directly "
+"with your <b>%s</b> account in the future."
+msgstr "您的<b>%s</b>帐号已绑定成功，后续将可以直接使用<b>%s</b>帐号登录本站！"
+
+#: includes/social-login.php:697
+#, php-format
+msgid ""
+"You are logging in with a <b>%s</b> account, please bind an existing account "
+"or register a new account."
+msgstr "当前你正在使用<b>%s</b>帐号登录，请绑定已有帐户，或者注册新用户绑定。"
+
+#: includes/social-login.php:705
+msgid "Bind an existing account"
+msgstr "已经拥有帐户，请绑定"
+
+#: includes/social-login.php:720
+msgid "Login and bind"
+msgstr "登录并绑定"
+
+#: includes/social-login.php:728
+msgid "Register a new account"
+msgstr "没有帐户，我是新用户"
+
+#: includes/social-login.php:731
+msgid "Register"
+msgstr "点击立即登录"
+
+#: templates/account.php:40
+msgid "Updated successfully."
+msgstr "更新成功"
+
+#: templates/comment.php:10
+msgid "1 second ago"
+msgstr "1秒前"
+
+#: templates/comment.php:23
+#, php-format
+msgid "%s day ago"
+msgid_plural "%s days ago"
+msgstr[0] "%s天前"
+msgstr[1] "%s天前"
+
+#: templates/comment.php:24
+#, php-format
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] "%s小时前"
+msgstr[1] "%s小时前"
+
+#: templates/comment.php:25
+#, php-format
+msgid "%s minute ago"
+msgid_plural "%s minutes ago"
+msgstr[0] "%s分钟前"
+msgstr[1] "%s分钟前"
+
+#: templates/comment.php:26
+#, php-format
+msgid "%s second ago"
+msgid_plural "%s seconds ago"
+msgstr[0] "%s秒前"
+msgstr[1] "%s秒前"
+
+#: templates/comment.php:32
+#, php-format
+msgid "On <a target=\"_blank\" href=\"%1$s\">%2$s</a>"
+msgstr " 评论于 <a target=\"_blank\" href=\"%1$s\">%2$s</a>"
+
+#: templates/login.php:20
+msgid "No account?"
+msgstr "还没有帐号？"
+
+#: templates/login.php:20
+msgid "Create one!"
+msgstr "立即注册"
+
+#: templates/login.php:29
+msgid "Sign in with"
+msgstr "第三方帐号登录"
+
+#: templates/lostpassword.php:5
+msgid "STEP 1"
+msgstr "填写帐号"
+
+#: templates/lostpassword.php:6
+msgid "STEP 2"
+msgstr "身份验证"
+
+#: templates/lostpassword.php:7
+msgid "STEP 3"
+msgstr "设置密码"
+
+#: templates/lostpassword.php:8
+msgid "STEP 4"
+msgstr "完成"
+
+#: templates/profile.php:26
+msgid "Change cover"
+msgstr "修改封面"
+
+#: templates/register.php:20
+msgid "Sign Up"
+msgstr "注册"
+
+#: templates/register.php:21
+msgid "Already have an account?"
+msgstr "已经有帐号？"
+
+#: templates/register.php:21
+msgctxt "sign"
+msgid "Sign in"
+msgstr "马上登录"
+
+#: templates/register.php:27
+msgid "Sign up with"
+msgstr "简单注册快人一步"
+
+#~ msgid "Groups"
+#~ msgstr "用户分组"
+
+#~ msgid "User Group"
+#~ msgstr "用户分组"
+
+#~ msgid "Search Groups"
+#~ msgstr "查找分组"
+
+#~ msgid "All Groups"
+#~ msgstr "所有用户分组"
+
+#~ msgid "Edit Group"
+#~ msgstr "编辑分组"
+
+#~ msgid "Update Group"
+#~ msgstr "更新分组"
+
+#~ msgid "Add Group"
+#~ msgstr "添加新用户分组"
+
+#~ msgid "No Group"
+#~ msgstr "暂无用户分组"
+
+#~ msgid "Users"
+#~ msgstr "用户数"
+
+#~ msgid "Select Group"
+#~ msgstr "选择分组"
+
+#~ msgid "Group"
+#~ msgstr "用户分组"
+
+#~ msgid "Change"
+#~ msgstr "更改"
+
+#~ msgid "User Groups"
+#~ msgstr "用户分组"
+
+#~ msgid "Filter"
+#~ msgstr "筛选"
+
+#~ msgid "Failed to send"
+#~ msgstr "发送失败"
+
+#~ msgid "Send success"
+#~ msgstr "发送成功"
+
+#~ msgid "Failed to send email"
+#~ msgstr "邮件发送失败"
+
+#~ msgctxt "placeholder"
+#~ msgid "Phone number"
+#~ msgstr "请输入手机号码"
+
+#~ msgid "Messages"
+#~ msgstr "我的私信"
+
+#~ msgid "Notifications"
+#~ msgstr "系统通知"
+
+#~ msgctxt "list"
+#~ msgid "Notifications"
+#~ msgstr "系统通知"
+
+#~ msgid "Search notifications"
+#~ msgstr "搜索通知"
+
+#~ msgid "Following"
+#~ msgstr "Ta关注的人"
+
+#~ msgid "Followers"
+#~ msgstr "关注Ta的人"
+
+#~ msgid "You have not followed any users."
+#~ msgstr "您还没有关注任何用户。"
+
+#~ msgid "This user has not followed any users."
+#~ msgstr "该用户还没有关注任何用户。"
+
+#~ msgid "Loading..."
+#~ msgstr "加载中…"
+
+#~ msgid "You have not been followed by any users."
+#~ msgstr "您还没有被任何粉丝关注。"
+
+#~ msgid "This user has not been followed by any users."
+#~ msgstr "该用户还没有被任何粉丝关注。"
+
+#~ msgid "Log in with SMS"
+#~ msgstr "手机快捷登录"
+
+#~ msgid "Log in with username"
+#~ msgstr "账号密码登录"
+
+#~ msgid "Go back to home"
+#~ msgstr "返回首页"
+
+#~ msgid "Image"
+#~ msgstr "图片"
+
+#~ msgid "Have not sent or received private messages"
+#~ msgstr "暂未发送或收到私信"
+
+#~ msgid "No notification"
+#~ msgstr "暂无系统通知"
+
+#~ msgctxt "qapress"
+#~ msgid "Delete"
+#~ msgstr "删除"
+
+#~ msgctxt "qapress comment"
+#~ msgid "No comments"
+#~ msgstr "暂无回复"
+
+#~ msgctxt "qapress"
+#~ msgid "No comments"
+#~ msgstr "暂无评论"
+
+#~ msgctxt "qapress"
+#~ msgid "Add comment"
+#~ msgstr "我来回复"
+
+#~ msgctxt "qapress"
+#~ msgid "Submit"
+#~ msgstr "发布"
+
+#~ msgctxt "qapress"
+#~ msgid "Loading..."
+#~ msgstr "正在加载..."
+
+#~ msgctxt "qapress"
+#~ msgid "Parameter error, please try again later"
+#~ msgstr "参数错误，请重试"
+
+#~ msgctxt "qapress"
+#~ msgid "Request failed, please try again later"
+#~ msgstr "请求失败，请稍后再试！"
+
+#~ msgctxt "qapress comment"
+#~ msgid ""
+#~ "The delete action cannot be restored, are you sure you want to delete it?"
+#~ msgstr "删除操作无法恢复，并将同时删除当前回复的评论信息，您确定要删除吗？"
+
+#~ msgctxt "qapress"
+#~ msgid ""
+#~ "The delete action cannot be restored, are you sure you want to delete it?"
+#~ msgstr "删除操作无法恢复，您确定要删除吗？"
+
+#~ msgctxt "qapress question"
+#~ msgid ""
+#~ "The delete action cannot be restored, are you sure you want to delete it?"
+#~ msgstr ""
+#~ "删除操作无法恢复，并将同时删除当前问题的回复评论信息，您确定要删除吗？"
+
+#~ msgctxt "qapress"
+#~ msgid "Deleting..."
+#~ msgstr "正在删除..."
+
+#~ msgctxt "qapress"
+#~ msgid "Success!"
+#~ msgstr "操作成功！"
+
+#~ msgctxt "qapress"
+#~ msgid "Permission denied!"
+#~ msgstr "无操作权限！"
+
+#~ msgctxt "qapress"
+#~ msgid "Delete error, please try again later"
+#~ msgstr "操作异常，请稍后再试！"
+
+#~ msgctxt "qapress"
+#~ msgid "Comment content cannot be empty"
+#~ msgstr "内容不能为空"
+
+#~ msgctxt "qapress"
+#~ msgid "Submitting..."
+#~ msgstr "正在提交..."
+
+#~ msgctxt "qapress"
+#~ msgid "Submit successfully!"
+#~ msgstr "提交成功！"
+
+#~ msgctxt "qapress, 0 comment"
+#~ msgid "No comments"
+#~ msgstr "0条评论"
+
+#~ msgctxt "qapress"
+#~ msgid "Sorry, you need to login first"
+#~ msgstr "抱歉，您需要登录才能进行回复"
+
+#~ msgctxt "qapress"
+#~ msgid "Submission failed, please try again later"
+#~ msgstr "提交失败，请稍后再试！"
+
+#~ msgctxt "qapress"
+#~ msgid "Please enter your title"
+#~ msgstr "请输入标题"
+
+#~ msgctxt "qapress"
+#~ msgid "Please select your category"
+#~ msgstr "请选择分类"
+
+#~ msgctxt "qapress"
+#~ msgid "Please enter your content"
+#~ msgstr "请输入内容"
+
+#~ msgctxt "qapress"
+#~ msgid "Updated successfully!"
+#~ msgstr "更新成功！"
+
+#~ msgctxt "qapress"
+#~ msgid "The question was posted successfully!"
+#~ msgstr "发布成功！"
+
+#~ msgctxt "qapress"
+#~ msgid "Title, category and content cannot be empty"
+#~ msgstr "标题、分类和内容不能为空"
+
+#~ msgctxt "qapress"
+#~ msgid "The content length cannot be less than 10 characters"
+#~ msgstr "内容长度不能少于10个字符"
+
+#~ msgctxt "qapress"
+#~ msgid "Comments are all loaded"
+#~ msgstr "回复已经全部加载"
+
+#~ msgctxt "qapress"
+#~ msgid "Load failed, please try again later"
+#~ msgstr "加载失败，请稍后再试！"
+
+#~ msgctxt "qapress"
+#~ msgid "Load more"
+#~ msgstr "点击加载更多"
+
+#~ msgctxt "qapress"
+#~ msgid "Are you sure to set the current question as approved?"
+#~ msgstr "确定要将当前问题设置为审核通过吗？"
+
+#~ msgctxt "qapress"
+#~ msgid "- END -"
+#~ msgstr "已经到底了"
+
+#~ msgctxt "qapress"
+#~ msgid "Image upload error, please try again later!"
+#~ msgstr "图片上传出错，请稍后再试！"
+
+#~ msgctxt "qapress"
+#~ msgid "Only support jpg, png, gif file types"
+#~ msgstr "仅支持上传jpg、png、gif格式的图片文件"
+
+#~ msgctxt "qapress"
+#~ msgid "Image size cannot exceed %sM"
+#~ msgstr "图片大小不能超过%sM"
+
+#~ msgctxt "qapress"
+#~ msgid "Uploading..."
+#~ msgstr "正在上传..."
+
+#~ msgctxt "qapress"
+#~ msgid "Insert Image"
+#~ msgstr "插入图片"
+
+#~ msgid "%s year ago"
+#~ msgid_plural "%s years ago"
+#~ msgstr[0] "%s年前"
+#~ msgstr[1] "%s年前"
+
+#~ msgid "%s month ago"
+#~ msgid_plural "%s months ago"
+#~ msgstr[0] "%s个月前"
+#~ msgstr[1] "%s个月前"
+
+#~ msgid "%s week ago"
+#~ msgid_plural "%s weeks ago"
+#~ msgstr[0] "%s周前"
+#~ msgstr[1] "%s周前"
+
+#~ msgid "%s min ago"
+#~ msgid_plural "%s mins ago"
+#~ msgstr[0] "%s分钟前"
+#~ msgstr[1] "%s分钟前"
+
+#~ msgid "Page %s"
+#~ msgstr "第%s页"
+
+#~ msgid "Dear User,"
+#~ msgstr "亲爱的用户，您好！"
+
+#~ msgid "Q&A"
+#~ msgstr "问答"
+
+#~ msgid "Questions"
+#~ msgstr "问题"
+
+#~ msgid "Answers"
+#~ msgstr "回答"
+
+#~ msgid "You have not created any questions."
+#~ msgstr "你还没有发布任何问题。"
+
+#~ msgid "This user has not created any questions."
+#~ msgstr "该用户还没有发布任何问题。"
+
+#~ msgid "answered"
+#~ msgstr "回答"
+
+#~ msgid "(Filtered content)"
+#~ msgstr "（过滤内容）"
+
+#~ msgid "You have not answered any questions."
+#~ msgstr "你还没有回答任何问题。"
+
+#~ msgid "This user has not answered any questions."
+#~ msgstr "该用户还没有回答任何问题。"
+
+#~ msgid "You do not have permission to access this page"
+#~ msgstr "您没有访问该页面的权限"
+
+#~ msgid "Title: "
+#~ msgstr "标题："
+
+#~ msgid "Please enter your title"
+#~ msgstr "请输入标题"
+
+#~ msgid "Category: "
+#~ msgstr "分类："
+
+#~ msgid "-- Select --"
+#~ msgstr "--请选择--"
+
+#~ msgctxt "qapress"
+#~ msgid "Reply"
+#~ msgstr "评论"
+
+#~ msgid "Upvote"
+#~ msgstr "赞同"
+
+#~ msgid "Upvote %s"
+#~ msgstr "赞同 %s"
+
+#~ msgid "Downvote"
+#~ msgstr "反对"
+
+#~ msgid "%s comment"
+#~ msgid_plural "%s comments"
+#~ msgstr[0] "%s条评论"
+#~ msgstr[1] "%s条评论"
+
+#~ msgctxt "qapress"
+#~ msgid "TOP"
+#~ msgstr "置顶"
+
+#~ msgid "Last reply from "
+#~ msgstr "最后回复来自 "
+
+#~ msgctxt "qapress"
+#~ msgid "All"
+#~ msgstr "全部"
+
+#~ msgctxt "qapress"
+#~ msgid "Question list is empty"
+#~ msgstr "暂无问答内容"
+
+#~ msgctxt "qapress"
+#~ msgid "Approve"
+#~ msgstr "审核通过"
+
+#~ msgctxt "qapress"
+#~ msgid "Edit"
+#~ msgstr "编辑"
+
+#~ msgctxt "qapress"
+#~ msgid "UN-sticky"
+#~ msgstr "取消置顶"
+
+#~ msgctxt "qapress"
+#~ msgid "Sticky"
+#~ msgstr "置顶"
+
+#~ msgctxt "qapress"
+#~ msgid "Comments"
+#~ msgstr "回复"
+
+#~ msgctxt "qapress"
+#~ msgid "%s comment"
+#~ msgid_plural "%s comments"
+#~ msgstr[0] "共%s条回复"
+#~ msgstr[1] "共%s条回复"
+
+#~ msgctxt "qapress"
+#~ msgid "Comment list is empty"
+#~ msgstr "暂无回复内容"
+
+#~ msgctxt "qapress comment"
+#~ msgid "Submit"
+#~ msgstr "提交"
+
+#~ msgctxt "qapress"
+#~ msgid ""
+#~ "Please <a href=\"%s\">login</a> or <a href=\"%s\">register</a> to add "
+#~ "comment."
+#~ msgstr "请 <a href=\"%s\">登录</a> 或者 <a href=\"%s\">注册</a> 后回复。"
+
+#~ msgid "&laquo; Previous"
+#~ msgstr "&laquo; 上一页"
+
+#~ msgid "Next &raquo;"
+#~ msgstr "下一页 &raquo;"
+
+#~ msgctxt "qapress"
+#~ msgid "Published on"
+#~ msgstr "发布于"
+
+#~ msgctxt "qapress"
+#~ msgid "Category: "
+#~ msgstr "分类："
+
+#~ msgctxt "qapress"
+#~ msgid "Image size cannot exceed 2M"
+#~ msgstr "图片大小不能超过2M"
+
+#~ msgctxt "qapress"
+#~ msgid "no comments"
+#~ msgstr "0条评论"
+
+#~ msgid "no comments"
+#~ msgstr "0条评论"
+
+#~ msgid "Please enter you title"
+#~ msgstr "请输入标题"
+
+#~ msgid "Load more"
+#~ msgstr "点击加载更多"
+
+#~ msgid "Read more..."
+#~ msgstr "阅读更多…"
+
+#~ msgid "Mobile Theme"
+#~ msgstr "手机主题"
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "评论正在审核中..."
+
+#~ msgid "404 Page not found!"
+#~ msgstr "404 - 页面未找到"
+
+#~ msgid ""
+#~ "We're sorry, but the page you're looking for may have been moved or "
+#~ "deleted."
+#~ msgstr "抱歉，您访问的页面不存在或者已经删除。"
+
+#~ msgid "Go home"
+#~ msgstr "返回首页"
+
+#~ msgid "Comments(%s)"
+#~ msgstr "评论列表（%s条）"
+
+#~ msgid "Name: "
+#~ msgstr "昵称："
+
+#~ msgid "Email: "
+#~ msgstr "邮箱："
+
+#~ msgid "STICKY"
+#~ msgstr "置顶"
+
+#~ msgid "Search here ..."
+#~ msgstr "请输入关键词搜索..."
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search terms. Please try again with some "
+#~ "different keywords."
+#~ msgstr "抱歉，你搜索的内容未找到，请尝试使用其他关键词搜索。"
+
+#~ msgid "%s views"
+#~ msgstr "阅读 %s"
+
+#~ msgid "Related Posts"
+#~ msgstr "猜你喜欢"
+
+#~ msgid "Please type your keyword(s) to search."
+#~ msgstr "请输入关键词后再进行搜索。"
+
+#~ msgid "%s"
+#~ msgstr "<span>%s</span> 相关的文章"
+
+#~ msgid "Daily Archives: %s"
+#~ msgstr "按时间归档：%s"
+
+#~ msgid "Monthly Archives: %s"
+#~ msgstr "按时间归档：%s"
+
+#~ msgid "F Y"
+#~ msgstr "Y年m月"
+
+#~ msgid "Yearly Archives: %s"
+#~ msgstr "按时间归档：%s"
+
+#~ msgid "Y"
+#~ msgstr "Y年"
+
+#~ msgid "Contact Us"
+#~ msgstr "联系我们"
+
+#~ msgid "Favorites"
+#~ msgstr "喜欢"
+
+#~ msgid "This user has no favorite posts."
+#~ msgstr "该用户还没有喜欢的文章。"
+
+#~ msgid "Add post"
+#~ msgstr "投稿"
+
+#~ msgctxt "topic"
+#~ msgid "Read More"
+#~ msgstr "进入专题"
+
+#~ msgid "Type your search here ..."
+#~ msgstr "输入关键词搜索..."
+
+#~ msgid "All Topics"
+#~ msgstr "全部专题"
+
+#~ msgid "Latest Posts"
+#~ msgstr "最新文章"
+
+#~ msgid "Load more topics"
+#~ msgstr "点击加载更多"
+
+#~ msgid "None"
+#~ msgstr "无"
+
+#~ msgid "Search for: %s"
+#~ msgstr "搜索：%s"
+
+#~ msgid "Like"
+#~ msgstr "赞"
+
+#~ msgid "Related posts"
+#~ msgstr "相关文章"
+
+#~ msgid "No posts."
+#~ msgstr "暂无内容"
+
+#~ msgid "Home"
+#~ msgstr "首页"
+
+#~ msgid "404 ERROR"
+#~ msgstr "404错误"
+
+#~ msgid "Paged %s"
+#~ msgstr "第%s页"
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "安装插件"
+
+#~ msgid "Install Plugins"
+#~ msgstr "安装插件"
+
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "正在安装：%s"
+
+#~ msgid "Updating Plugin: %s"
+#~ msgstr "正在升级: %s"
+
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "插件接口出错"
+
+#~ msgid "This theme requires the following plugin: %1$s."
+#~ msgid_plural "This theme requires the following plugins: %1$s."
+#~ msgstr[0] "主题依赖插件：%1$s"
+#~ msgstr[1] "主题依赖插件：%1$s"
+
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgid_plural "This theme recommends the following plugins: %1$s."
+#~ msgstr[0] "主题推荐插件：%1$s"
+#~ msgstr[1] "主题推荐插件：%1$s"
+
+#~ msgid ""
+#~ "The following plugin needs to be updated to its latest version to ensure "
+#~ "maximum compatibility with this theme: %1$s."
+#~ msgid_plural ""
+#~ "The following plugins need to be updated to their latest version to "
+#~ "ensure maximum compatibility with this theme: %1$s."
+#~ msgstr[0] "以下插件需要更新至新版才能保证与主题的兼容性：%1$s"
+#~ msgstr[1] "以下插件需要更新至新版才能保证与主题的兼容性：%1$s"
+
+#~ msgid "There is an update available for: %1$s."
+#~ msgid_plural "There are updates available for the following plugins: %1$s."
+#~ msgstr[0] "插件有更新：%1$s"
+#~ msgstr[1] "插件有更新：%1$s"
+
+#~ msgid "The following required plugin is currently inactive: %1$s."
+#~ msgid_plural "The following required plugins are currently inactive: %1$s."
+#~ msgstr[0] "依赖插件未启用：%1$s"
+#~ msgstr[1] "依赖插件未启用：%1$s"
+
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgid_plural ""
+#~ "The following recommended plugins are currently inactive: %1$s."
+#~ msgstr[0] "推荐插件未启用：%1$s"
+#~ msgstr[1] "推荐插件未启用：%1$s"
+
+#~ msgid "Begin installing plugin"
+#~ msgid_plural "Begin installing plugins"
+#~ msgstr[0] "现在安装"
+#~ msgstr[1] "现在安装"
+
+#~ msgid "Begin updating plugin"
+#~ msgid_plural "Begin updating plugins"
+#~ msgstr[0] "现在更新"
+#~ msgstr[1] "现在更新"
+
+#~ msgid "Begin activating plugin"
+#~ msgid_plural "Begin activating plugins"
+#~ msgstr[0] "现在启用"
+#~ msgstr[1] "现在启用"
+
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "返回依赖插件列表"
+
+#~ msgid "Return to the Dashboard"
+#~ msgstr "返回仪表盘"
+
+#~ msgid "Plugin activated successfully."
+#~ msgstr "插件启用成功"
+
+#~ msgid "The following plugin was activated successfully:"
+#~ msgid_plural "The following plugins were activated successfully:"
+#~ msgstr[0] "已成功安装插件："
+#~ msgstr[1] "已成功安装插件："
+
+#~ msgid "No action taken. Plugin %1$s was already active."
+#~ msgstr "插件 %1$s 已经是启用状态哦"
+
+#~ msgid ""
+#~ "Plugin not activated. A higher version of %s is needed for this theme. "
+#~ "Please update the plugin."
+#~ msgstr "启用失败，主题需要 %s 以上版本，请先升级插件。"
+
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "所有插件都已安装并启用。%1$s"
+
+#~ msgid "Dismiss this notice"
+#~ msgstr "关闭提示"
+
+#~ msgid "Please contact the administrator of this site for help."
+#~ msgstr "请联系客服人员获得帮助"
+
+#~ msgid "This plugin needs to be updated to be compatible with your theme."
+#~ msgstr "插件需要更新才能兼容当前主题"
+
+#~ msgid "Update Required"
+#~ msgstr "更新依赖插件"
+
+#~ msgctxt "plugin A *and* plugin B"
+#~ msgid "and"
+#~ msgstr "、"
+
+#~ msgid "TGMPA v%s"
+#~ msgstr "%s"
+
+#~ msgid "Required"
+#~ msgstr "依赖"
+
+#~ msgid "Recommended"
+#~ msgstr "选用"
+
+#~ msgid "WordPress Repository"
+#~ msgstr "官方插件库"
+
+#~ msgid "External Source"
+#~ msgstr "远程文件"
+
+#~ msgid "Pre-Packaged"
+#~ msgstr "主题内置"
+
+#~ msgid "Not Installed"
+#~ msgstr "未安装"
+
+#~ msgid "Installed But Not Activated"
+#~ msgstr "安装未启用"
+
+#~ msgid "Active"
+#~ msgstr "启用"
+
+#~ msgid "Required Update not Available"
+#~ msgstr "需要更新才能启用"
+
+#~ msgid "Requires Update"
+#~ msgstr "有更新"
+
+#~ msgid "Update recommended"
+#~ msgstr "推荐更新"
+
+#~ msgctxt "plugins"
+#~ msgid "All <span class=\"count\">(%s)</span>"
+#~ msgid_plural "All <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "全部 <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "全部 <span class=\"count\">(%s)</span>"
+
+#~ msgid "To Install <span class=\"count\">(%s)</span>"
+#~ msgid_plural "To Install <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "未安装 <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "未安装 <span class=\"count\">(%s)</span>"
+
+#~ msgid "Update Available <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "可更新 <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "可更新 <span class=\"count\">(%s)</span>"
+
+#~ msgid "To Activate <span class=\"count\">(%s)</span>"
+#~ msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "未启用 <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "未启用 <span class=\"count\">(%s)</span>"
+
+#~ msgctxt "as in: \"version nr unknown\""
+#~ msgid "unknown"
+#~ msgstr "未知"
+
+#~ msgid "Installed version:"
+#~ msgstr "已安装版本："
+
+#~ msgid "Minimum required version:"
+#~ msgstr "最低要求版本："
+
+#~ msgid "Available version:"
+#~ msgstr "可更新版本："
+
+#~ msgid "No plugins to install, update or activate."
+#~ msgstr "暂无插件需要安装、更新和激活。"
+
+#~ msgid "Plugin"
+#~ msgstr "插件"
+
+#~ msgid "Source"
+#~ msgstr "资源"
+
+#~ msgid "Type"
+#~ msgstr "类型"
+
+#~ msgid "Version"
+#~ msgstr "版本"
+
+#~ msgid "Status"
+#~ msgstr "状态"
+
+#~ msgid "Install %2$s"
+#~ msgstr "安装 %2$s"
+
+#~ msgid "Update %2$s"
+#~ msgstr "更新 %2$s"
+
+#~ msgid "Activate %2$s"
+#~ msgstr "启用 %2$s"
+
+#~ msgid "Upgrade message from the plugin author:"
+#~ msgstr "插件更新信息："
+
+#~ msgid "Install"
+#~ msgstr "安装"
+
+#~ msgid "Update"
+#~ msgstr "更新"
+
+#~ msgid "Activate"
+#~ msgstr "启用"
+
+#~ msgid "No plugins were selected to be installed. No action taken."
+#~ msgstr "请选择要安装的插件"
+
+#~ msgid "No plugins were selected to be updated. No action taken."
+#~ msgstr "请选择要更新的插件"
+
+#~ msgid "No plugins are available to be installed at this time."
+#~ msgstr "当前没有可安装的插件"
+
+#~ msgid "No plugins are available to be updated at this time."
+#~ msgstr "当前没有可更新的插件"
+
+#~ msgid "No plugins were selected to be activated. No action taken."
+#~ msgstr "请选择要启用的插件"
+
+#~ msgid "No plugins are available to be activated at this time."
+#~ msgstr "当前没有可启用的插件"
+
+#~ msgid "Plugin activation failed."
+#~ msgstr "启用失败"
+
+#~ msgid "Updating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "更新插件 %1$s (%2$d/%3$d)"
+
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr "安装插件 %1$s 出错：<strong>%2$s</strong>"
+
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "安装 %1$s 失败"
+
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+#~ msgstr "正在安装和启用，安装时间会受服务器网络情况影响，请耐心等待。"
+
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s 安装启用成功"
+
+#~ msgid "Show Details"
+#~ msgstr "显示详情"
+
+#~ msgid "Hide Details"
+#~ msgstr "隐藏详情"
+
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "所有安装和启用都已完成。"
+
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "安装和启用插件 %1$s (%2$d/%3$d)"
+
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr "正在安装，安装时间会受服务器网络情况影响，请耐心等待。"
+
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s 安装成功"
+
+#~ msgid "All installations have been completed."
+#~ msgstr "所有安装都已完成。"
+
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "安装插件 %1$s (%2$d/%3$d)"
+
+#~ msgid "QQ"
+#~ msgstr "腾讯QQ"
+
+#~ msgid "Sina Weibo"
+#~ msgstr "新浪微博"
+
+#~ msgid "WeChat"
+#~ msgstr "微信"
+
+#~ msgid "Reviews (%d)"
+#~ msgstr "用户评价(%d)"
+
+#~ msgid "Name"
+#~ msgstr "姓名"
+
+#~ msgid "Address"
+#~ msgstr "详细地址"
+
+#~ msgid "Province"
+#~ msgstr "省份"
+
+#~ msgid "City"
+#~ msgstr "城市"
+
+#~ msgid "Title:"
+#~ msgstr "标题："
+
+#~ msgid "Posts number:"
+#~ msgstr "显示数量："
+
+#~ msgid "Category:"
+#~ msgstr "分类："
+
+#~ msgid "No products in the cart."
+#~ msgstr "您的购物车目前是空的"
+
+#~ msgid "Billing details"
+#~ msgstr "订单信息"
+
+#~ msgid "Click here to enter your code"
+#~ msgstr "点击输入优惠码"
+
+#~ msgid "No products were found matching your selection."
+#~ msgstr "没有找到符合要求的产品"
+
+#~ msgid "Showing the single result"
+#~ msgid_plural "Showing all %d results"
+#~ msgstr[0] "共1件商品"
+#~ msgstr[1] "共%d件商品"
+
+#~ msgctxt "with first and last result"
+#~ msgid "Showing the single result"
+#~ msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+#~ msgstr[0] "共1件商品"
+#~ msgstr[1] "共%3$d件商品，本页显示第%1$d-%2$d件"
+
+#~ msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Sign out</a>)"
+#~ msgstr "您好，%1$s！（不是 %1$s？ <a href=\"%2$s\">退出登录</a>）"
+
+#~ msgid ""
+#~ "From your account dashboard you can view your <a href=\"%1$s\">recent "
+#~ "orders</a>, manage your <a href=\"%2$s\">shipping addresses</a> and <a "
+#~ "href=\"%3$s\">edit your password and account details</a>."
+#~ msgstr ""
+#~ "在当前页面，您可以查看 <a href=\"%1$s\">最近的订单</a>，或者管理您的 <a "
+#~ "href=\"%2$s\">配送地址</a> ，如需修改账户信息，可以点击<a href=\"%3$s\">修"
+#~ "改您的密码和账户详情</a>。"
+
+#~ msgid "Billing address"
+#~ msgstr "订单地址"
+
+#~ msgctxt "orders"
+#~ msgid "Previous"
+#~ msgstr "上一页"
+
+#~ msgctxt "orders"
+#~ msgid "Next"
+#~ msgstr "下一页"
+
+#~ msgid "There are no reviews yet."
+#~ msgstr "暂无评价内容。"
+
+#~ msgid "Add a review"
+#~ msgstr "添加评价"
+
+#~ msgid "Be the first to review &ldquo;%s&rdquo;"
+#~ msgstr "成为第一个评价&ldquo;%s&rdquo;的人"
+
+#~ msgid "Leave a Reply to %s"
+#~ msgstr "回复 %s"
+
+#~ msgid ""
+#~ "Only logged in customers who have purchased this product may leave a "
+#~ "review."
+#~ msgstr "购买过此产品并已登录的客户才可评价。"
+
+#~ msgid "%s customer review"
+#~ msgid_plural "%s customer reviews"
+#~ msgstr[0] "%s个评价"
+#~ msgstr[1] "%s个评价"
+
+#~ msgid "Related products"
+#~ msgstr "相关产品"
+
+#~ msgid "Your cart is currently empty."
+#~ msgstr "您的购物车目前是空的"
+
+#~ msgid "Shipping address"
+#~ msgstr "配送地址"
+
+#~ msgid "All"
+#~ msgstr "全部"
+
+#~ msgid "Read more"
+#~ msgstr "查看更多"
+
+#~ msgid "Links: "
+#~ msgstr "友情链接："
+
+#~ msgid "<i class=\"fa fa-tags\"></i> Tags: "
+#~ msgstr "<i class=\"fa fa-tags\"></i> 标签："
+
+#~ msgctxt "news"
+#~ msgid "Previous: %link"
+#~ msgstr "上一篇：%link"
+
+#~ msgctxt "news"
+#~ msgid "Next: %link"
+#~ msgstr "下一篇：%link"
+
+#~ msgctxt "product"
+#~ msgid "Previous: %link"
+#~ msgstr "上一个：%link"
+
+#~ msgctxt "product"
+#~ msgid "Next: %link"
+#~ msgstr "下一个：%link"
+
+#~ msgid "Read More &raquo;"
+#~ msgstr "阅读更多&raquo;"
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugins."
+#~ msgstr[0] "抱歉，你没有权限安装插件 %1$s"
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugins."
+#~ msgstr[0] "抱歉，你没有权限更新插件 %1$s"
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugins."
+#~ msgstr[0] "抱歉，你没有权限启用插件 %1$s"
+
+#~ msgid "Return to the dashboard"
+#~ msgstr "返回仪表盘"
+
+#~ msgctxt "%s = version number"
+#~ msgid "TGMPA v%s"
+#~ msgstr "工具版本：v%s"
+
+#~ msgid ""
+#~ "No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+#~ "Dashboard</a>"
+#~ msgstr "没有插件需要安装、更新或者启用。点击<a href=\"%1$s\">返回仪表盘</a>"
+
+#~ msgctxt "%2$s = plugin name in screen reader markup"
+#~ msgid "Install %2$s"
+#~ msgstr "安装%2$s"
+
+#~ msgctxt "%2$s = plugin name in screen reader markup"
+#~ msgid "Update %2$s"
+#~ msgstr "更新 %2$s"
+
+#~ msgctxt "%2$s = plugin name in screen reader markup"
+#~ msgid "Activate %2$s"
+#~ msgstr "启用 %2$s"
+
+#~ msgid "More &raquo;"
+#~ msgstr "更多 &raquo;"
+
+#~ msgid "d/m/Y"
+#~ msgstr "Y-m-d"
+
+#~ msgid "HOTLINE"
+#~ msgstr "客服电话"
+
+#~ msgid "There is no excerpt because this is a protected post."
+#~ msgstr "无法获取摘要信息，因为这是一个受保护的文章。"
+
+#~ msgid "Previous post: %link"
+#~ msgstr "上一篇：%link"
+
+#~ msgid "Next post: %link"
+#~ msgstr "下一篇：%link"
+
+#~ msgctxt "This theme requires the following plugins: %1$s."
+#~ msgid "This theme requires the following plugin: %1$s."
+#~ msgstr "当前主题依赖的插件：%1$s"
+
+#~ msgctxt "This theme recommends the following plugins: %1$s."
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgstr "当前主题推荐的插件：%1$s"
+
+#~ msgctxt ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugins."
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugin."
+#~ msgstr "抱歉，你没有权限安装插件 %1$s"
+
+#~ msgctxt ""
+#~ "The following plugins need to be updated to their latest version to "
+#~ "ensure maximum compatibility with this theme: %1$s."
+#~ msgid ""
+#~ "The following plugin needs to be updated to its latest version to ensure "
+#~ "maximum compatibility with this theme: %1$s."
+#~ msgstr "以下插件需要升级至最新版本才能保证与主题的兼容性：%1$s"
+
+#~ msgctxt "There are updates available for the following plugins: %1$s."
+#~ msgid "There is an update available for: %1$s."
+#~ msgstr "插件有更新：%1$s"
+
+#~ msgctxt ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugins."
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugin."
+#~ msgstr "抱歉，你没有权限更新插件 %1$s"
+
+#~ msgctxt "The following required plugins are currently inactive: %1$s."
+#~ msgid "The following required plugin is currently inactive: %1$s."
+#~ msgstr "以下依赖插件未启用：%1$s"
+
+#~ msgctxt "The following recommended plugins are currently inactive: %1$s."
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgstr "以下推荐插件未启用：%1$s"
+
+#~ msgctxt ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugins."
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugin."
+#~ msgstr "抱歉，你没有权限启用插件 %1$s"
+
+#~ msgctxt "Begin installing plugins"
+#~ msgid "Begin installing plugin"
+#~ msgstr "开始安装插件"
+
+#~ msgctxt "Begin updating plugins"
+#~ msgid "Begin updating plugin"
+#~ msgstr "开始更新插件"
+
+#~ msgctxt "Begin activating plugins"
+#~ msgid "Begin activating plugin"
+#~ msgstr "开始启用插件"
+
+#~ msgid "No result for '%s'"
+#~ msgstr "抱歉，未找到与“%s”相关的内容。"

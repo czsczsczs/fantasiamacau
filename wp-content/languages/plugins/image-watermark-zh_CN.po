@@ -1,0 +1,469 @@
+# Translation of Plugins - Image Watermark - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Image Watermark - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-23 06:33:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Image Watermark - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://dfactory.eu/"
+msgstr "https://dfactory.eu/"
+
+#: includes/class-settings.php:582
+msgid "Enter a number ranging from 0 to 100. 100 makes width of watermark image equal to width of the image it is applied to."
+msgstr "输入一个从0到100的数字。100使水印图像的宽度等于应用它的图像的宽度。"
+
+#: includes/class-settings.php:467
+msgid "Enter watermark offset value."
+msgstr "输入水印偏移值。"
+
+#: includes/class-settings.php:451
+msgid "Select the watermark offset unit."
+msgstr "选择水印偏移单位。"
+
+#: includes/class-settings.php:450
+msgid "percentages"
+msgstr "百分比"
+
+#: includes/class-settings.php:449
+msgid "pixels"
+msgstr "像素"
+
+#: includes/class-settings.php:436
+msgid "Select the watermark alignment."
+msgstr "选择水印对齐方式。"
+
+#: includes/class-settings.php:342
+msgid "<strong>IMPORTANT:</strong> checking full size is NOT recommended as it's the original image. You may need it later - for removing or changing watermark, image sizes regeneration or any other image manipulations. Use it only if you know what you are doing."
+msgstr "<strong>重要信息：</strong>建议不要选择全尺寸，因为它是原始图像。您可能稍后需要它-用于删除或更改水印、重新生成图像大小或任何其他图像处理。只有在你知道自己在做什么的情况下才能使用它。"
+
+#: includes/class-settings.php:341
+msgid "Check the image sizes watermark will be applied to."
+msgstr "选择将应用水印的图像尺寸。"
+
+#: includes/class-settings.php:317
+msgid "Enable Apply Watermark option for Media Library images."
+msgstr "为媒体库图像启用“应用水印”选项。"
+
+#: includes/class-settings.php:80
+msgid "Watermark scale"
+msgstr "水印比例"
+
+#: includes/class-settings.php:72
+msgid "Offset unit"
+msgstr "偏移单位"
+
+#: image-watermark.php:723
+msgid "Watermark prevented, this is your selected watermark image"
+msgstr "水印已阻止，这是您选择的水印图像"
+
+#: includes/class-settings.php:735
+msgid "Toggle panel"
+msgstr "切换面板"
+
+#: includes/class-settings.php:692
+msgid "Backup the full size image."
+msgstr "备份完整尺寸的图像。"
+
+#: includes/class-settings.php:94
+msgid "Backup image quality"
+msgstr "备份图像质量"
+
+#: includes/class-settings.php:93
+msgid "Backup full size image"
+msgstr "备份全尺寸图像"
+
+#: image-watermark.php:1212
+msgid "Your uploads folder is not writable so we can't create a backup of your image uploads. We've disabled this feature for now."
+msgstr "您的上传文件夹不可写，因此我们无法创建您上载图像的备份，目前已禁用此功能。"
+
+#: includes/class-settings.php:92 image-watermark.php:1212
+msgid "Image backup"
+msgstr "图像备份"
+
+#: image-watermark.php:489 image-watermark.php:529
+msgid "Cheatin uh?"
+msgstr "开玩笑，哈？！"
+
+#: image-watermark.php:332
+msgid "Dismiss this notice."
+msgstr "忽略此通知。"
+
+#: image-watermark.php:331
+msgid "Bulk action is currently running, please wait."
+msgstr "批量操作正在运行，请稍候。"
+
+#: image-watermark.php:329
+msgid "Watermark was succesfully removed from %s images."
+msgstr "已成功从%s个图像中删除水印。"
+
+#: image-watermark.php:328 image-watermark.php:663
+msgid "Watermark was succesfully removed from 1 image."
+msgid_plural "Watermark was succesfully removed from %s images."
+msgstr[0] "已成功从 %s 张图像中删除水印。"
+
+#: image-watermark.php:327 image-watermark.php:661
+msgid "Watermark could not be removed from selected files or no valid images (JPEG, PNG) were selected."
+msgstr "无法从所选文件中删除水印，或未选择有效图像(JPEG、PNG)。"
+
+#: image-watermark.php:326
+msgid "Watermark was succesfully applied to %s images."
+msgstr "已成功将水印应用于%s个图像。"
+
+#: image-watermark.php:252 image-watermark.php:466
+msgid "Remove watermark"
+msgstr "移除水印"
+
+#: includes/class-settings.php:289
+msgid "Select extension."
+msgstr "选择扩展程序"
+
+#: includes/class-settings.php:60
+msgid "PHP library"
+msgstr "PHP库"
+
+#. Author of the plugin
+msgid "dFactory"
+msgstr "dFactory"
+
+#. Description of the plugin
+msgid "Image Watermark allows you to automatically watermark images uploaded to the WordPress Media Library and bulk watermark previously uploaded images."
+msgstr "图像水印允许您自动为上传到WordPress媒体库的图像添加水印，并为之前上传的图像批量添加水印。"
+
+#. Plugin URI of the plugin
+msgid "https://dfactory.eu/plugins/image-watermark/"
+msgstr "https://dfactory.eu/plugins/image-watermark/"
+
+#: image-watermark.php:1485
+msgid "Settings"
+msgstr "设置"
+
+#: image-watermark.php:1462
+msgid "Support"
+msgstr "支持"
+
+#: includes/class-settings.php:265
+msgid "Watermark will not be applied when no image sizes are selected."
+msgstr "如果未选择图像大小，则不会应用水印。"
+
+#: includes/class-settings.php:262
+msgid "Watermark will not be applied when watermark image is not set."
+msgstr "如果未设置水印图像，则不会应用水印。"
+
+#: includes/class-settings.php:257
+msgid "Settings restored to defaults."
+msgstr "设置已恢复到默认值。"
+
+#: includes/class-settings.php:252
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: includes/class-settings.php:678
+msgid "Enable image protection for logged-in users also"
+msgstr "对登录用户也启用图像保护"
+
+#: includes/class-settings.php:664
+msgid "Prevent drag and drop"
+msgstr "防止拖放"
+
+#: includes/class-settings.php:650
+msgid "Disable right mouse click on images"
+msgstr "禁用鼠标右键点击图片"
+
+#: includes/class-settings.php:637
+msgid "Select baseline or progressive image format."
+msgstr "选择图像格式。"
+
+#: includes/class-settings.php:634
+msgid "progressive"
+msgstr "逐行"
+
+#: includes/class-settings.php:633
+msgid "baseline"
+msgstr "基线"
+
+#: includes/class-settings.php:620 includes/class-settings.php:712
+msgid "Set output image quality."
+msgstr "设置输出的图像质量。"
+
+#: includes/class-settings.php:601
+msgid "Enter a number ranging from 0 to 100. 0 makes watermark image completely transparent, 100 shows it as is."
+msgstr "输入一个数字范围：从0到100。0使得水印图像完全透明，100表示保持原样。"
+
+#: includes/class-settings.php:563
+msgid "Those dimensions will be used if \"custom\" method is selected above."
+msgstr "如果上面选择 \"自定义 \"方法，这些尺寸将被使用。"
+
+#: includes/class-settings.php:546
+msgid "Select method of aplying watermark size."
+msgstr "选择用于确定水印大小的方法。"
+
+#: includes/class-settings.php:544
+msgid "scaled"
+msgstr "缩放"
+
+#: includes/class-settings.php:543
+msgid "custom"
+msgstr "自定义"
+
+#: includes/class-settings.php:542
+msgid "original"
+msgstr "原始"
+
+#: includes/class-settings.php:489
+msgid "You have to save changes after the selection or removal of the image."
+msgstr "您必须选择或清除图像后保存更改。"
+
+#: includes/class-settings.php:488
+msgid "Remove image"
+msgstr "删除图像"
+
+#: includes/class-settings.php:487
+msgid "Select image"
+msgstr "选择图像"
+
+#: includes/class-settings.php:466 includes/class-settings.php:561
+msgid "y:"
+msgstr "y:"
+
+#: includes/class-settings.php:525 includes/class-settings.php:559
+#: includes/class-settings.php:561 image-watermark.php:290
+msgid "px"
+msgstr "像素"
+
+#: includes/class-settings.php:464 includes/class-settings.php:559
+msgid "x:"
+msgstr "x:"
+
+#: includes/class-settings.php:403
+msgid "Delete all database settings on plugin deactivation."
+msgstr "停用插件时删除所有的数据库设置。"
+
+#: includes/class-settings.php:390
+msgid "<br /><strong>Notice:</strong> This functionality works only if uploaded images are processed using WordPress native upload methods."
+msgstr "<br /><strong>注意：</strong>此功能仅在使用WordPress本地上传方法处理上传的图像时才起作用。"
+
+#: includes/class-settings.php:388
+msgid "Enable frontend image uploading. (uploading script is not included, but you may use a plugin or custom code)."
+msgstr "启用前端图片上传。(不包括上传脚本，但您可以使用插件或自定义代码)。"
+
+#: includes/class-settings.php:374
+msgid "Check custom post types on which watermark should be applied to uploaded images."
+msgstr "选择其中的水印应适用于自定义文章类型上传的图片。"
+
+#: includes/class-settings.php:360
+msgid "on selected post types only"
+msgstr "只在选择的文章类型"
+
+#: includes/class-settings.php:359
+msgid "everywhere"
+msgstr "所有位置"
+
+#: includes/class-settings.php:303
+msgid "Enable watermark for uploaded images."
+msgstr "为上传的图片启用水印。"
+
+#: includes/class-settings.php:89
+msgid "Logged-in users"
+msgstr "已登录用户"
+
+#: includes/class-settings.php:88
+msgid "Drag and drop"
+msgstr "拖放"
+
+#: includes/class-settings.php:87
+msgid "Right click"
+msgstr "右键点击"
+
+#: includes/class-settings.php:86
+msgid "Image protection"
+msgstr "图像保护"
+
+#: includes/class-settings.php:83
+msgid "Image format"
+msgstr "图像格式"
+
+#: includes/class-settings.php:82
+msgid "Image quality"
+msgstr "图像质量"
+
+#: includes/class-settings.php:81
+msgid "Watermark transparency / opacity"
+msgstr "水印透明/不透明"
+
+#: includes/class-settings.php:79
+msgid "Watermark custom size"
+msgstr "水印自定义尺寸"
+
+#: includes/class-settings.php:78
+msgid "Watermark size"
+msgstr "水印大小"
+
+#: includes/class-settings.php:77
+msgid "Watermark preview"
+msgstr "水印预览"
+
+#: includes/class-settings.php:75 includes/class-settings.php:76
+msgid "Watermark image"
+msgstr "水印图像"
+
+#: includes/class-settings.php:71
+msgid "Watermark offset"
+msgstr "水印偏移"
+
+#: includes/class-settings.php:70
+msgid "Watermark alignment"
+msgstr "水印对齐方式"
+
+#: includes/class-settings.php:69
+msgid "Watermark position"
+msgstr "水印位置"
+
+#: includes/class-settings.php:66
+msgid "Deactivation"
+msgstr "停用"
+
+#: includes/class-settings.php:65
+msgid "Frontend watermarking"
+msgstr "前端水印"
+
+#: includes/class-settings.php:64
+msgid "Enable watermark for"
+msgstr "启用水印"
+
+#: includes/class-settings.php:63
+msgid "Manual watermarking"
+msgstr "手动添加水印"
+
+#: includes/class-settings.php:62
+msgid "Automatic watermarking"
+msgstr "自动添加水印"
+
+#: includes/class-settings.php:56
+msgid "General settings"
+msgstr "常规设置"
+
+#: includes/class-settings.php:148
+msgid "Reset to defaults"
+msgstr "重置为默认值"
+
+#: includes/class-settings.php:133
+msgid "Created by"
+msgstr "创建者"
+
+#: includes/class-settings.php:130
+msgid "WordPress plugins"
+msgstr "WordPress插件"
+
+#: includes/class-settings.php:130
+msgid "Check out our other"
+msgstr "看看我们的其他"
+
+#: includes/class-settings.php:129
+msgid "plugin page"
+msgstr "插件页面"
+
+#: includes/class-settings.php:129
+msgid "Blog about it & link to the"
+msgstr "在博客添加关于它的链接"
+
+#: includes/class-settings.php:128
+msgid "on WordPress.org"
+msgstr "在 WordPress.org<br>如果你有更多汉化问题请访问逍遥乐汉化：<a href=\"http://www.luoxiao123.cn\">逍遥乐汉化</a>"
+
+#: includes/class-settings.php:128
+msgid "Rate it 5"
+msgstr "评分5"
+
+#: includes/class-settings.php:127
+msgid "Do you like this plugin?"
+msgstr "你喜欢这个插件？"
+
+#: includes/class-settings.php:125
+msgid "Support forum"
+msgstr "支持论坛"
+
+#: includes/class-settings.php:125
+msgid "or talk about them in the"
+msgstr "或者在"
+
+#: includes/class-settings.php:125
+msgid "Documentation"
+msgstr "文档"
+
+#: includes/class-settings.php:125
+msgid "If you are having problems with this plugin, checkout plugin"
+msgstr "如果您在使用此插件时遇到问题，请签出插件"
+
+#: includes/class-settings.php:124
+msgid "Need support?"
+msgstr "需要支持吗？"
+
+#. Plugin Name of the plugin
+#: includes/class-settings.php:116 includes/class-settings.php:122
+#: image-watermark.php:465 image-watermark.php:1212
+msgid "Image Watermark"
+msgstr "图像水印"
+
+#: includes/class-settings.php:102
+msgid "Watermark"
+msgstr "水印"
+
+#: includes/class-settings.php:102
+msgid "Image Watermark Options"
+msgstr "图像水印选项"
+
+#: image-watermark.php:330 image-watermark.php:658 image-watermark.php:663
+msgid "Skipped files"
+msgstr "跳过的文件"
+
+#: image-watermark.php:325 image-watermark.php:658
+msgid "Watermark was succesfully applied to 1 image."
+msgid_plural "Watermark was succesfully applied to %s images."
+msgstr[0] "水印被成功地应用到1个图像。"
+
+#: image-watermark.php:656 image-watermark.php:661
+msgid "Images skipped"
+msgstr "图片已跳过"
+
+#: image-watermark.php:324 image-watermark.php:656
+msgid "Watermark could not be applied to selected files or no valid images (JPEG, PNG) were selected."
+msgstr "水印不能被应用到选定的文件或者没有有效的图像（JPEG，PNG）被选定。"
+
+#: image-watermark.php:646
+msgid "<strong>Image Watermark:</strong> Bulk watermarking is available in list mode only, under <em>Bulk Actions</em> dropdown. <a href=\"%1$s\">Got to List Mode</a> or <a href=\"%2$s\">Hide this notice</a>"
+msgstr "<strong>图片水印：</strong>批量水印仅在列表模式下可用，<em>批量操作</em>下拉列表。<a href=\"%1$s\">进入列表模式</a>或<a href=\"%2$s\">隐藏此通知</a>"
+
+#: image-watermark.php:301
+msgid "Are you sure you want to reset settings to defaults?"
+msgstr "您确定要重置设置为默认值？"
+
+#: image-watermark.php:292
+msgid "Add watermark"
+msgstr "添加水印"
+
+#: image-watermark.php:289
+msgid "This image is not supported as watermark. Use JPEG, PNG or GIF."
+msgstr "此图片是不支持的水印。只能使用JPEG，PNG或GIF格式的图像。"
+
+#: includes/class-settings.php:521 image-watermark.php:288
+msgid "Watermak has not been selected yet."
+msgstr "水印没有被选中。"
+
+#: includes/class-settings.php:525 image-watermark.php:287
+msgid "Original size"
+msgstr "原稿尺寸"
+
+#: image-watermark.php:286
+msgid "Select watermark"
+msgstr "选择水印"
+
+#: image-watermark.php:249 image-watermark.php:466
+msgid "Apply watermark"
+msgstr "添加水印"
